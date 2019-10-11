@@ -52,8 +52,8 @@ layout: default
         <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
         <h3>Sosial Media</h3>
         <ul>
-            {% if site.contact.facebook %}<li><strong>Facebook:</strong> <a style="color:#fff;text-decoration:none" href="https://titter.com/{{ site.contact.facebook }}">{{ site.contact.facebook }}</a></li>{% endif %}
-            {% if site.contact.twitter %}<li><strong>Twitter:</strong> <a style="color:#fff;text-decoration:none" href="https://titter.com/{{ site.contact.twitter }}">{{ site.contact.twitter }}</a></li>{% endif %}
+            {% if site.contact.facebook %}<li><strong>Facebook:</strong> <a style="color:#fff;text-decoration:none" href="{{ site.contact.facebookurl }}">{{ site.contact.facebookname }}</a></li>{% endif %}
+            {% if site.contact.twitter %}<li><strong>Twitter:</strong> <a style="color:#fff;text-decoration:none" href="{{ site.contact.twitterurl }}">{{ site.contact.twittername }}</a></li>{% endif %}
         </ul></div>
     <div class="col-sm-4">
         <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
