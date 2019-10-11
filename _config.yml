@@ -195,6 +195,9 @@ exclude: [
     .gitignore
 ]
 
+scss:
+  style: compressed
+  
 include: [_redirects,.htaccess,_pages]
 
 # Theme Settings
