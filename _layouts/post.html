@@ -10,27 +10,7 @@ layout: default
       <div class="col-lg-8">
 
         <!-- Title -->
-        <h1 class="mt-4">{{ page.title }}</h1>
-
-        <!-- Author -->
-        <p class="lead">
-          by
-          <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-        </p>
-
-        <hr>
-
-        <!-- Date/Time -->
-        <p><span class="meta">Posted by
-          {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
-            </span>
-          </p>
-
-        <hr>
-
-        <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        {% include post-header.html %}
 
         {{ content }}
        
