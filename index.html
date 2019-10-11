@@ -54,7 +54,7 @@ layout: default
         <ul>
             {% if site.contact.facebook %}<li><strong>Facebook:</strong> {{ site.contact.facebook }}</li>{% endif %}
             {% if site.contact.twitter %}<li><strong>Twitter:</strong> {{ site.contact.twitter }}</li>{% endif %}
-        </ul>
+        </ul></div>
     <div class="col-sm-4">
         <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
         <h3>Location</h3>
@@ -127,7 +127,7 @@ layout: default
                     <div class="icon-box">
                         <svg class="icon {{ kategori.icon }}"><use xlink:href="#{{ kategori.icon }}"></use></svg>
                         <h4><a href="{{ kategori.url }}" title="{{ kategori.title }}">{{ kategori.title }}</a></h4>
-                        <p>{{ kategori.description }} (<a href="{{ kategori.url }}" title="Lihat">Lihat</a>) </p>
+                        <p>{{ kategori.description }} </p><p>(<a href="{{ kategori.url }}" title="Lihat">Lihat</a>) </p>
                     </div>
                 </div>
             {% endfor %}
