@@ -24,7 +24,7 @@ authors:
       facebook:       you.w4hyou
 
 collections:
-  page:
+  pages:
     permalink: "/:path/"
     output: true
   posts:
@@ -34,7 +34,7 @@ collections:
 defaults:
 - scope:
     path: _pages
-    type: page
+    type: pages
   values:
     layout: post
     image: twitter-card.png
