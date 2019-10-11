@@ -192,6 +192,7 @@ exclude: [
     .gitignore
 ]
 
+include:[_redirects,.htaccess]
 # Theme Settings
 analytics: 
 google_verification:
