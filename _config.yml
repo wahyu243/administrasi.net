@@ -30,6 +30,14 @@ collections:
 
 defaults:
 - scope:
+    path: _pages
+    type: page
+  values:
+    layout: post
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+- scope:
     path: _posts
     type: posts
   values:
