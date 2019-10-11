@@ -1,0 +1,29 @@
+- icon: icon-user-md
+  title: Artikel
+  description: Dapatkan update artikel terbaru yang ditulis oleh kontributor. 
+  url: /artikel
+
+- icon: icon-diamond
+  title: Berita
+  description: Berisi kumpulan berita terbaru terkait dengan Pendidikan.
+  url: /berita
+
+- icon: icon-flask
+  title: Buku Sekolah Digital
+  description: Download atau baca buku sekolah digital, buku guru, buku siswa dan komik pendidikan. 
+  url: /bsd
+
+- icon: icon-globe
+  title: Tutorial
+  description: Dapatkan informasi atau tutorial terbaru yang akan sangat berguna bagi anda.
+  url: /tutorial
+  
+- icon: icon-quote-left
+  title: Definisi
+  description: Berisi kumpulan definisi atau pengertian berbagai istilah.
+  url: /definisi
+
+- icon: icon-briefcase
+  title: Administrasi
+  description: Lihat dan dapatkan contoh administrasi sekolah, administrasi kelas, ataupun perkantoran.
+  url: /administrasi
