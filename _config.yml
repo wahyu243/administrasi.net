@@ -33,7 +33,7 @@ defaults:
     path: _posts
     type: posts
   values:
-    layout: news_item
+    layout: post
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -41,7 +41,7 @@ defaults:
     path: _posts/buku
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: buku
     image: twitter-card.png
     author: wahyu
@@ -56,7 +56,7 @@ defaults:
     path: _posts/artikel
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: artikel
     image: twitter-card.png
     author: wahyu
@@ -71,7 +71,7 @@ defaults:
     path: _posts/berita
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: berita
     image: twitter-card.png
     author: wahyu
@@ -86,7 +86,7 @@ defaults:
     path: _posts/materi
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: materi
     image: twitter-card.png
     author: wahyu
@@ -101,7 +101,7 @@ defaults:
     path: _posts/soal
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: soal
     image: twitter-card.png
     author: wahyu
@@ -116,7 +116,7 @@ defaults:
     path: _posts/teori
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: teori
     image: twitter-card.png
     author: wahyu
@@ -131,7 +131,7 @@ defaults:
     path: _posts/rpp
     type: posts
   values:
-    layout: news_item
+    layout: post
     category: rpp
     image: twitter-card.png
     author: wahyu
