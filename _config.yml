@@ -11,6 +11,138 @@ hero:
     hero_title: DentistSmile
     hero_description: A responsive Jekyll theme for dental clinics.
 
+authors:
+    artipedia:
+      name:           you
+      slug:           you
+      site:           https://coinsprices.net
+      avatar:         /img/you.png
+      avatarlow:      /img/low/you.jpg
+      bio:            "Hi"
+      email:          wahyu243@gmail.com 
+      twitter:        wahyu37853583
+      facebook:       you.w4hyou
+
+collections:
+  posts:
+    permalink: "/:categories/:title"
+    output: true
+
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: news_item
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+- scope:
+    path: _posts/buku
+    type: posts
+  values:
+    layout: news_item
+    category: buku
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Buku"
+        url: /buku/
+- scope:
+    path: _posts/artikel
+    type: posts
+  values:
+    layout: news_item
+    category: artikel
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Artikel"
+        url: /artikel/
+- scope:
+    path: _posts/berita
+    type: posts
+  values:
+    layout: news_item
+    category: berita
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Berita"
+        url: /berita/
+- scope:
+    path: _posts/materi
+    type: posts
+  values:
+    layout: news_item
+    category: materi
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Materi"
+        url: /materi/
+- scope:
+    path: _posts/soal
+    type: posts
+  values:
+    layout: news_item
+    category: soal
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Soal"
+        url: /soal/
+- scope:
+    path: _posts/teori
+    type: posts
+  values:
+    layout: news_item
+    category: teori
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Teori"
+        url: /teori/
+- scope:
+    path: _posts/rpp
+    type: posts
+  values:
+    layout: news_item
+    category: rpp
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "RPP"
+        url: /rpp/
+
 # Contact form
 api_token: # Enter API token here
 
