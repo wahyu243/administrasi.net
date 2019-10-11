@@ -148,12 +148,11 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
-    facebook: http://facebook.com
-    twitter: http://twitter.com
+    phone: 0812 3446 7773
+    email: wahyu243@gmail.com
+    address: Jl. Sindangsari, <br> Cikoneng - Ciamis
+    facebook: administrasi
+    twitter: administrasi
 
 # Testimonials
 testimonials:
