@@ -127,8 +127,7 @@ layout: default
                     <div class="icon-box">
                         <svg class="icon {{ kategori.icon }}"><use xlink:href="#{{ kategori.icon }}"></use></svg>
                         <h4><a href="{{ kategori.url }}" title="{{ kategori.title }}">{{ kategori.title }}</a></h4>
-                        <p>{{ kategori.description }}</p>
-                         <p>(<a href="{{ kategori.url }}" title="Lihat">Lihat</a>)</p>
+                        <p>{{ kategori.description }} (<a href="{{ kategori.url }}" title="Lihat">Lihat</a>) </p>
                     </div>
                 </div>
             {% endfor %}
