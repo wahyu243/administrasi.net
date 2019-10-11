@@ -24,6 +24,9 @@ authors:
       facebook:       you.w4hyou
 
 collections:
+  page:
+    permalink: "/:path/"
+    output: true
   posts:
     permalink: "/:categories/:title"
     output: true
