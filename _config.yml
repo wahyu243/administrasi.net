@@ -152,21 +152,12 @@ contact:
     emergency: 931 53 234
     email: contact@yoursite.com
     address: Von schroeders 273, <br> Viña del mar - Chile
-
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+    facebook: http://facebook.com
+    twitter: http://twitter.com
 
 # Testimonials
 testimonials:
     testimonials_img: parallax.jpg
-
-# Map
-map:
-    zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
-    address_details: svg/min/logo.svg
 
 # Social settings
 facebook: http://facebook.com
