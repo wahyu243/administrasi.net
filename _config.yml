@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Administrasi.Net
+    hero_description: Contoh berbagai Dokumen Administrasi.
 
 authors:
     artipedia:
