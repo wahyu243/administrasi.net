@@ -45,30 +45,16 @@ layout: default
         <h3>Contact Us</h3>
         <ul>
             {% if site.contact.phone %}<li><strong>Phone:</strong> {{ site.contact.phone }}</li>{% endif %}
-            {% if site.contact.emergency %}<li><strong>Emergency:</strong> {{ site.contact.emergency }}</li>{% endif %}
             {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
         </ul>
     </div>
     <div class="col-sm-4">
         <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
-        <h3>Opening Hours</h3>
-        <table>
-            <tbody>
-                <tr>
-                    <td>Monday – Friday</td>
-                    <td>{{ site.monday_friday }}</td>
-                </tr>
-                <tr>
-                    <td>Saturday</td>
-                    <td>{{ site.saturday }}</td>
-                </tr>
-                <tr>
-                    <td>Sunday</td>
-                    <td>{{ site.sunday }}</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+        <h3>Sosial Media</h3>
+        <ul>
+            {% if site.contact.facebook %}<li><strong>Facebook:</strong> {{ site.contact.facebook }}</li>{% endif %}
+            {% if site.contact.twitter %}<li><strong>Twitter:</strong> {{ site.contact.twitter }}</li>{% endif %}
+        </ul>
     <div class="col-sm-4">
         <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
         <h3>Location</h3>
