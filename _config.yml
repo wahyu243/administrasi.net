@@ -151,8 +151,10 @@ contact:
     phone: 0812 3446 7773
     email: wahyu243@gmail.com
     address: Jl. Sindangsari, <br> Cikoneng - Ciamis
-    facebook: administrasi.net
-    twitter: administrasi
+    facebookname: Administrasi.Net
+    facebookurl: https://facebook.com/administrasi.net
+    twittername: administrasi
+    twitterurl: https://twitter.com/administrasi
 
 # Testimonials
 testimonials:
