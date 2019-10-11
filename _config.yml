@@ -1,8 +1,8 @@
 # Site settings
 title: Administrasi | Kumpulan Administrasi
-description: "A responsive Jekyll theme for dental clinics."
+description: "Administrasi.net menyajikan berbagai contoh administrasi tentang pendidikan, dokumen, rpp, buku, berita, dll."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://administrasi.netlify.com" # the name of your domain
+url: "https://administrasi.net" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
