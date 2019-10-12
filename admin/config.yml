@@ -156,7 +156,7 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 	  
-	- name: "doc"
+  - name: "doc"
     label: "Doc"
     folder: "_pages/doc"
     create: true
