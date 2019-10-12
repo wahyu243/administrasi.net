@@ -1,12 +1,23 @@
  <div class="col-md-4">
 <div class="card border-0 shadow mb-4">
-<div class="card-body">{% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-    {% assign sortedCategories = site_categories | split:',' | sort %}
-            {% for category in sortedCategories  %}		
+<div class="card-body">
+ {% assign categories_list = site.categories %}
+  {% if categories_list.first[0] == null %}
+    {% for category in categories_list %}
 <div class="d-flex justify-content-between small">
-<span class="font-weight-bold"><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category }}</a></span>
-<span>5.1.1</span>
-</div>{% endfor %}
+<span class="font-weight-bold"><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category | camelcase }} </a></span>
+<span>({{ site.tags[category].size }})</span>
+</div> {% endfor %}
+  {% else %}
+ {% for category in categories_list %}
+ <div class="d-flex justify-content-between small">
+<span class="font-weight-bold"><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category[0] | camelcase }} </a></span>
+<span>({{ category[1].size }})</span>
+</div>
+ {% endfor %}
+  {% endif %}
+{% assign categories_list = nil %}
+ 
 </div>
 </div>
 </div>
