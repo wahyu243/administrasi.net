@@ -1,0 +1,62 @@
+{% assign author = site.authors[page.author] %}
+<header>
+    <div class="jumbotron jumbotron-fluid bg-white position-relative">
+        <div class="h-100 tofront">
+            <div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
+                <div class="col-md-6 align-self-center">
+			 {% if page.breadcrumbs %}
+  <nav class="breadcrumbs mb-3" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumbs">
+    <span class="breadcrumb sr-only" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+      <a href="{{ '/' | relative_url }}" itemprop="item">
+        <span itemprop="name">Home</span>
+        <meta itemprop="position" content="1" />
+      </a>
+    </span>
+    {% for crumb in page.breadcrumbs %}
+      <span class="breadcrumb" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="{{ crumb.url | relative_url }}" itemprop="item">
+          <span itemprop="name">{{ crumb.label }}</span>
+          <meta itemprop="position" content="{{ forloop.index | plus: 1 }}" />
+        </a>
+      </span>
+      {% if forloop.last == true %}
+        <span class="breadcrumb sr-only" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="{{ page.url | relative_url }}" itemprop="item" aria-current="page">
+            <span itemprop="name">{{ page.title | strip_html }}</span>
+            <meta itemprop="position" content="{{ forloop.length | plus: 2 }}" />
+          </a>
+        </span>
+      {% endif %}
+    {% endfor %}
+  </nav>
+{% endif %}    
+                    <h1 class="display-4 mb-2 article-headline">{{ page.title }}</h1>
+			<div class="d-flex align-items-center">
+
+                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="70" height="70" />
+
+                        <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                        <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
+         &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
+          <span itemprop="timeRequired">
+          {% assign words = content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:180 }} Mins read
+          {% endif %}
+          </span>
+        </span></small>
+                        </span>
+                       <small itemprop="description" class="intros">{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description | strip_html}}{% endif %}</small>          </div>
+			
+                </div>
+                {% if page.image %}
+                <div class="col-md-6 align-self-center">
+                    <img class="rounded lazyload" src="/img/twitter-card.png" alt="{{ page.title }}"/>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</header>
