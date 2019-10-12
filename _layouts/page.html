@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container">
+
+    <div class="row">
+        {% include post-header.html %}
+      <!-- Post Content Column -->
+      <div class="col-lg-8">
+
+        <div class="article">
+        {{ content }}
+          </div>
+       
+        <div class="clearfix">
+ <div class="nav-post">
+          {% if page.previous.url %}
+          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          {% endif %}
+          {% if page.next.url %}
+          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
+              Post</span> &rarr;</a>
+          {% endif %}
+            </div>
+        </div>
+
+      </div>
+        {% include sidebar.html %}
+     </div>
+ </div>
