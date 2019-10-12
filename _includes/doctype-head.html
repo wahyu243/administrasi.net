@@ -9,8 +9,8 @@
     <meta name="google-site-verification" content="{{ site.google_verification }}">
     {% endif %}
 
-    <title>{{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}">
+    <title>>{%if page.title %}{{ page.title }} | {{ site.name }} {% else %}{{ site.name }}{% endif %}</</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     
     <meta property="fb:app_id" content="2023057631120381">
     <meta property="og:locale" content="id">
