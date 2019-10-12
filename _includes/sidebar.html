@@ -20,4 +20,19 @@
  
 </div>
 </div>
+
+ <div class="card border-0 shadow mb-4">
+<div class="card-body">
+{% for post in site.posts %}
+<div class="d-flex justify-content-between small">
+<span class="font-weight-bold"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span>
+<span>{{ post.date | date_to_string }}</span>
+</div> 
+ {% endfor %}
+
+ 
+</div>
+</div> 
+  
+  
 </div>
