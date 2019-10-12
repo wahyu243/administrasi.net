@@ -22,13 +22,11 @@ Anda dapat mencegah pengaturan cookie dengan menyesuaikan pengaturan pada browse
 Dalam beberapa kasus khusus kami juga menggunakan cookie yang disediakan oleh pihak ketiga tepercaya. Bagian berikut ini menjelaskan cookie pihak ketiga yang mungkin Anda temui melalui situs ini.
 
 <ol>
-<li>
-    Situs ini menggunakan Google Analytics yang merupakan salah satu solusi analisis paling luas dan tepercaya di web untuk membantu kami memahami cara Anda menggunakan situs dan cara kami dapat meningkatkan pengalaman Anda. Cookie ini dapat melacak hal-hal seperti berapa lama Anda habiskan di situs dan halaman yang Anda kunjungi sehingga kami dapat terus menghasilkan konten yang menarik. 
+<li>Situs ini menggunakan Google Analytics yang merupakan salah satu solusi analisis paling luas dan tepercaya di web untuk membantu kami memahami cara Anda menggunakan situs dan cara kami dapat meningkatkan pengalaman Anda. Cookie ini dapat melacak hal-hal seperti berapa lama Anda habiskan di situs dan halaman yang Anda kunjungi sehingga kami dapat terus menghasilkan konten yang menarik. 
     <p> Untuk informasi lebih lanjut tentang cookie Google Analytics, lihat halaman resmi Google Analytics. </p>
 </li>
 
-<li>
-    Analisis pihak ketiga digunakan untuk melacak dan mengukur penggunaan situs ini sehingga kami dapat terus memproduksi konten yang menarik. Cookies ini dapat melacak hal-hal seperti berapa lama Anda menghabiskan waktu di situs atau halaman yang Anda kunjungi yang membantu kami memahami bagaimana kami dapat meningkatkan situs untuk Anda.
+<li>Analisis pihak ketiga digunakan untuk melacak dan mengukur penggunaan situs ini sehingga kami dapat terus memproduksi konten yang menarik. Cookies ini dapat melacak hal-hal seperti berapa lama Anda menghabiskan waktu di situs atau halaman yang Anda kunjungi yang membantu kami memahami bagaimana kami dapat meningkatkan situs untuk Anda.
 </li>
 
 <li>Dari waktu ke waktu kami menguji fitur baru dan membuat perubahan halus pada cara situs tersebut dikirimkan. Saat kami masih menguji fitur baru, cookie ini dapat digunakan untuk memastikan bahwa Anda menerima pengalaman yang konsisten selama berada di situs sambil memastikan kami memahami optimisasi mana yang paling disukai pengguna kami.
