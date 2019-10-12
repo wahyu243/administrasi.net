@@ -3,7 +3,6 @@ title: "Jadwal dan Persyaratan PPG Tahun 2020"
 date: "2019-10-05 04:49:09"
 description: Cermati Jadwal dan Persyaratan PPG Tahun 2020 bagi PNS ataupun bukan PNS.
 author: wahyu
-image: ppgdj-2020.png
 tags: [pendidikan,guru,ppg]
 published: true
 ---
@@ -15,6 +14,13 @@ Beberapa tahun lalu proses sertifikasi dilakukan melalui PLPG akan tetapi seirin
 PPGDJ ini diperuntukkan bagi Guru PNS dan guru bukan PNS yang sudah mengajar pada satuan pendidikan yang diatur melalui Permendikbud Nomor 37 Tahun 2017 Tentang Sertifikasi Guru dalam Jabatan yang diangkat sampai akhir tahun 2015.
 
 Adapun penetapan peserta PPG Dalam Jabatan tahun 2020 diawali dengan seleksi administrasi calon yang telah lolos seleksi akademik.
+
+Langkah Pertama
+1. buka halaman [SimGPO](https://paspor-gtk.belajar.kemdikbud.go.id)
+2. Setelah anda login pilih menu Program Pendiikan Profesi Guru
+3. Isi form dan berkas sesuai dengan kualifikasi anda
+4. Setelah anda yakin semua telah diisi dengan benar kirim form
+5. Cetak hasil ajuan.
 
 Seleksi administrasi dilakukan melalui verifikasi dan validasi berkas persayaratan administrasi yang dilakukan oleh LPMP setempat.
 
@@ -49,7 +55,6 @@ Bagi anda yang telah memenuhi syarat agar mencermati jadwal pelaksanaan PPGDJ ta
 ### Jadwal PPG Dalam Jabatan Tahun 2020
 ![Jadwal PPG](/img/Jadwal-ppg-2020.png "Jadwal PPG")
 
-Bagi anda yang memenuhi dan telah melakukan pemberkasan agar selalu memantau perkembangan PPG tahun 2020 sesuai jadwal di atas.
-Info sertifikasi atau PPG dapat anda pantau website ini atau website sebagai berikut:
+Pantau perkembangan PPG tahun 2020 di website Administrasi.Net atau di website resmi milik pemerintah:
 1. https://sergur.id/pub/index.php
 2. https://paspor-gtk.belajar.kemdikbud.go.id
