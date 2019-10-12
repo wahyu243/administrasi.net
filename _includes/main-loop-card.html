@@ -9,7 +9,7 @@
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		{% for category in post.categories %}
-		<a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
 	</small>
@@ -20,7 +20,7 @@
 {% if post.image %}
 	<div class="col-md-3 pr-0 text-right">
 	<a href="{{site.url}}{{post.url}}">
-	<img class="w-100" src="/img/thumb/{{ post.image }}" alt="{{ post.title }}"/>
+	<img class="w-100" src="/img/{{ post.image }}" alt="{{ post.title }}"/>
 	</a>
 	</div>
 {% endif %}
