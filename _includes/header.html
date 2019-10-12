@@ -13,7 +13,7 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        {% if page.layout == 'post | page' %}
+        {% if page.layout == 'post' %}  {% if page.layout == 'page' %}
         <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li><a class="scroll" href="{{ site.url }}">Beranda</a></li>
@@ -24,7 +24,7 @@
                 <li><a class="scroll" href="{{ site.url }}/tutorial">Tutorial</a></li>
                 <li><a class="scroll" href="{{ site.url }}/definisi">Definisi</a></li>
               </ul>
-        </div>
+        </div>{% endif %}
         {% else %}
         <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
