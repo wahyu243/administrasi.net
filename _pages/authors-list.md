@@ -3,7 +3,6 @@ title: "Kontributor"
 permalink: "/authors-list"
 ---
 
-<div class="container">
 <div class="row gap-y listrecent listrecent listauthor">
     {% for author in site.authors %}
         <div class="item-author">
@@ -29,4 +28,4 @@ permalink: "/authors-list"
         </div>
     {% endfor %}
     </div>
-</div>
+
