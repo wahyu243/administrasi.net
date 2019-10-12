@@ -1,6 +1,7 @@
 ---
 title: "Kontributor"
 permalink: "/authors-list"
+layout: nosidebar
 ---
 
 <div class="row">
