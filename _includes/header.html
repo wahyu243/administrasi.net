@@ -13,7 +13,7 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        {% if page.layout == 'post' %}  {% if page.layout == 'page' %}
+        {% if page.layout == 'post' %} 
         <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li><a class="scroll" href="{{ site.url }}">Beranda</a></li>
@@ -35,7 +35,31 @@
                 <li><a class="scroll" href="#testimonials">Testimonials</a></li>
                 <li><a class="scroll" href="#gallery">Gallery</a></li>
               </ul>
-        </div>     {% endif %}
+        </div>     
+        {% endif %}
+        {% if page.layout == 'page' %} 
+        <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a class="scroll" href="{{ site.url }}">Beranda</a></li>
+                <li><a class="scroll" href="{{ site.url }}/administrasi">Administrasi</a></li>
+                <li><a class="scroll" href="{{ site.url }}/artikel">Artikel</a></li>
+                <li><a class="scroll" href="{{ site.url }}/berita">Berita</a></li>
+                <li><a class="scroll" href="{{ site.url }}/bsd">BSD</a></li>
+                <li><a class="scroll" href="{{ site.url }}/tutorial">Tutorial</a></li>
+                <li><a class="scroll" href="{{ site.url }}/definisi">Definisi</a></li>
+              </ul>
+        </div>
+        {% else %}
+        <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a class="scroll" href="#top">Beranda</a></li>
+                <li><a class="scroll" href="#tentang">Tentang</a></li>
+                <li><a class="scroll" href="#kategori">Kategori</a></li>
+                <li><a class="scroll" href="#team">Kontributor</a></li>
+                <li><a class="scroll" href="#testimonials">Testimonials</a></li>
+                <li><a class="scroll" href="#gallery">Gallery</a></li>
+              </ul>
+        </div>     
         {% endif %}
     </div>
 </nav>
