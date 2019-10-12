@@ -25,7 +25,7 @@ authors:
 
 collections:
   pages:
-    permalink: "/:path/"
+    permalink: "/:path"
     output: true
   posts:
     permalink: "/:categories/:title"
