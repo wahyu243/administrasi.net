@@ -50,7 +50,7 @@ card{position:relative;display:flex;flex-direction:column;min-width:0;word-wrap:
 body{background: #f8f9fa;}
 
 .rounded-circle {
-    border-radius: 50% !important;
+    border-radius: 10px;
 }
 .btn-round {
     border-radius: 30px !important;
@@ -74,4 +74,7 @@ body{background: #f8f9fa;}
 }
 .d-block {
     display: block !important;
+}.mt-1 {
+    margin-top: 5px;
 }
+
