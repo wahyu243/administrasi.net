@@ -12,7 +12,12 @@
     }
 }
 
-
+.mb-2, .my-2 {
+    margin-bottom: .5rem!important;
+}
+.mt-2, .my-2 {
+    margin-top: .5rem!important;
+} 
 header {
     margin-top: 70px;
 }
