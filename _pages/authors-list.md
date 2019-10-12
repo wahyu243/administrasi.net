@@ -1,5 +1,6 @@
 ---
 title: "Kontributor"
+description: "Berikut ini adalah daftar orang-orang yang telah berkontribusi di Administrasi.Net. Bergabung bersama kami"
 permalink: "/authors-list"
 layout: nosidebar
 ---
