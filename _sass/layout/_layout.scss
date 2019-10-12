@@ -55,3 +55,16 @@ body{background: #f8f9fa;}
 .btn-round {
     border-radius: 30px !important;
 }
+.ml-3 {
+    margin-left: 1rem !important;
+}span.ml-3 a {
+    color: #222;
+    text-transform: capitalize;
+}.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}.btn-outline-success {
+    color: #00b5ad !important;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid #00b5ad;
+}
