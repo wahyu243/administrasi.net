@@ -22,6 +22,17 @@ authors:
       email:          wahyu243@gmail.com 
       twitter:        wahyu37853583
       facebook:       you.w4hyou
+    
+    wahyu:
+      name:           you
+      slug:           you
+      site:           https://coinsprices.net
+      avatar:         /img/you.png
+      avatarlow:      /img/low/you.jpg
+      bio:            "Hi"
+      email:          wahyu243@gmail.com 
+      twitter:        wahyu37853583
+      facebook:       you.w4hyou
 
 collections:
   pages:
