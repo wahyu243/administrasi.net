@@ -18,22 +18,11 @@ authors:
       site:           https://coinsprices.net
       avatar:         /img/you.png
       avatarlow:      /img/low/you.jpg
-      bio:            "Hi"
+      bio:            "Hi, selamat datang di Administrasi.Net semoga website ini dapat bermanfaat bagi semua. Jangan lupa untuk bergabung, anda juga bisa menjadi kontributor di Administrasi.Net"
       email:          wahyu243@gmail.com 
       twitter:        wahyu37853583
       facebook:       you.w4hyou
     
-    wahyu2:
-      name:           you
-      slug:           you
-      site:           https://coinsprices.net
-      avatar:         /img/you.png
-      avatarlow:      /img/low/you.jpg
-      bio:            "Hi"
-      email:          wahyu243@gmail.com 
-      twitter:        wahyu37853583
-      facebook:       you.w4hyou
-
 collections:
   pages:
     permalink: "/:path"
