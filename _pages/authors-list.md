@@ -14,7 +14,7 @@ layout: nosidebar
                         <div class="card-body text-center">
                             <p><img alt="{{ author[1].name }}" src="{{site.url}}{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></p>
                             <h4 class="card-title"> {{ author[1].name }}</h4>
-                            <p class="card-text">{{ author[1].bio }}</p>
+                            <p class="card-text">{{ author[1].bio | strip_html | strip_newlines | truncate: 100 }}</p>
                             <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                         </div>
                     </div>
