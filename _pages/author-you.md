@@ -3,9 +3,8 @@ title: "You"
 permalink: "/author-you"
 ---
 
-<div class="row justify-content-center">
-    <div>        
-        <div class="align-items-center mb-5">
+
+<div class="align-items-center mb-5">
             <div class="col-md-9">
                 <h2 class="font-weight-bold">{{page.title}}  <span class="ml-3 small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/{{ site.authors.wahyu.twitter }}">Follow</a></span>
                     </h2>
@@ -21,6 +20,6 @@ permalink: "/author-you"
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
-    </div>
+  
 </div>
 
