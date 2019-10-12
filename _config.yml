@@ -187,5 +187,5 @@ sass:
 include: [_redirects,.htaccess,_pages]
 
 # Theme Settings
-analytics: 
+analytics: UA-115101359-19
 google_verification: KVq75QFLhLp8UoW-Mf-ifdxcDsciWvOnDrQEn25KS5M
