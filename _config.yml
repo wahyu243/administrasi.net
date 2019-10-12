@@ -38,7 +38,7 @@ defaults:
   values:
     layout: page
     image: twitter-card.png
-    author: wahyu
+    authors: wahyu
     avatar: /img/you.jpg
 - scope:
     path: _posts
