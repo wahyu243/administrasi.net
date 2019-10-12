@@ -22,7 +22,7 @@ layout: nosidebar
                 <div class="backside">
                     <div class="card">
                         <div class="card-body text-center mt-4">
-                            <h4 class="card-title"> {{ author[1].name }}</h4>
+                            <h2 class="card-title"> {{ author[1].name }}</h2>
                             <p class="card-text">{{ author[1].bio }}</p>
                              <a href="{{site.url}}{{ author[1].slug }}">View Post</a>
                             <ul class="list-inline">
