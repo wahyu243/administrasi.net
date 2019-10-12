@@ -1,6 +1,9 @@
  <div class="col-md-4">
 <div class="card border-0 shadow mb-4">
 <div class="card-body">
+ <div class="d-flex justify-content-between small">
+<h3 class="font-weight-bold">Kategori</h3>
+</div>
  {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %}
@@ -23,6 +26,7 @@
 
  <div class="card border-0 shadow mb-4">
 <div class="card-body">
+ <h3 class="font-weight-bold">Terbaru</h3>
 {% for post in site.posts %}
 <div class="d-flex justify-content-between small">
 <span class="font-weight-bold"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span>
