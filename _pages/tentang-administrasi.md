@@ -1,7 +1,7 @@
 ---
 title: Tentang Administrasi.Net
 description: Administrasi.Net adalah suatu website yang dibuat untuk memberikan kumpulan informasi yang bermanfaat bagi semua orang, yang ditulis oleh public.
-permalink: 
+---
 
 ## Mengapa Administrasi.Net Ada?
 Sekarang dan nanti dimasa depan sumber informasi digital sangat dibutuhkan, dan dapat menjadi sumber rujukan utama serta dapat diakses dengan mudah dan tersedia secara lengkap yang memungkinkan jutaan penduduk Indonesia mendapatkan informasi yang diinginkan dengan mudah. Itulah dunia yang ingin kami ciptakan.
