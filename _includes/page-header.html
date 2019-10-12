@@ -1,4 +1,3 @@
-{% assign author = site.authors[page.author] %}
 <header>
     <div class="jumbotron jumbotron-fluid bg-white position-relative">
         <div class="h-100 tofront">
@@ -29,13 +28,13 @@
       {% endif %}
     {% endfor %}
   </nav>
-{% endif %}    
+  
                     <h1 class="display-4 mb-2 article-headline">{{ page.title }}</h1>
 			<div class="d-flex align-items-center">
 
                         <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="70" height="70" />
 
-                        <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                        <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
                         <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
          &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
           <span itemprop="timeRequired">
