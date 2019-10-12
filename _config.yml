@@ -12,7 +12,7 @@ hero:
     hero_description: Contoh berbagai Dokumen Administrasi.
 
 authors:
-    artipedia:
+    wahyu:
       name:           you
       slug:           you
       site:           https://coinsprices.net
@@ -25,7 +25,7 @@ authors:
 
 collections:
   pages:
-    permalink: "/:path/"
+    permalink: "/:path"
     output: true
   posts:
     permalink: "/:categories/:title"
@@ -36,7 +36,7 @@ defaults:
     path: _pages
     type: pages
   values:
-    layout: post
+    layout: page
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
