@@ -33,7 +33,7 @@
                     <h1 class="display-4 mb-2 article-headline">{{ page.title }}</h1>
 			<div class="d-flex align-items-center">
 
-                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatarlow | replace: 'artipedia','you'}}" data-src="{{site.url}}{{author.avatar | replace: 'artipedia','you'}}" alt="{{author.name}}" width="70" height="70" />
+                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="70" height="70" />
 
                         <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
                         <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
@@ -53,7 +53,7 @@
                 </div>
                 {% if page.image %}
                 <div class="col-md-6 pr-0 align-self-center">
-                    <img class="rounded lazyload" src="/img/low/twitter-card.png" data-src="/img/{{page.image | replace: '/img/',''}}" alt="{{ page.title }}"/>
+                    <img class="rounded lazyload" src="/img/twitter-card.png" alt="{{ page.title }}"/>
                 </div>
                 {% endif %}
             </div>
