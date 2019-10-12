@@ -1,12 +1,11 @@
 ---
-title: Privacy & Cookie Policy
-description: semua situs web profesional situs ini menggunakan cookie, yang merupakan file kecil yang diunduh ke komputer Anda, untuk meningkatkan pengalaman Anda. 
-permalink: /privacy-cookie-policy
-redirect_from: /docs/privacy-cookie-policy
+title: Kebijakan Privasi & Cookie
+description: Setiap situs web profesional menggunakan cookie termasuk Administrasi.Net, Baca lebih lanjut tentang Kebijakan Privasi dan Cookie. 
+
 ---
 
-## Kebijakan Cookie untuk ArtiPedia
-Ini adalah Kebijakan Cookie untuk ArtiPedia, dapat diakses dari https://artipedia.id
+## Kebijakan Cookie untuk Administrasi.Net
+Ini adalah Kebijakan Cookie untuk Administrasi.Net, dapat diakses dari https://administrasi.net
 
 ### Apa itu Cookie 
 Seperti praktik umum dengan hampir semua situs web profesional situs ini menggunakan cookie, yang merupakan file kecil yang diunduh ke komputer Anda, untuk meningkatkan pengalaman Anda. Halaman ini menjelaskan informasi apa yang mereka kumpulkan, bagaimana kami menggunakannya dan mengapa kami terkadang perlu menyimpan cookie ini. Kami juga akan membagikan bagaimana Anda dapat mencegah cookie ini disimpan, namun ini dapat menurunkan atau 'merusak' elemen-elemen tertentu dari fungsi situs.
@@ -39,5 +38,5 @@ Dalam beberapa kasus khusus kami juga menggunakan cookie yang disediakan oleh pi
 <li> <p> Layanan Google AdSense yang kami gunakan untuk menayangkan iklan menggunakan kuki DoubleClick untuk menayangkan lebih banyak iklan yang relevan di seluruh web dan membatasi berapa kali iklan tertentu ditampilkan kepada Anda. </p>
 <p> Untuk informasi lebih lanjut tentang Google AdSense, lihat FAQ privasi Google AdSense resmi. </p> </li>
 <li> <p> Beberapa mitra beriklan atas nama kami dan cookie pelacakan afiliasi memungkinkan kami untuk melihat apakah pelanggan kami memiliki datang ke situs melalui salah satu situs mitra kami sehingga kami dapat mengkreditkannya dengan tepat dan jika memungkinkan memungkinkan mitra afiliasi kami untuk memberikan bonus apa pun yang mereka berikan kepada Anda untuk melakukan pembelian. </p> </li> <li> <p> Kami juga menggunakan tombol media sosial dan / atau plugin di situs ini yang memungkinkan Anda untuk terhubung dengan jejaring sosial Anda dalam berbagai cara. Untuk ini bekerja situs media sosial berikut termasuk; {Buat daftar jaringan sosial yang fitur-fiturnya telah Anda integrasikan dengan situs Anda ?: 12}, akan mengatur cookie melalui situs kami yang dapat digunakan untuk meningkatkan profil Anda di situs mereka atau berkontribusi pada data yang mereka pegang untuk berbagai tujuan yang diuraikan dalam privasi masing-masing kebijakan. </p> </li> </ul> <p> <strong> Informasi Lebih Lanjut </strong> </p> <p> Mudah-mudahan yang telah memperjelas hal-hal untuk Anda dan seperti yang disebutkan sebelumnya jika ada sesuatu yang Anda tidak yakin apakah Anda perlu atau tidak, biasanya lebih aman membiarkan cookie diaktifkan jika hal itu berinteraksi dengan salah satu fitur yang Anda gunakan di situs kami. </p> 
-<p> Namun jika Anda masih mencari informasi lebih lanjut maka Anda dapat hubungi kami melalui salah satu metode kontak pilihan kami: </p> <ul> <li> Email: artipedia243@gmail.com </li> <li> Dengan mengunjungi tautan ini: <a href="/kontak">Kontak</a></li> </ul>
+<p> Namun jika Anda masih mencari informasi lebih lanjut maka Anda dapat hubungi kami melalui salah satu metode kontak pilihan kami: </p> <ul> <li> Email: wahyu243@gmail.com </li> <li> Dengan mengunjungi tautan ini: <a href="/">Beranda</a></li> </ul>
     
