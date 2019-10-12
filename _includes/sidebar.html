@@ -15,7 +15,7 @@
  {% endfor %}
   {% else %}
  {% for category in categories_list %}
- <div class="d-flex justify-content-between small">
+ <div class="d-flex justify-content-between small side">
 <span class="font-weight-bold"><a href="{{site.url}}/{{ category[0] }}" title="{{ category[0] }}">{{ category[0] | camelcase }} </a></span>
 <span>{{ category[1].size }}</span>
 </div><hr class="my-2">
