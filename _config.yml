@@ -53,7 +53,7 @@ defaults:
     type: posts
   values:
     layout: post
-    category: buku
+    category: bsd
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -61,8 +61,8 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "Buku"
-        url: /buku/
+      - label: "BSD"
+        url: /bsd
 - scope:
     path: _posts/artikel
     type: posts
@@ -77,7 +77,7 @@ defaults:
     support: true
     breadcrumbs:
       - label: "Artikel"
-        url: /artikel/
+        url: /artikel
 - scope:
     path: _posts/berita
     type: posts
@@ -94,11 +94,11 @@ defaults:
       - label: "Berita"
         url: /berita/
 - scope:
-    path: _posts/materi
+    path: _posts/administrasi
     type: posts
   values:
     layout: post
-    category: materi
+    category: administrasi
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -106,14 +106,14 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "Materi"
-        url: /materi/
+      - label: "Administrasi"
+        url: /administrasi
 - scope:
-    path: _posts/soal
+    path: _posts/cara
     type: posts
   values:
     layout: post
-    category: soal
+    category: tutorial
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -121,8 +121,8 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "Soal"
-        url: /soal/
+      - label: "Tutorial"
+        url: /tutorial
 - scope:
     path: _posts/teori
     type: posts
@@ -138,21 +138,6 @@ defaults:
     breadcrumbs:
       - label: "Teori"
         url: /teori/
-- scope:
-    path: _posts/rpp
-    type: posts
-  values:
-    layout: post
-    category: rpp
-    image: twitter-card.png
-    author: wahyu
-    avatar: /img/you.jpg
-    read_time: true
-    comments: true
-    support: true
-    breadcrumbs:
-      - label: "RPP"
-        url: /rpp/
 
 # Contact form
 api_token: # Enter API token here
