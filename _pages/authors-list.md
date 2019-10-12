@@ -25,7 +25,7 @@ layout: nosidebar
                         <div class="card-body text-center mt-4">
                             <h2 class="card-title"> {{ author[1].name }}</h2>
                             <p class="card-text">{{ author[1].bio }}</p>
-                             <a href="{{site.url}}{{ author[1].slug }}">View Post</a>
+                             <a href="{{site.url}}/{{ author[1].slug }}">View Post</a>
                             <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/{{ author[1].facebook }}">
