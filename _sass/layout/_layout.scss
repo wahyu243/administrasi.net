@@ -16,7 +16,7 @@
 header {
     margin-top: 70px;
 }
-
-.article {
-    padding: 15px;
-}
+@media screen and (max-width: 768px){
+.col-md-6.align-self-center {
+    padding: 0 40px;
+    }}
