@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
   
-logo_url: https://artipedia.id/img/logor.png
+logo_url: https://administrasi.net/svg/min/logo.svg
   
 media_folder: "img/"
 public_folder: "/img/"
@@ -15,7 +15,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -36,7 +36,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -51,13 +51,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
-  - name: "buku"
-    label: "Buku"
-    folder: "_posts/buku"
+  - name: "bsd"
+    label: "BSD"
+    folder: "_posts/bsd"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -72,13 +72,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "materi"
-    label: "Materi"
-    folder: "_posts/materi"
+  - name: "administrasi"
+    label: "Administrasi"
+    folder: "_posts/administrasi"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -93,34 +93,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
-  - name: "soal"
-    label: "Soal"
-    folder: "_posts/soal"
+  - name: "tutorial"
+    label: "Tutorial"
+    folder: "_posts/tutorial"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Date", name: "date", widget: "datetime"}
-      - label: "Author"
-        name: "author"
-        widget: "string"
-        required: false
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      
-  - name: "rpp"
-    label: "Rpp"
-    folder: "_posts/rpp"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -141,7 +120,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -156,13 +135,34 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   
-  - name: "panduan"
-    label: "Panduan"
-    folder: "_docs"
+  - name: "kontributor"
+    label: "Kontributor"
+    folder: "_pages/kontributor"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+	  
+	- name: "doc"
+    label: "Doc"
+    folder: "_pages/doc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
@@ -177,30 +177,3 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: 'profil'
-    label: 'Profil'
-    delete: false # Prevent users from deleting documents in this collection
-    editor:
-      preview: false
-    files:
-      - name: "penulis"
-        label: "Penulis"
-        file: "_data/authors.yml"
-        description: "Author descriptions"
-        fields:
-          - name: authors
-            label: Authors
-            label_singular: "Author"
-            widget: list
-            fields:
-              - { label: "Nickname", name: "nickname", widget: "string", hint: "Nickname" }
-              - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
-              - { label: "Slug", name: "slug", widget: "string", hint: "example firs-lastname" }
-              - label: "Avatar"
-                name: "avatar"
-                widget: "image"
-                required: false
-              - { label: "Bio", name: "bio", widget: "string", hint: "Bio Description" }
-              - { label: "Email", name: "email", widget: "string", hint: "contoh@gmail.com" }
-              - { label: "Twitter", name: "twitter", widget: "string", hint: "contoh artipedia" }
-              - { label: "Facebook", name: "facebook", widget: "string", hint: "contoh artipedia" }
