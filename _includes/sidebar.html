@@ -8,7 +8,7 @@
  {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %}
-<div class="d-flex justify-content-between small">
+<div class="d-flex justify-content-between small side">
 <span class="font-weight-bold"><a href="{{site.url}}/{{ category }}" title="{{ category }}">{{ category | camelcase }} </a></span>
 <span>{{ site.tags[category].size }}</span>
 </div> <hr class="my-2">
