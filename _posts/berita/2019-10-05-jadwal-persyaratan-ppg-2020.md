@@ -8,7 +8,7 @@ tags: [pendidikan,guru,ppg]
 published: true
 ---
 
-Pemerintah saat tengah berupaya untuk meningkatkan mutu pendidikan, salah satunya dengan meningkatkan kualitas dan kuantitas guru yang profesional melalui sertifikasi pendidik. 
+Mutu Pendidikan sangatlah penting untuk terus berkembang meningkat seiring dengan perubahan zajam. Untuk itu pemerintah terus berupaya meningkatkan mutu pendidikan salah satunya dengan meningkatkan kualitas Guru melalui PPGDJ. 
 
 Beberapa tahun lalu proses sertifikasi dilakukan melalui PLPG akan tetapi seiring dengan berubahnya peraturan perundangan, maka saat ini sertifikasi pendidik dilakukan melalui PPG atau PPGDJ.
 
@@ -19,7 +19,7 @@ Adapun penetapan peserta PPG Dalam Jabatan tahun 2020 diawali dengan seleksi adm
 Seleksi administrasi dilakukan melalui verifikasi dan validasi berkas persayaratan administrasi yang dilakukan oleh LPMP setempat.
 
 ### Persyaratan PPG Dalam Jabatan Tahun 2020
-Bagi calon peserta yang lolos seleksi akademik wajib mengumpulkan persyaratan administrasi berikut ini.
+Berikut adalah persyaratan bagi calon peserta yang lolos seleksi akademik.
 
 1. Guru negeri atau swasta yang belum memiliki sertifikat pendidik.
 2. Guru dalam jabatan yang diangkat sampai dengan akhir yahun 2015.
