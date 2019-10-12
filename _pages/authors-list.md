@@ -3,12 +3,13 @@ title: "Kontributor"
 permalink: "/authors-list"
 ---
 
-<div class="row gap-y listrecent listrecent listauthor">
+<div class="gap-y listrecent listrecent listauthor">
     {% for author in site.authors %}
         <div class="item-author">
             <div class="pt-4 border rounded">
-            <div class="row">
-            <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{site.url}}{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
+            <div>
+            <div class="col-md-3 mb-4 mb-md-0">
+                <img alt="{{ author[1].name }}" src="{{site.url}}{{ author[1].avatar }}" class="rounded-circle" height="80" width="80">               </div>
             <div class="col-md-9">
             <a href="{{site.url}}/author-{{ author[1].slug | slugify }}">
             <h2 class="text-dark mb-0" style="text-transform: capitalize;"> {{ author[1].name }} </h2> </a>
