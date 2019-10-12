@@ -195,7 +195,7 @@ exclude: [
     .gitignore
 ]
 
-scss:
+sass:
   style: compressed
   
 include: [_redirects,.htaccess,_pages]
