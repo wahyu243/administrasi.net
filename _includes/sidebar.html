@@ -1,31 +1,12 @@
  <div class="col-md-4">
 <div class="card border-0 shadow mb-4">
-<div class="card-body">
+<div class="card-body">% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% assign sortedCategories = site_categories | split:',' | sort %}
+            {% for category in sortedCategories  %}		
 <div class="d-flex justify-content-between small">
-<span class="font-weight-bold">License</span>
-<span><i class="fal fa-balance-scale"></i> <a class="font-weight-bold" href="https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE">MIT License</a></span>
-</div>
-<hr class="my-2">
-<div class="d-flex justify-content-between small">
-<span class="font-weight-bold">Released</span>
-<span>Sep 28, 2013</span>
-</div>
-<hr class="my-2">
-<div class="d-flex justify-content-between small">
-<span class="font-weight-bold">Bootstrap Version</span>
-<span>4.3.1</span>
-</div>
-<hr class="my-2">
-<div class="d-flex justify-content-between small">
-<span class="font-weight-bold">Last Updated</span>
-<span>Jun 14, 2019</span>
-</div>
-<hr class="my-2">
-<div class="d-flex justify-content-between small">
-<span class="font-weight-bold">Template Version</span>
+<span class="font-weight-bold">a href="{{site.url}}/{{ category }}">{{ category }}</a></span>
 <span>5.1.1</span>
+</div>{% endfor %}
 </div>
 </div>
 </div>
-
-    </div>
