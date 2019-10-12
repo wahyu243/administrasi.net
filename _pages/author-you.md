@@ -2,7 +2,7 @@
 title: "You"
 permalink: "/author-you"
 ---
-<div class="container">
+
 <div class="row justify-content-center">
     <div style="margin-top:30px">        
         <div class="row align-items-center mb-5">
@@ -22,4 +22,4 @@ permalink: "/author-you"
             {% endfor %}
     </div>
 </div>
-</div>
+
