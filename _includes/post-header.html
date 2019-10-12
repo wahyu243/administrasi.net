@@ -36,7 +36,8 @@
                         <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="70" height="70" />
 
                         <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
-                        <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
+                        <small class="text-muted d-block mt-1">
+<svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
          &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
           <span itemprop="timeRequired">
           {% assign words = content | number_of_words %}
