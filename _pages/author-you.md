@@ -1,6 +1,5 @@
 ---
 title: "You"
-permalink: "/you"
 ---
 
 <div class="align-items-center mb-5">
