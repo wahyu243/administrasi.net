@@ -3,6 +3,7 @@ title: "Jadwal dan Persyaratan PPG Tahun 2020"
 date: "2019-10-05 04:49:09"
 description: Cermati Jadwal dan Persyaratan PPG Tahun 2020 bagi PNS ataupun bukan PNS.
 author: wahyu
+image: ppgdj-2020.jpg
 tags: [pendidikan,guru,ppg]
 published: true
 ---
