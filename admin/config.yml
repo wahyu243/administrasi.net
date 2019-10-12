@@ -1,0 +1,206 @@
+backend:
+  name: git-gateway
+  branch: master
+  
+logo_url: https://artipedia.id/img/logor.png
+  
+media_folder: "img/"
+public_folder: "/img/"
+
+publish_mode: editorial_workflow
+collections:
+  - name: "artikel"
+    label: "Artikel"
+    folder: "_posts/artikel"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "berita"
+    label: "Berita"
+    folder: "_posts/berita"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "buku"
+    label: "Buku"
+    folder: "_posts/buku"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "materi"
+    label: "Materi"
+    folder: "_posts/materi"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "soal"
+    label: "Soal"
+    folder: "_posts/soal"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "rpp"
+    label: "Rpp"
+    folder: "_posts/rpp"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "teori"
+    label: "Teori"
+    folder: "_posts/teori"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  
+  - name: "panduan"
+    label: "Panduan"
+    folder: "_docs"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: 'profil'
+    label: 'Profil'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: "penulis"
+        label: "Penulis"
+        file: "_data/authors.yml"
+        description: "Author descriptions"
+        fields:
+          - name: authors
+            label: Authors
+            label_singular: "Author"
+            widget: list
+            fields:
+              - { label: "Nickname", name: "nickname", widget: "string", hint: "Nickname" }
+              - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
+              - { label: "Slug", name: "slug", widget: "string", hint: "example firs-lastname" }
+              - label: "Avatar"
+                name: "avatar"
+                widget: "image"
+                required: false
+              - { label: "Bio", name: "bio", widget: "string", hint: "Bio Description" }
+              - { label: "Email", name: "email", widget: "string", hint: "contoh@gmail.com" }
+              - { label: "Twitter", name: "twitter", widget: "string", hint: "contoh artipedia" }
+              - { label: "Facebook", name: "facebook", widget: "string", hint: "contoh artipedia" }
