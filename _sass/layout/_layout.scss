@@ -62,9 +62,13 @@ body{background: #f8f9fa;}
     text-transform: capitalize;
 }.btn:not(:disabled):not(.disabled) {
     cursor: pointer;
-}.btn-outline-success {
-    color: #00b5ad !important;
-    background-color: transparent;
+}
+.btn-outline-success {
+    color: #3dadb2 !important;
+    background-color: whitesmoke;
     background-image: none;
-    border: 1px solid #00b5ad;
+    border: 1px solid #eeeeee;
+}
+.btn-outline-success:hover {
+    background: #fff;
 }
