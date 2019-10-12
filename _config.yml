@@ -140,7 +140,7 @@ defaults:
         url: /teori/
 
 # Contact form
-api_token: # Enter API token here
+api_token: 2a824f5cb9d63ff7e9d555cf5d7551fe
 
 # Contact info
 contact:
@@ -165,7 +165,7 @@ skype:
 feed: yes
 
 # Footer
-copyright: © 2019 Administrasi - All rights reserved
+copyright: © 2019 Administrasi.Net - All rights reserved
 
 # Build settings
 markdown: kramdown
