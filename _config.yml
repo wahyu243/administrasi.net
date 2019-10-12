@@ -36,7 +36,7 @@ defaults:
     path: _pages
     type: pages
   values:
-    layout: post
+    layout: page
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
