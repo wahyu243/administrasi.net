@@ -21,3 +21,212 @@
 		display: none !important;
 	}
 }
+.post-footer-on-bottom {
+    background: #fafafa;
+}
+.post-footer {
+    padding: 18px 28px;
+    overflow: hidden;
+    line-height: 0;
+}
+.post-footer-on-mobile .share-links a {
+  margin: 0;
+  border-radius: 0;
+  width: 1%;
+  display: table-cell;
+  opacity: 1 !important;
+}
+
+.post-footer-on-mobile .share-links a .fa {
+  margin: 0 auto;
+  float: none;
+}
+
+@media (min-width: 768px) {
+  .post-footer-on-mobile {
+    display: none;
+  }
+}
+
+.mobile-share-buttons-spacer {
+  height: 40px;
+}
+
+@media (min-width: 768px) {
+  .mobile-share-buttons-spacer {
+    display: none;
+  }
+}
+
+.share-links {
+  overflow: hidden;
+}
+
+.share-links .fa {
+  font-size: 15px;
+}
+
+.share-links a {
+  display: inline-block;
+  margin: 2px;
+  height: 40px;
+  overflow: hidden;
+  color: #ffffff;
+  background: #444444;
+  position: relative;
+  transition: 0.3s;
+  border-radius: 2px;
+  width: 40px;
+}
+
+.share-links a.large-share-button {
+  width: auto;
+}
+
+.share-links a .fa {
+  width: 40px;
+  height: 40px;
+  float: left;
+  display: block;
+  text-align: center;
+  line-height: 40px;
+}
+
+.share-links a .social-text {
+  border: 0 solid rgba(255, 255, 255, 0.3);
+  border-left-width: 1px;
+  padding-left: 15px;
+  height: 20px;
+  float: left;
+  margin-top: 10px;
+  padding-right: 25px;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: "open sans", sans-serif;
+}
+
+.share-links a:hover {
+  opacity: 0.8;
+  color: #fff;
+}
+
+.share-links .equal-width {
+  width: 1%;
+  display: table-cell;
+  margin: 0;
+  border-radius: 0;
+}
+
+.share-links .equal-width .fa {
+  display: inline-block;
+  float: none;
+  width: 100%;
+}
+
+.share-centered {
+  text-align: center;
+  position: relative;
+}
+
+.share-title {
+  padding-right: 15px;
+  display: inline-block;
+  float: left;
+  line-height: 40px;
+  font-size: 12px;
+  margin: 2px 0;
+}
+
+.share-title .fa {
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.icons-text .share-title {
+  line-height: 30px;
+}
+
+.icons-text .large-share-button {
+  height: 30px;
+}
+
+.icons-text .large-share-button .social-text {
+  padding-left: 6px;
+  padding-right: 8px;
+  height: 20px;
+  margin-top: 5px;
+  line-height: 20px;
+  font-size: 10px;
+}
+
+.icons-text .large-share-button .fa {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+.share-links a.facebook-share-btn {
+  background: #5d82d1;
+}
+
+.share-links a.twitter-share-btn {
+  background: #40bff5;
+}
+
+.share-links a.google-share-btn {
+  background: #eb5e4c;
+}
+
+.share-links a.linkedin-share-btn {
+  background: #238cc8;
+}
+
+.share-links a.pinterest-share-btn {
+  background: #e13138;
+}
+
+.share-links a.reddit-share-btn {
+  background: #ff4500;
+}
+
+.share-links a.stumbleupon-share-btn {
+  background: #eb4924;
+}
+
+.share-links a.tumblr-share-btn {
+  background: #35465c;
+}
+
+.share-links a.vk-share-btn {
+  background: #45668e;
+}
+
+.share-links a.odnoklassniki-share-btn {
+  background: #ee8208;
+}
+
+.share-links a.pocket-share-btn {
+  background: #ef4056;
+}
+
+.share-links a.whatsapp-share-btn {
+  background: #43d854;
+}
+
+.share-links a.telegram-share-btn {
+  background: #0088cc;
+}
+
+.share-links a.viber-share-btn {
+  background: #773ead;
+}
+
+.share-links a.viber-share-btn .fa {
+  -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+.share-links a.email-share-btn {
+  background: #333333;
+}
