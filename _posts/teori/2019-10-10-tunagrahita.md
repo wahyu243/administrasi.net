@@ -2,14 +2,10 @@
 title: "Tunagrahita (Pengertian, Karakteristik & Klasifikasi)"
 date: "2019-10-10 12:48:09"
 description: Apa itu Tunagrahita? Seperti apa anak tunagrahita itu? Bagaimana Karakteristik Tunagrahita?.
-image: tunagrahita.png
 tags: [referensi,abk,tunagrahita,pendidikan-khusus]
 ---
 
 [Administrasi.Net](/ "Administrasi.Net") - Banyak istilah yang digunakan untuk menyebut anak yang memiliki kondisi kecerdasan di bawah rata-rata, misalnya lemah otak, lemah ingatan, lemah fikiran, cacat mental, dan keterbelakangan mental. Semua istilah tersebut mengarah pada pengertian yang sama yaitu untuk menggambarkan kondisi kecerdasan dibawah rata – rata anak normal. Adapun istilah, yang resmi digunakan di Indonesia adalah “tunagrahita” sebagaimana yang tercantum dalam peraturan pemerintah Republik Indonesia nomor 72 tahun 1991 tentang “Pendidikan Luar Biasa”. 
-
-* TOC
-{:toc}
 
 ## Definisi Tunagrahita Menurut Para Ahli
 
