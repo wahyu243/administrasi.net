@@ -99,3 +99,4 @@ body{background: #f8f9fa;}
     height: 30px;
     margin: 0 5px;
 }
+#markdown-toc::before{content:"Daftar isi";font-weight:bold;display:block;clear:both;margin:0 0 15px 0;text-align:center;border-bottom:1px solid #827f7f}#markdown-toc ul{list-style:lower-latin;padding:0 0 0 15px}#markdown-toc a{color:#9c9c9c}#markdown-toc a:hover{color:#f90}#markdown-toc{border:1px solid #e1eeef;padding:1.5em;list-style:decimal;display:inline-block;background:#333333;color:#bdbdbd;text-align:left;min-width:250px}
