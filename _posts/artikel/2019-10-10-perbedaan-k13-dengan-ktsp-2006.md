@@ -1,5 +1,4 @@
 ---
-layout: news_item
 title: Perbedaan Kurikulum 2013 dengan KTSP 2006
 description: >-
   Perbedaan Kurikulum 2013 dengan KTSP 2006 sangat nampak dan jelas, diantarnya penggunaan pendekatan saintifik pada kurikulum 2013 merupakan suatu kewajiban, sedangkan pada KTSP 2006 tidak dituntut 
