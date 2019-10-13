@@ -37,7 +37,7 @@
   opacity: 1 !important;
 }
 
-.post-footer-on-mobile .share-links a .fa {
+.post-footer-on-mobile .share-links a svg {
   margin: 0 auto;
   float: none;
 }
@@ -62,7 +62,7 @@
   overflow: hidden;
 }
 
-.share-links .fa {
+.share-links svg {
   font-size: 15px;
 }
 
@@ -83,13 +83,14 @@
   width: auto;
 }
 
-.share-links a .fa {
-  width: 40px;
-  height: 40px;
-  float: left;
-  display: block;
-  text-align: center;
-  line-height: 40px;
+.share-links a svg {
+    float: left;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+    font-size: 20px;
+    margin: 10px;
 }
 
 .share-links a .social-text {
@@ -117,7 +118,7 @@
   border-radius: 0;
 }
 
-.share-links .equal-width .fa {
+.share-links .equal-width svg {
   display: inline-block;
   float: none;
   width: 100%;
@@ -137,7 +138,7 @@
   margin: 2px 0;
 }
 
-.share-title .fa {
+.share-title svg {
   margin-right: 5px;
   font-size: 14px;
 }
@@ -159,7 +160,7 @@
   font-size: 10px;
 }
 
-.icons-text .large-share-button .fa {
+.icons-text .large-share-button svg {
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -221,7 +222,7 @@
   background: #773ead;
 }
 
-.share-links a.viber-share-btn .fa {
+.share-links a.viber-share-btn svg {
   -webkit-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
           transform: rotate(-45deg);
