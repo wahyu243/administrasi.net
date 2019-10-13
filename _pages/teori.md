@@ -1,7 +1,6 @@
 ---
 title: Kumpulan Teori
 description: Halaman ini berisi kumpulan teori yang sangat berguna bagi para pembaca.
-permalink: /tutorial
 ---
 
 <ol class="arti">{% for post in site.categories.teori %}
