@@ -6006,3 +6006,48 @@ $(document).scroll(function () {
             $('.alertbar').fadeOut();
         }
     });
+
+var anchorForId = function(e) {
+        var t = document.createElement("a");
+        return t.className = "header-link", t.href = "#" + e, t.innerHTML = '<span class="sr-only">Permalink</span><i class="fa fa-link"></i>', t.title = "Permalink", t
+    },
+    linkifyAnchors = function(e, t) {
+        for (var n = t.getElementsByTagName("h" + e), o = 0; o < n.length; o++) {
+            var r = n[o];
+            void 0 !== r.id && "" !== r.id && r.appendChild(anchorForId(r.id))
+        }
+    };
+! function(e) {
+    var t = {};
+    e.cachedAjaxPromise = function(n, o) {
+        var r, i = t[n];
+        return i || (i = new jQuery.Deferred, t[n] = i, (r = function(e) {
+            return (e = window.localStorage.getItem(e)) ? JSON.parse(e) : e
+        }(n)) && i.resolve(r), o || (o = {}), e.extend(o, {
+            error: function(e, t, n) {
+                console.log("User info request failed: " + n), i.resolve(null)
+            },
+            success: function(e) {
+                var t = JSON.stringify(e);
+                window.localStorage.setItem(n, t), i.resolve(e)
+            }
+        }), e.ajax(n, o)), i.promise()
+    }
+}(jQuery), $(".open-dialog").click(function() {
+        return $("#kotak-dialog").show().find("#iframeContainer").html('<iframe src="' + this.href + '"></iframe>'), $("#dialog-overlay").fadeTo(400, .8), !1
+    }), $("#kotak-dialog .closed").click(function() {
+        return $("#kotak-dialog").fadeOut("normal", function() {
+            $("iframe", this).remove()
+        }), $("#dialog-overlay").hide(), !1
+    }), $('a[href*="#"]').not('[href="#"]').not('[href="#0"]').click(function(e) {
+        if (location.pathname.replace(/^\//, "") == this.pathname.replace(/^\//, "") && location.hostname == this.hostname) {
+            var t = $(this.hash);
+            (t = t.length ? t : $("[name=" + this.hash.slice(1) + "]")).length && (e.preventDefault(), $("html, body").animate({
+                scrollTop: t.offset().top
+            }, 1e3, function() {
+                var e = $(t);
+                if (e.focus(), e.is(":focus")) return !1;
+                e.attr("tabindex", "-1"), e.focus()
+            }))
+        }
+    })
