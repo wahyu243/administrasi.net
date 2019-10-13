@@ -110,16 +110,15 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
  2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYYmcyUk5wRy1NOUk/view?usp=sharing" target="_blank">Teknik Pemboran Minyak dan Gas</a>
  3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYVjAyRjE1dDVuMmM/view?usp=sharing" target="_blank">Teknik Pengolahan Minyak, Gas dan Petrokimia</a>
 
- #### Program Keahlian Geologi Pertambangan
+#### Program Keahlian Geologi Pertambangan
+1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYSkRQelplZ3p2WjQ/view?usp=sharing" target="_blank">Geologi Pertambangan</a>
     
- 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYSkRQelplZ3p2WjQ/view?usp=sharing" target="_blank">Geologi Pertambangan</a>
-    
- #### Program Keahlian Teknik Energi Terbarukan
+#### Program Keahlian Teknik Energi Terbarukan
     
  1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYOU9HUUFGYTBRekk/view?usp=sharing" target="_blank">Teknik Energi Surya, Hidro, dan Angin</a>
  2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYWVZZU3ViYndFb0U/view?usp=sharing" target="_blank">Teknik Energi Biomassa</a>
     
- ### Bidang Keahlian Teknologi Informasi dan Komunikasi
+### Bidang Keahlian Teknologi Informasi dan Komunikasi
 #### Program Keahlian Teknik Komputer dan Informatika
     
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYY2FYNjl0TE44dmM/view?usp=sharing" target="_blank">Rekayasa Perangkat Lunak</a>
@@ -127,7 +126,7 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYQkRoSV9SRGZLZzA/view?usp=sharing" target="_blank">Multimedia</a>
 4. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYaVQzajEzZ0QtU2s/view?usp=sharing" target="_blank">Sistem Informatika, Jaringan dan Aplikasi</a>
     
- #### Program Keahlian Teknik Telekomunikasi
+#### Program Keahlian Teknik Telekomunikasi
     
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYX01fajN2QWR6VFU/view?usp=sharing" target="_blank">Teknik Transmisi Telekomunikasi</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYLTNzSVlLbUVKeGs/view?usp=sharing" target="_blank">Teknik Jaringan Akses Telekomunikasi</a>
