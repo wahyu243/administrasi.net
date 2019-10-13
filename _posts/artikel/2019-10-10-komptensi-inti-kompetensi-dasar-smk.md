@@ -25,9 +25,11 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYYkJMc3JHUG9xaEE/view?usp=sharing" target="_blank">Konstruksi Jalan, Irigasi dan Jembatan</a>
 3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYXzNDWXNYWWNWT1U/view?usp=sharing" target="_blank">Bisnis Konstruksi dan Properti</a>
 4. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYRlpTNzIwRGdhY1k/view?usp=sharing" target="_blank">Desain Pemodelan dan Informasi Bangunan</a>
+
 #### Program Keahlian Teknik Geomatika dan Geospasial
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYbmgtWmhOUnZLUGM/view?usp=sharing" target="_blank">Teknik Geomatika</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYRUxsWjA4RXIwa0E/view?usp=sharing" target="_blank">Informasi Geospasial</a>
+
 #### Program Keahlian Teknik Ketenagalistrikan
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYVTh2YUVPZ2MydGc/view?usp=sharing" target="_blank">Teknik Pembangkit Tenaga Listrik</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYb2lOM2lXN3NweTQ/view?usp=sharing" target="_blank">Teknik Jaringan Tenaga 
@@ -35,6 +37,7 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 4. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYNmJnOTRpQkZKYmM/view?usp=sharing" target="_blank">Teknik Otomasi Industri</a>
 5. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYTnNwRkdxM0RpNlE/view?usp=sharing" target="_blank">Teknik Pendinginan dan Tata Udara</a>
 6. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYZE4wbjFHb2lXQTQ/view?usp=sharing" target="_blank">Teknik Tenaga Listrik</a>
+
 #### Program Keahlian Teknik Mesin
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYY1BHNzFHMnVhN3M/view?usp=sharing" target="_blank">Teknik Pemesinan</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYSi1Xc1k0TGhCRDA/view?usp=sharing" target="_blank">Teknik Pengelasan</a>
@@ -42,6 +45,7 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 4. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYQkREMXpobDd4RWM/view?usp=sharing" target="_blank">Teknik Mekanik Industri</a>
 5. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYUGtvQmlDd1JQUnc/view?usp=sharing" target="_blank">Teknik Perancangan dan Gambar Mesin</a>
 6. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYQ2U1WDdEV0R6Mmc/view?usp=sharing" target="_blank">Teknik Fabrikasi Logam dan Manufaktur</a>
+
 #### Program Keahlian Teknologi Pesawat Udara
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYOXVBNXlzSldQd0U/view?usp=sharing" target="_blank">Airframe Power Plant</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYRC1Ea3YxSTlfaE0/view?usp=sharing" target="_blank">Aircraft Machining</a>
@@ -50,25 +54,31 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 5. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYZlMycGRyVEE1MkE/view?usp=sharing" target="_blank">Aircraft Electricity</a>
 6. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYaDlGbUpOTWNySkE/view?usp=sharing" target="_blank">Aviation Electronics</a>
 7. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYZkxnSVlxd2xuSUE/view?usp=sharing" target="_blank">Electrical Avionics</a>
+
 #### Program Keahlian Teknik Grafika
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYOGNmcHZIVi0zUXM/view?usp=sharing" target="_blank">Desain Grafika</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYVFMxSXdENU1Iblk/view?usp=sharing" target="_blank">Produksi Grafika</a>
+
 #### Program Keahlian Teknik Instrumentasi Industri
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYdEx0bHFGUHdZMmM/view?usp=sharing" target="_blank">Teknik Instrumentasi Logam</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYT1p6QW5lU3VnbEE/view?usp=sharing" target="_blank">Instrumentasi dan Otomatisasi Proses</a>
+
 #### Program Keahlian Teknik Industri
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYbVNMbUhxX1pvNjA/view?usp=sharing" target="_blank">Teknik Pengendalian Produksi</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYeThqYUlSWTYxN1E/view?usp=sharing" target="_blank">Teknik Tata Kelola Logistik</a>
+
 #### Program Keahlian Teknologi Tekstil
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYeU5YM0NXbXl1RTA/view?usp=sharing" target="_blank">Teknik Pemintalan Serat Buatan</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYWk9BZnRtb1V1WGc/view?usp=sharing" target="_blank">Teknik Pembuatan Benang</a>
 3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYSWtYMl9RdTZsQ28/view?usp=sharing" target="_blank">Teknik Pembuatan Kain</a>
 4. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYZ1lBN2JOeEE0UW8/view?usp=sharing" target="_blank">Teknik Penyempurnaan Tekstil</a>
+
 #### Program Keahlian Teknik Kimia
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYYkt5QUtCaHlYN2M/view?usp=sharing" target="_blank">Analisis Pengujian Laboratorium</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYaUdZd0hCb0FXT2c/view?usp=sharing" target="_blank">Kimia Industri</a>
 3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYQWkzMWhPdlUtRTQ/view?usp=sharing" target="_blank">Kimia Analisis</a>
 4. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYTmJyRXREeldDNzA/view?usp=sharing" target="_blank">Kimia Tekstil</a>
+
 #### Program Keahlian Teknik Otomotif
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYMG9MZ3hpdHRSX0U/view?usp=sharing" target="_blank">Teknik Kendaraan Ringan Otomotif</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYZXRuZF9ITTNiUDQ/view?usp=sharing" target="_blank">Teknik dan Bisnis Sepeda Motor</a>
@@ -79,7 +89,6 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 7. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYQ29ZY1BUNzNteTg/view?usp=sharing" target="_blank">Otomotif Daya dan Konversi Energi</a>
     
 #### Program Keahlian Teknik Perkapalan
-    
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYSFdIbEVidk9xZzA/view?usp=sharing" target="_blank">Konstruksi Kapal Baja</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYTmdVbXo4cmQ3aVE/view?usp=sharing" target="_blank">Konstruksi Kapal Non Baja</a>
 3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYd1prQ3h4ai13WUE/view?usp=sharing" target="_blank">Teknik Pemesinan Kapal</a>
@@ -88,8 +97,7 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
 6. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYeFJoT0RyVWJVaWc/view?usp=sharing" target="_blank">Desain dan Rancang Bangun Kapal</a>
 7. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYTzBXS29pZEkyVWc/view?usp=sharing" target="_blank">Interior Kapal</a>
     
-#### Program Keahlian Teknik Elektronika
-    
+#### Program Keahlian Teknik Elektronika 
 1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYQW9sMG1tVmxWaEk/view?usp=sharing" target="_blank">Teknik Audio Video</a>
 2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYMnVmVTVSRkx2dmc/view?usp=sharing" target="_blank">Teknik Elektronika Industri</a>
 3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYcWk4N2l6LUtQZnc/view?usp=sharing" target="_blank">Teknik Mekatronika</a>
@@ -98,7 +106,6 @@ KI dan KD untuk satuan pendidikan SMK memiliki karakteristik yang mengarah pada 
     
 ### Bidang Keahlian Energi dan Pertambangan
 #### Program Keahlian Teknik Perminyakan
-    
  1. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYNjJqaWdoY3J5aVk/view?usp=sharing" target="_blank">Teknik Produksi Minyak dan Gas</a>
  2. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYYmcyUk5wRy1NOUk/view?usp=sharing" target="_blank">Teknik Pemboran Minyak dan Gas</a>
  3. <a href="https://drive.google.com/file/d/0BxuiQ-cxi2TYVjAyRjE1dDVuMmM/view?usp=sharing" target="_blank">Teknik Pengolahan Minyak, Gas dan Petrokimia</a>
