@@ -132,7 +132,7 @@
   display: inline-block;
   float: left;
   line-height: 40px;
-  font-size: 12px;
+  font-size: 20px;
   margin: 2px 0;
 }
 
@@ -235,4 +235,7 @@
     height: 1px;
     width: 1px;
     overflow: hidden;
+}
+.share-btn {
+    float: right;
 }
