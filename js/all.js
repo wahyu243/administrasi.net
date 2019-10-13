@@ -5998,3 +5998,11 @@ $.magnificPopup.registerModule(RETINA_NS, {
           
 })(jQuery);
 
+$(document).scroll(function () {
+        var y = $(this).scrollTop();
+        if (y > 280) {
+            $('.alertbar').fadeIn();
+        } else {
+            $('.alertbar').fadeOut();
+        }
+    });
