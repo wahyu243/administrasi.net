@@ -84,3 +84,14 @@ body{background: #f8f9fa;}
 }.side a {
     text-transform: capitalize;
 }
+.alertbar {
+    box-shadow: 0 -3px 10px 0 rgba(0,0,0,.0785);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    width: 100%;
+    padding: 20px 0;
+    z-index: 1021;
+    display: none;
+}
