@@ -10,8 +10,10 @@
         {{ content }}
            
     {% include footer.html %}
-    
-     {% if site.analytics %}
+    {% if page.layout == 'post' %} 
+    {% include alertbar.html %}
+    {% endif %}
+    {% if site.analytics %}
         {% include analytics.html %}
     {% endif %}
    
