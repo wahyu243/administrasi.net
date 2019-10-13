@@ -8,8 +8,9 @@ tags:
 ---
 
 * TOC{:toc}
-## Pendahuluan
 
+
+## Pendahuluan
 <abbr title="Kompetensi inti">KI</abbr> **(Kompetensi Inti)** berfungsi sebagai unsur pengorganisasi Kompetensi Dasar. Sebagai unsur pengorganisasi, KI merupakan pengikat untuk organisasi vertikal dan organisasi horizontal <abbr Title="Kompetensi Dasar">KD</abbr> **(Kompetensi Dasar)**.
 
 KI dan KD digunakan sebagai tolak ukur setiap kegiatan pembelajaran di Sekolah, yang telah dirumuskan oleh Pemerintah agar tujuan pendidikan nasional dapat tercapai.
