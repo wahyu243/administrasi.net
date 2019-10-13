@@ -38,6 +38,7 @@ group :jekyll_optional_dependencies do
   gem "mime-types", "~> 3.0"
   gem "rdoc", "~> 6.0"
   gem "tomlrb", "~> 1.2"
+  gem 'jekyll-toc', '~> 0.12.2'
 
   platform :ruby, :mswin, :mingw, :x64_mingw do
     gem "classifier-reborn", "~> 2.2"
