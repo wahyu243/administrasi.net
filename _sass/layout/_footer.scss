@@ -5,11 +5,19 @@
     color: $white;
     background: lighten($colorPrimary, 2%);
     text-align: center;
-    z-index:1022;
+    z-index: 1022;
     small {
         display: block;
     }
 }
 .social li small {
     font-size: 12px;
+}
+@media (max-width:500px) {
+	.display-4 {
+		font-size:25px;
+	}
+	.alertbar img {
+		display: none !important;
+	}
 }
