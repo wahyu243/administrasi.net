@@ -6006,4 +6006,3 @@ $(document).scroll(function () {
             $('.alertbar').fadeOut();
         }
     });
-var anchorForId=function(e){var t=document.createElement("a");return t.className="header-link",t.href="#"+e,t.innerHTML='<span class="sr-only">Permalink</span><i class="fa fa-link"></i>',t.title="Permalink",t},linkifyAnchors=function(e,t){for(var n=t.getElementsByTagName("h"+e),o=0;o<n.length;o++){var r=n[o];void 0!==r.id&&""!==r.id&&r.appendChild(anchorForId(r.id))}};
