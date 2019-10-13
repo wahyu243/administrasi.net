@@ -5,7 +5,7 @@
             <div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
                 <div class="col-md-6 align-self-center">
 			 {% if page.breadcrumbs %}
-  <nav class="breadcrumbs mb-3" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumbs">
+  <nav class="breadcrumbs mb-3 no-print" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumbs">
     <span class="breadcrumb sr-only" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
       <a href="{{ '/' | relative_url }}" itemprop="item">
         <span itemprop="name">Home</span>
