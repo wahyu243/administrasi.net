@@ -1,6 +1,6 @@
 {% include doctype-head.html %}
 <body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
-    {% include svg-defs.svg %}
+    
     <!--[if lt IE 10]>
         <p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to better experience this site.</p>
     <![endif]-->
@@ -16,7 +16,7 @@
     {% if site.analytics %}
         {% include analytics.html %}
     {% endif %}
-   
+   {% include svg-defs.svg %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>  
     <script src="{{ site.baseurl }}/js/all.js"></script>
 </body>
