@@ -87,10 +87,10 @@ Mengacu pada beberapa pernyataan di atas dapat disimpulkan bahwa anak tunagrahit
 **Tunagrahita berat** memiliki tingkat kecerdasan yang paling rendah, mereka sangat tergantung kepada orang lain karena kurang mampu membina diri, kurang mampu membedakan yang baik dengan yang buruk, dan memiliki tingkat kecerdasan yang setara dengan anak usia 4 tahun.
 
 ## Permasalahan yang dihadapi Anak Tunagrahita
-Keterbatasan kemampuan yang dimiliki anak tunagrahita seperti halnya memiliki fungsi kecerdasan di bawah rata-rata, kurang mampu berpikir abstrak, dapat menimbulkan permasalahan-permasalahan dalam masa perkembangannya. Permasalahan tersebut menurut Astati (2001:10) sebagai berikut:
+Keterbatasan kemampuan yang dimiliki anak tunagrahita dapat menimbulkan permasalahan-permasalahan dalam masa perkembangannya. Permasalahan tersebut menurut Astati (2001:10) sebagai berikut:
 1. Masalah penyesuaian diri. Anak tunagrahita ringan mengalami kesulitan dalam mengartikan norma-norma lingkungan serta mereka tidak dapat melakukan fungsi sebagai anggota masyarakat.
-2.	Masalah pemeliharaan diri. Anak tunagrahita ringan mengalami kesulitan dalam membina dirinya misalnya dalam mengadakan orientasi pemeliharaan diri di lingkungan serta bagaimana kepantasan penampilannya.
-3.	Masalah kesulitan belajar. Kesulitan belajar umumnya tampak dalam bidang pelajaran yang sifatnya akademis dan mengandung hal-hal yang sifatnya abstrak.
-4.	Masalah pekerjaan. Kurangnya kesesuaian antara keterampilan yang dimiliki dan prilaku vokasional (daya tahan, minat, kegembiraan, komunikasi, penampilan, dll) dengan tuntutan lapangan kerja.
+2. Masalah pemeliharaan diri. Anak tunagrahita ringan mengalami kesulitan dalam membina dirinya misalnya dalam mengadakan orientasi pemeliharaan diri di lingkungan serta bagaimana kepantasan penampilannya.
+3. Masalah kesulitan belajar. Kesulitan belajar umumnya tampak dalam bidang pelajaran yang sifatnya akademis dan mengandung hal-hal yang sifatnya abstrak.
+4. Masalah pekerjaan. Kurangnya kesesuaian antara keterampilan yang dimiliki dan prilaku vokasional (daya tahan, minat, kegembiraan, komunikasi, penampilan, dll) dengan tuntutan lapangan kerja.
 
 Terhambatnya proses perkembangan menimbulkan berbagai permasalahan yang harus dihadapi anak tunagrahita ringan seperti: masalah dalam beradaptasi dengan lingkungan masyarakat, kesulitan dalam membina diri, kesulitan dalam mempelajari hal-hal yang bersifat akademis dan abstrak, serta pada saat dewasa dapat menghadapi masalah dalam menyesuaikan diri sesuai dengan tuntutan lapangan pekerjaan. Oleh karena itu diperlukan suatu upaya sejak dini untuk melatih, memberikan pengajaran sesuai dengan potensi yang dimiliki agar anak tunagrahita ringan dapat hidup mandiri pada saat dewasa nanti.
