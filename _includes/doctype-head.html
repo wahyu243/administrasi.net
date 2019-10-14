@@ -53,6 +53,53 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-   
+      <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "{% if page.layout == 'post' %}Article{% else %}WebSite{% endif %}",
+    "headline": "{%if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}",
+    "name": "{%if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "id": "{{ site.url }}{{ page.url }}"
+    },
+    "image": {
+        "@type": "ImageObject",
+       "url": " {%if page.image %}{{ site.url }}/img/{{ page.image }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
+		"width": 728,
+        "height": 546
+    },
+    "author": {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{ site.url }}/apple-touch-icon.png",
+            "width": 180,
+            "height": 180
+        },
+        "sameAs": [
+    "https://twitter.com/",
+   "https://plus.google.com",
+   "https://www.facebook.com/"
+        ]
+    },
+    "description": "{% if page.description %}{{ page.description}}{% else %}{{ site.description}}{% endif %}"
+}
+    </script>
+    <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "{{ site.url }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ site.url }}/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 
 </head>
