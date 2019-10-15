@@ -190,3 +190,12 @@ include: [_redirects,.htaccess,_pages]
 analytics: UA-115101359-19
 google_verification: KVq75QFLhLp8UoW-Mf-ifdxcDsciWvOnDrQEn25KS5M
 bing_verification: 45256F6C01A5B0893737B4B675E797AE
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [all]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
