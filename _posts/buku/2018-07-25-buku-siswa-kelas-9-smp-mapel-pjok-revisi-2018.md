@@ -1,10 +1,8 @@
 ---
-layout: news_item
-comments: true
+
 title: "Buku Guru Kelas 9 Mapel PJOK Revisi 2018"
 date: "2018-07-25 01:49:09"
 description: Buku paket K13 Buku Guru Kelas 9 SMP/MTs Mapel PJOK Revisi 2018 sebagai referensi dalam pelaksanaan pembelajaran PJOK SMP/MTs kelas IX.
-author: artipedia
 tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
 published: true
 ---
@@ -44,7 +42,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr> kelas 9 (IX).
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr> kelas 9 (IX).
 
 Buku Guru Kelas IX mapel PJOK ini adalah buku kurikulum 2013 revisi terbaru. Buku dapat dijadikan oleh guru ataupun sisa sebagai panduan baik itu dalam mengelola kegiatan dikelas ataupun sebagai sumber materi bagi sisa.
 
