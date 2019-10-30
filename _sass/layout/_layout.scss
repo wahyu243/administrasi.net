@@ -119,3 +119,20 @@ body{background: #f8f9fa;}
 }
 #markdown-toc ul{list-style:lower-latin;padding:0 0 0 15px}
 #markdown-toc a{color:#555;text-decoration:none}#markdown-toc a:hover{color:#f90}
+
+.arti li {
+    padding: 5px 0;
+    font-size: 93%;
+}
+.arti li:nth-child(2n), .side:nth-child(2n) {
+    background-color: rgba(0,0,50,.03);
+}
+.arti li a {
+    color: #555;
+}
+.arti li a:hover, .arti li a:focus,.side a:hover, .side a:focus {
+    padding-left: 7px;
+    transition: all 0.15s ease;
+    text-decoration: none;
+    color: #e65026;
+}
