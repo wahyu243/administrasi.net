@@ -1,6 +1,4 @@
 ---
-layout: news_item
-comments: true
 title: "Buku Guru Kelas 9 Mapel Seni Budaya Revisi 2018"
 date: "2018-07-23 21:49:09"
 description: Buku paket K13 Buku Guru Kelas 9 SMP/MTs Mapel Seni Budaya Revisi 2018 merupakan buku bagi guru kurikulum 2013 sebagai pedoman guru dalam pembelajaran Seni Budaya.
@@ -44,7 +42,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran **Seni Budaya kelas 9 (IX)**.
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran **Seni Budaya kelas 9 (IX)**.
 
 ## Buku Guru Kelas IX Mata Pelajaran Seni Budaya
 
