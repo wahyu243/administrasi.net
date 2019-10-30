@@ -99,6 +99,7 @@ defaults:
     type: posts
   values:
     layout: post
+    permalink: "/adm/:title"
     category: administrasi
     image: twitter-card.png
     author: wahyu
@@ -108,7 +109,7 @@ defaults:
     support: true
     breadcrumbs:
       - label: "Administrasi"
-        url: /administrasi
+        url: /adm
 - scope:
     path: _posts/cara
     type: posts
