@@ -1,11 +1,9 @@
 ---
-layout: news_item
 title: Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita Kurikulum 2013
 description: >-
   Buku siswa kelas 5 tema 8 Lingkungan Sahabat Kita merupakan buku kurikulum
   2013 revisi 2017 yang digunakan sebagai penunjang bagi pembelajaran siswa di
   kelas.
-image: buku-siswa-sd.png
 last_modified_date: 2019-09-28T09:51:17.380Z
 tags:
   - buku
@@ -50,7 +48,7 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti **Buku Siswa Kelas 5** Tema 8 dibawah ini:
+[Administrasi.Net](/ "Administrasi.Net") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti **Buku Siswa Kelas 5** Tema 8 dibawah ini:
 
 Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
 
@@ -68,8 +66,8 @@ Struktur penulisan buku siswa kelas 5 ini memfasilitasi pengalaman belajar berma
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|V (lima)|
