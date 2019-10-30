@@ -130,7 +130,7 @@ body{background: #f8f9fa;}
 .arti li a {
     color: #555;
 }
-.arti li a:hover, .arti li a:focus,.side a:hover, .side a:focus {
+.arti li a:hover, .arti li a:focus,.side a:hover, .side a:focus,.d-flex.small a:hover, .d-flex.small a:focus  {
     padding-left: 7px;
     transition: all 0.15s ease;
     text-decoration: none;
