@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 6 Tema 2 Persatuan dalam Perbedaan Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-06-29 04:49:09"
 description: Download Buku Siswa Kelas 6 Tema 2 Persatuan dalam Perbedaan Revisi 2018, merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari 3 subTema.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
 published: true
-image: buku-siswa-sd.png
 ---
 * TOC
 {:toc}
@@ -46,14 +42,14 @@ image: buku-siswa-sd.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Siswa Kelas 6 Kurikulum 2013** mengalami revisi seiring berganti tahun ajaran, mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 2 (Persatuan dalam Perbedaan) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 170 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 6 Kurikulum 2013** mengalami revisi seiring berganti tahun ajaran, mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 2 (Persatuan dalam Perbedaan) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 170 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 ## Buku Siswa Kelas 6 Tema 2 Persatuan dalam Perbedaan
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-6-tema-2-persatuan-dalam-perbedaan-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 2 Persatuan dalam Perbedaan Revisi 2018"><strong>Tema 2 : Persatuan dalam Perbedaan </strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-6-tema-2-persatuan-dalam-perbedaan-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 2 Persatuan dalam Perbedaan Revisi 2018"><strong>Tema 2 : Persatuan dalam Perbedaan </strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
@@ -83,11 +79,6 @@ Buku Siswa <b>kelas 6 semester 1 Tema 2</b> ini berisi sebagai berikut.
 <b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
 
-Lihat Lainnya:
-1. [Komik Pendidikan](https://artipedia.site/wiki/baca-online-komik-pendidikan.html)
-2. [Buku Guru Kelas II (2) Revisi](https://artipedia.site/wiki/buku-guru-kelas-2-sd-revisi-2017.html)
-4. [Buku Guru Kelas IX (9) Revisi](https://artipedia.site/wiki/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015.html)
-  
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
