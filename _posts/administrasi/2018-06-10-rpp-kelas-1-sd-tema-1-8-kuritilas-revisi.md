@@ -2,10 +2,9 @@
 title: "RPP Kelas 1 SD Tema 1-8 Kurikulum 2013 Revisi 2017"
 date: "2018-06-10 20:00:47"
 description: RPP K13 Kelas 1 SD Tema 1 s/d 8 Kurikulum 2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program pembelajaran (RPP) tahun Ajaran 2018-2019.
-author: artipedia
-image: rpp kelas 1 semua tema hasil revisi 2017.png
 tags: [administrasi,pendidikan,rpp,kelas-1,revisi-2017]
 ---
+
 * TOC
 {:toc}
 
@@ -13,7 +12,7 @@ Kegiatan pelaksanaan pembelajaran akan lebih efektif apabila disertai dengan per
 
 Rencana pelaksanaan pembelajaran <b>(RPP)</b> bagi <i>Jenjang Sekolah Dasar</i> dibuat dalam bentuk <i>Tematik</i> dimana membaurkan beberapa mata pelajaran dalam satu tema. Setiap satuan pendidikan, kelas memiliki tema-tema tersendiri. 
 
-Kelas 1 Sekolah Dasar Tahun ajaran baru (2018-2019) terdiri dari delapan tema yang didalamnya memuat masing-masing 4 subtema. RPP yang dipublikasikan di sini hanyalah sebagai contoh atau panduan bagi guru dalam merumuskan program pembalajaran untuk tahun ajaran baru (2018-2019) sehingga tidak sepenuhnya rencana program pembelajaran yang dimuat disini benar. Berikut ini adalah contoh [RPP Kelas 1 SD Semester 1 dan 2 kurikulum 2013](https://artipedia.id/wiki/rpp-kelas-1-sd-tema-1-8-kuritilas-revisi.html "RPP Kelas 1 SD Semester 1 dan 2 kurikulum 2013").
+Kelas 1 Sekolah Dasar Tahun ajaran baru (2018-2019) terdiri dari delapan tema yang didalamnya memuat masing-masing 4 subtema. RPP yang dipublikasikan di sini hanyalah sebagai contoh atau panduan bagi guru dalam merumuskan program pembalajaran untuk tahun ajaran baru (2018-2019) sehingga tidak sepenuhnya rencana program pembelajaran yang dimuat disini benar. Berikut ini adalah contoh [RPP Kelas 1 SD Semester 1 dan 2 kurikulum 2013](/administrasi/rpp-kelas-1-sd-tema-1-8-kuritilas-revisi.html "RPP Kelas 1 SD Semester 1 dan 2 kurikulum 2013").
 
 ### Tema Diriku
 <b>Tema Diriku</b> terdiri dari beberapa subtema. Berikut ini adalah <b>contoh RPP Tematik <acronym title="Kurikulum 2013">K13</acronym> Kelas 1 SD</b> Tema Diriku Revisi terbaru.
