@@ -136,3 +136,6 @@ body{background: #f8f9fa;}
     text-decoration: none;
     color: #e65026;
 }
+.table>tr:nth-child(2n), table tbody tr:nth-child(2n) {
+    background-color: rgba(0,0,50,.03);
+}
