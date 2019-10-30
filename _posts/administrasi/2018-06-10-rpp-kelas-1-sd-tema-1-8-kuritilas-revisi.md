@@ -1,6 +1,4 @@
 ---
-layout: news_item
-comments: true
 title: "RPP Kelas 1 SD Tema 1-8 Kurikulum 2013 Revisi 2017"
 date: "2018-06-10 20:00:47"
 description: RPP K13 Kelas 1 SD Tema 1 s/d 8 Kurikulum 2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program pembelajaran (RPP) tahun Ajaran 2018-2019.
