@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 6 Tema 1 Selamatkan Makhluk Hidup Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-06-29 04:49:09"
 description: Unduh Buku Siswa kelas 6 Tema 1 Selamatkan Makhluk Hidup Revisi 2018 terdiri dari subTema Tumbuhan Sahabatku, Hewan Sahabatku, dan Ayo, Selamatkan Hewan dan Tumbuhan
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
 published: true
-image: buku-siswa-kelas-6-tema-1-revisi-2018.png
 ---
 * TOC
 {:toc}
@@ -46,14 +42,14 @@ image: buku-siswa-kelas-6-tema-1-revisi-2018.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku siswa kelas 6** <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) **Tema 1 (Selamatkan Makhluk Hidup)** ini merupakan **buku paket tematik** sebagai sumber belajar bagi *siswa sd* kelas 6. Buku dengan jumlah halaman sebanyak 178 halaman, buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku siswa kelas 6** <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) **Tema 1 (Selamatkan Makhluk Hidup)** ini merupakan **buku paket tematik** sebagai sumber belajar bagi *siswa sd* kelas 6. Buku dengan jumlah halaman sebanyak 178 halaman, buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 ## Buku Siswa Kelas 6 Tema 1 Selamatkan Makhluk Hidup
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-6-tema-1-selamatkan-makhluk-hidup-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 1 Selamatkan Makhluk Hidup Revisi 2018"><strong>Tema 1 : Selamatkan Makhluk Hidup</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-6-tema-1-selamatkan-makhluk-hidup-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 1 Selamatkan Makhluk Hidup Revisi 2018"><strong>Tema 1 : Selamatkan Makhluk Hidup</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
