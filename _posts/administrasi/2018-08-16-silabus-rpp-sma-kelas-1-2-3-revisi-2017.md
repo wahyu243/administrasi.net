@@ -2,7 +2,6 @@
 title: "Silabus RPP SMA Kelas X, XI, XII Kurikulum 2013 Revisi 2017"
 description: Download/Unduh Contoh Silabus & RPP SMA Kelas 1,2,3 Kurikulum 2013 Revisi 2017.
 date: "2018-08-16 20:48:09 -0500"
-author: artipedia
 tags: [administrasi,rpp,pendidikan,sma]
 ---
 * TOC
