@@ -1,6 +1,4 @@
 ---
-layout: news_item
-comments: true
 title: "Silabus RPP SMA Kelas X, XI, XII Kurikulum 2013 Revisi 2017"
 description: Download/Unduh Contoh Silabus & RPP SMA Kelas 1,2,3 Kurikulum 2013 Revisi 2017.
 date: "2018-08-16 20:48:09 -0500"
@@ -12,7 +10,7 @@ tags: [administrasi,rpp,pendidikan,sma]
 
 
 ## Pendahuluan
-**Silabus dan RPP** adalah sarana yang dibutuhkan seorang guru yang wajib dimiliki, agar dalam kegiatan Proses Belajar Mengajar (PBM) di sekolah dapat berjalan lancar dan tertib sesuai administasri. Bayangkan apabila seorang guru jika dalam kegiatan PBM tanpa menyusun RPP terlebih dahulu? pasti proses Kegiatan belajar mengajar tidak berjalan dengan maksimal. Berikut **[Contoh silabus dan RPP Kurikulum 2013 SMA](/wiki/silabus-rpp-sma-kelas-1-2-3-revisi-2017.html "silabus dan RPP Kurikulum 2013 SMA")** atau sering disebut juga K13 atau kurtilas SMA yang dapat anda download secara gratis di bawah ini.Dengan tujuan untuk membantu Guru setiap mata pelajaran terhadap kelancaran proses belajar mengajar di sekolah.
+**Silabus dan RPP** adalah sarana yang dibutuhkan seorang guru yang wajib dimiliki, agar dalam kegiatan Proses Belajar Mengajar (PBM) di sekolah dapat berjalan lancar dan tertib sesuai administasri. Bayangkan apabila seorang guru jika dalam kegiatan PBM tanpa menyusun RPP terlebih dahulu? pasti proses Kegiatan belajar mengajar tidak berjalan dengan maksimal. Berikut **[Contoh silabus dan RPP Kurikulum 2013 SMA](/administrasi/silabus-rpp-sma-kelas-1-2-3-revisi-2017 "silabus dan RPP Kurikulum 2013 SMA")** atau sering disebut juga K13 atau kurtilas SMA yang dapat anda download secara gratis di bawah ini.Dengan tujuan untuk membantu Guru setiap mata pelajaran terhadap kelancaran proses belajar mengajar di sekolah.
 
 **Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)** merupakan salah satu penunjang guru dalam pembelajaran. Rencana pelaksanaan pembelajaran menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> diharapkan kegiatan pembelajaran lebih terprogram. 
 
