@@ -1,10 +1,7 @@
 ---
-layout: news_item
-comments: true
 title: "Buku Siswa Kelas 9 Mapel IPA Kurikulum 2013 Revisi 2018"
 date: "2018-07-23 01:49:09"
 description: Buku paket K13 Buku Siswa Kelas 9 SMP/MTs Mapel IPA Kurikulum 2013 Revisi 2018 sebagai referensi dalam pelaksanaan pembelajaran IPA SMP/MTs kelas IX.
-author: artipedia
 tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel]
 published: true
 ---
@@ -44,7 +41,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) **mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX)**.
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) **mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX)**.
 
 Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas. 
 
@@ -62,8 +59,8 @@ Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, 
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-ipa-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Alam">IPA</abbr></strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-9-smp-mapel-ipa-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Alam">IPA</abbr></strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|
@@ -92,4 +89,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 Buku IPA SMP Kurtilas Revisi 2018 ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a href="http://bsd.pendidikan.id/data/2013/kelas_9smp/siswa/Kelas_09_SMP_Ilmu_Pengetahuan_Alam_Siswa_1.pdf">Semester 1 <a> <a href="http://bsd.pendidikan.id/data/2013/kelas_9smp/siswa/Kelas_09_SMP_Ilmu_Pengetahuan_Alam_Siswa_2.pdf">Semester 2</a></p>
 
-Alternative Lihat [Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap](https://artipedia.id/buku/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015 "Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap")
+Alternative Lihat [Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap](/bsd/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015 "Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap")
