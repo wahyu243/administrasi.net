@@ -21,7 +21,7 @@
 <div class="card border-0 shadow mb-4">
     <div class="card-body aside">
         <h3 class="font-weight-bold small">Terbaru</h3>
-        <hr class="my-2"> {% for post in site.posts %}
+        <hr class="my-2"> {% for post in site.posts limit:10 %}
         <div class="d-flex justify-content-between small">
             <span class="font-weight-bold"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title | truncate: 35  }}</a></span>
             <span>{{ post.date | date_to_string }}</span>
