@@ -11,11 +11,11 @@ tags: [administrasi,rpp,pendidikan,kelas-1,revisi-2018]
 {:toc}
 
 ## Pendahuluan
-[ArtiPedia](/ "ArtiPedia") - <b>Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)</b> merupakan salah satu penunjang guru dalam pembelajaran. <b>Rencana pelaksanaan pembelajaran</b> menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya RPP diharapkan kegiatan pembelajaran lebih terprogram. RPP <acronym title="Kurikulum 2013">Kurtilas</acronym> terdiri dari berbagai komponen program yang saling berkaitan. 
+[Administrasi.Net](/ "Administrasi.Net") - <b>Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)</b> merupakan salah satu penunjang guru dalam pembelajaran. <b>Rencana pelaksanaan pembelajaran</b> menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya RPP diharapkan kegiatan pembelajaran lebih terprogram. RPP <acronym title="Kurikulum 2013">Kurtilas</acronym> terdiri dari berbagai komponen program yang saling berkaitan. 
 
 Rencana pelaksanaan pembelajaran <b>(RPP)</b> bagi <i>Jenjang Sekolah Dasar</i> dibuat dalam bentuk <i>Tematik</i> dimana membaurkan beberapa mata pelajaran dalam satu tema.
 
-Melalui [RPP Kelas 1](https://artipedia.id/wiki/rpp-kelas-1-tema-1-8-kurikulum-2013-revisi-2018.html "RPP Kelas 1 SD") diharapkan pengelolaan kelas dalam hal pembelajaran akan lebih maksimal, karena didalam rpp telah dirumusan tujuan pembelajaran, media, alokasi waktu, kegiatan pembelajaran, proses penilaian, kompetensi inti dan kompetensi dasar dll. Semua itu sudah tercantum jelas didalam RPP sehingga akan memudahkan guru dalam melaksanakan kegiatan pembelajaran.
+Melalui [RPP Kelas 1](/administrasi/rpp-kelas-1-tema-1-8-kurikulum-2013-revisi-2018.html "RPP Kelas 1 SD") diharapkan pengelolaan kelas dalam hal pembelajaran akan lebih maksimal, karena didalam rpp telah dirumusan tujuan pembelajaran, media, alokasi waktu, kegiatan pembelajaran, proses penilaian, kompetensi inti dan kompetensi dasar dll. Semua itu sudah tercantum jelas didalam RPP sehingga akan memudahkan guru dalam melaksanakan kegiatan pembelajaran.
 {% include ads-artikel.html %}
 
 ## RPP Kelas 1 SD / MI Semester 1
