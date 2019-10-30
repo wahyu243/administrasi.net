@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 3 Tema 2 Menyayangi Tumbuhan dan Hewan Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-06-24 04:49:09"
 description: Buku siswa kelas 3 tema 2 Menyayangi Tumbuhan dan Hewan Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi terbaru tahun ajaran 2018/2019 terdiri dari 4 subtema 1. Manfaat Tumbuhan Bagi Kehidupan Manusia, 2. Manfaat Hewan Bagi Kehidupan Manusia, 3. Menyayangi Tumbuhan, 4. Menyayangi Hewan.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
 published: true
-image: buku-siswa-sd.png
 ---
 
 * TOC
@@ -47,14 +43,14 @@ image: buku-siswa-sd.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku Siswa Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) tema 2 (Menyayangi Tumbuhan dan Hewan) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 218 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Yanti Kurnianingsih, Sonya Sinyanyuri., dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - Buku Siswa Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) tema 2 (Menyayangi Tumbuhan dan Hewan) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 218 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Yanti Kurnianingsih, Sonya Sinyanyuri., dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Siswa Kelas 3 Tema 2 Menyayangi Tumbuhan dan Hewan
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-3-kurtilas-tema-2-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 2 Menyayangi Tumbuhan dan Hewan K13 Revisi 2018"><strong>Tema 2 : Menyayangi Tumbuhan dan Hewan</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-3-kurtilas-tema-2-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 2 Menyayangi Tumbuhan dan Hewan K13 Revisi 2018"><strong>Tema 2 : Menyayangi Tumbuhan dan Hewan</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|III (Tiga)|
