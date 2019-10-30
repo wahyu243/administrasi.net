@@ -139,3 +139,10 @@ body{background: #f8f9fa;}
 .table>tr:nth-child(2n), table tbody tr:nth-child(2n) {
     background-color: rgba(0,0,50,.03);
 }
+table {
+    background-color: rgba(0,0,0,0);
+    font-size: 90%;
+}
+td, th {
+    padding: 7px 5px;
+}
