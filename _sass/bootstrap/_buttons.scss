@@ -75,7 +75,7 @@ a.btn {
     border-radius: 5px;
 }
 // Success appears as green
-.btn-success {
+.btn-success,.download {
   @include button-variant($btn-success-color, $btn-success-bg, $btn-success-border);
 }
 // Info appears as blue-green
@@ -83,7 +83,7 @@ a.btn {
   @include button-variant($btn-info-color, $btn-info-bg, $btn-info-border);
 }
 // Warning appears as orange
-.btn-warning {
+.btn-warning,.demo {
   @include button-variant($btn-warning-color, $btn-warning-bg, $btn-warning-border);
 }
 // Danger and error appear as red
@@ -139,7 +139,7 @@ a.btn {
   // line-height: ensure even-numbered height of button next to large input
   @include button-size($padding-large-vertical, $padding-large-horizontal, $font-size-large, $line-height-large, $btn-border-radius-large);
 }
-.btn-sm {
+.btn-sm,.demo,.download {
   // line-height: ensure proper height of button next to small input
   @include button-size($padding-small-vertical, $padding-small-horizontal, $font-size-small, $line-height-small, $btn-border-radius-small);
 }
