@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 1 Tema Diriku Kurikulum 2013"
-layout: news_item
-comments: true
 date: "2018-06-24 03:48:09"
 description: Buku siswa kelas 1 tema 1 Diriku merupakan buku paket tematik kurikulum 2013 revisi 2017 yang diperuntukkan bagi siswa kelas 1 sekolah dasar sebagai penunjang dalam melaksanakan aktivitas pembelajaran dikelas.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik]
 published: true
-image: buku-guru-kelas-1-tema-diriku.png
 ---
 * TOC
 {:toc}
@@ -46,7 +42,7 @@ image: buku-guru-kelas-1-tema-diriku.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - *Buku Siswa Kelas 1 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 1 (diriku)* ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 4 (revisi 2017) dan ditulis oleh Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf yang selanjutnya ditelaah oleh Lise Chamisijatin, H. Sufyani Prabawanto, dkk kemudian diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - *Buku Siswa Kelas 1 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 1 (diriku)* ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 4 (revisi 2017) dan ditulis oleh Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf yang selanjutnya ditelaah oleh Lise Chamisijatin, H. Sufyani Prabawanto, dkk kemudian diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 **Buku paket tematik** yang berbasis aktivitas ini disusun sebagai salah satu penunjang penerapan Kurikulum 2013 yang disempurnakan yang sangat mengedepankan pada pencapaian kompetensi siswa sesuai standar kelulusan yang ditetapkan.
 
@@ -54,7 +50,7 @@ image: buku-guru-kelas-1-tema-diriku.png
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-1-kurtilas-tema-diriku" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-1-kurtilas-tema-diriku" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
