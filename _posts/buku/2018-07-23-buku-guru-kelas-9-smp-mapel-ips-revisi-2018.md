@@ -1,10 +1,7 @@
 ---
-layout: news_item
-comments: true
 title: "Buku Guru Kelas 9 Mapel IPS Revisi 2018"
 date: "2018-07-23 01:49:09"
 description: Download Buku Guru Kelas 9 SMP/MTs Mapel IPS Revisi 2018 yang merupakan buku panduan guru dalam melaksanakan pembelajaran IPS.
-author: artipedia
 tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
 published: true
 ---
@@ -44,7 +41,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Panduan Guru** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa / Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Panduan Guru** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa / Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
 Buku yang dibagikan kali ini adalah **buku guru** bagi satuan pendidikan SMP (SLTP) **mata pelajaran <acronym title="Ilmu Pengetahuan Sosial">IPS</acronym>** **kelas 9 (IX)**.
 
@@ -54,8 +51,8 @@ Buku Kelas 9 Kurikulum 2013 ini dibagikan sebagai buku sekolah digital dengan fo
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|
