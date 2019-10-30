@@ -10,7 +10,7 @@ tags: [administrasi,rpp,pendidikan,kelas-7,smp]
 ## Pendahuluan
 [Administrasi.Net](/ "Administrasi.Net") - **Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)** merupakan salah satu penunjang guru dalam pembelajaran. Rencana pelaksanaan pembelajaran menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> diharapkan kegiatan pembelajaran lebih terprogram. RPP Kurtilas untuk sekolah menengah pertama (SMP) dibuat permata pelajaran bukan dengan model tematik dengan meleburkan beberapa mata pelajaran dalam suatu tema seperti pada tingkat satuan pendidikan dasar (SD) terkecuali pada pendidikan khusus.
 
-*[RPP Kelas VII SMP Kurikulum 2013 Revisi 2018](/adm/rpp-kelas-vii-smp-kurikulum-2013-revisi-2018 "RPP Kelas VII SMP Kurikulum 2013 Revisi 2018")* terdiri dari bererapa mata pelajaran.
+*[RPP Kelas VII SMP Kurikulum 2013 Revisi 2018](/administrasi/rpp-kelas-vii-smp-kurikulum-2013-revisi-2018 "RPP Kelas VII SMP Kurikulum 2013 Revisi 2018")* terdiri dari bererapa mata pelajaran.
 
 Rencana pelaksanaan pembelajaran dihadapkan dapat membantu guru dalam mengelola kelas. Berikut ini link download RPP kelas 7
 
