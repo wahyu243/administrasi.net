@@ -1,11 +1,9 @@
 ---
-layout: news_item
 title: Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku Kurikulum 2013
 description: >-
   Buku guru kelas 2 tema 2 Bermain dilingkunganku merupakan buku kurikulum  2013
   revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan
   pembelajaran di kelas.
-image: bermain-dilingkunganku.jpg
 last_modified_date: 2019-09-28T09:54:14.180Z
 tags:
   - buku
@@ -68,8 +66,8 @@ Struktur penulisan buku kelas 2 ini memfasilitasi pengalaman belajar bermakna ya
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-guru-kelas-2-kurtilas-tema-bermain-dilingkungaku.html" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bsd/buku-guru-kelas-2-kurtilas-tema-bermain-dilingkungaku" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|II (dua)|
