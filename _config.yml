@@ -108,7 +108,7 @@ defaults:
     support: true
     breadcrumbs:
       - label: "Administrasi"
-        url: /adm
+        url: /administrasi
 - scope:
     path: _posts/cara
     type: posts
