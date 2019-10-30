@@ -1,7 +1,5 @@
 ---
 title: "Buku Guru Kelas 6 Tema 2 Persatuan dalam Perbedaan Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-07-03 04:49:09"
 description: Buku K13 Buku Guru kelas 6 Tema 2 Persatuan dalam Perbedaan Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari 3 subTema.
 author: artipedia
@@ -45,14 +43,14 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Seiring berganti tahun ajaran, buku pelajaran pun dirubah mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 2 (Persatuan dalam Perbedaan) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[Administrasi.Net](/ "Administrasi.Net") - Seiring berganti tahun ajaran, buku pelajaran pun dirubah mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 2 (Persatuan dalam Perbedaan) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 ## Buku Guru Kelas VI Tema 2 Persatuan dalam Perbedaan
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-guru-kelas-6-tema-2-persatuan-dalam-perbedaan-revisi-2018" title="Buku Guru Kelas 6 SD Tema 2 Persatuan dalam Perbedaan Revisi 2018"><strong>Tema 2 : Persatuan dalam Perbedaan </strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bsd/buku-guru-kelas-6-tema-2-persatuan-dalam-perbedaan-revisi-2018" title="Buku Guru Kelas 6 SD Tema 2 Persatuan dalam Perbedaan Revisi 2018"><strong>Tema 2 : Persatuan dalam Perbedaan </strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
