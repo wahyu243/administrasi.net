@@ -13,7 +13,7 @@ tags: [administrasi,rpp,pendidikan,kelas-4,sd,tematik]
 RPP yang dibagikan dibawah ini adalah RPP kelas 4 SD. 
 
 ### Tema RPP Kelas IV
-<a  href="/adm/rpp-kelas-iv-4-sd-semester-1-revisi-2017">RPP Kurikulum 2013 Kelas 4 Semester 1 Revisi 2017</a>, RPP dan tema-tema kelas 4 semester 1 kurikulum 2013 sebagai berikut:
+<a  href="/administrasi/rpp-kelas-iv-4-sd-semester-1-revisi-2017">RPP Kurikulum 2013 Kelas 4 Semester 1 Revisi 2017</a>, RPP dan tema-tema kelas 4 semester 1 kurikulum 2013 sebagai berikut:
 
 1. RPP Kurikulum 2013 Revisi 2017 Tema 1 Indahnya Kebersamaan
 2. RPP Kurikulum 2013 Revisi 2017 Tema 2 Selalu Berhemat Energi
