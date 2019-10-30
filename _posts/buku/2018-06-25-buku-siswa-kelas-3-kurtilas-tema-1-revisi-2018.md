@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018"
-layout: news_item
-comments: true
 date: '2018-06-25 03:48:09'
 description: Buku siswa kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi terbaru tahun ajaran 2018/2019.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
 published: true
-image: buku-siswa-sd.png
 ---
 * TOC
 {:toc}
@@ -46,14 +42,14 @@ image: buku-siswa-sd.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Siswa Kelas 3 <abbr title="Sekolah Dasar">SD</abbr>** semester 1 (satu) **tema 1 (Pertumbuhan dan Perkembangan Makhluk Hidup)** ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sonya Sinyanyuri dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 3 <abbr title="Sekolah Dasar">SD</abbr>** semester 1 (satu) **tema 1 (Pertumbuhan dan Perkembangan Makhluk Hidup)** ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sonya Sinyanyuri dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Siswa Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-3-kurtilas-tema-1-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup K13 Revisi 2018"><strong>Pertumbuhan dan Perkembangan Makhluk Hidup</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-3-kurtilas-tema-1-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup K13 Revisi 2018"><strong>Pertumbuhan dan Perkembangan Makhluk Hidup</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|III (Tiga)|
