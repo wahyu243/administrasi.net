@@ -2,7 +2,6 @@
 title: "RPP Kelas 2 SD Tema 1-8 Kurikulum 2013 Revisi 2017"
 date: "2018-06-18 20:00:47"
 description: RPP K13 Kelas 2 SD Tema 1 s/d 8 Kurikulum 2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program pembelajaran (RPP) tahun Ajaran Baru 2018-2019.
-author: artipedia
 tags: [administrasi,pendidikan,rpp,sd,kelas-2]
 ---
 * TOC
@@ -12,7 +11,7 @@ Setiap tahun ajaran baru, guru diwajibkan untuk membuat rpp dalam mempersiapkan 
 
 Rencana pelaksanaan pembelajaran <b>(RPP)</b> bagi <i>Jenjang Sekolah Dasar</i> dibuat dalam bentuk <i>Tematik</i> dimana membaurkan beberapa mata pelajaran dalam satu tema. Setiap satuan pendidikan, kelas memiliki tema-tema tersendiri. 
 
-Pada Kelas 2 Sekolah Dasar Tahun ajaran baru (2018-2019) terdiri dari delapan tema yang didalamnya memuat masing-masing 4 subtema. RPP yang dipublikasikan di sini hanyalah sebagai contoh atau panduan bagi guru dalam merumuskan program pembalajaran untuk tahun ajaran baru (2018-2019) sehingga tidak sepenuhnya rencana program pembelajaran yang dimuat disini benar. Berikut ini adalah contoh [RPP Kelas 2 SD Semester 1 dan 2 kurikulum 2013](/rpp-kelas-2-sd-tema-1-8-kuritilas-revisi "RPP Kelas 2 SD Semester 1 dan 2 kurikulum 2013).
+Pada Kelas 2 Sekolah Dasar Tahun ajaran baru (2018-2019) terdiri dari delapan tema yang didalamnya memuat masing-masing 4 subtema. RPP yang dipublikasikan di sini hanyalah sebagai contoh atau panduan bagi guru dalam merumuskan program pembalajaran untuk tahun ajaran baru (2018-2019) sehingga tidak sepenuhnya rencana program pembelajaran yang dimuat disini benar. Berikut ini adalah contoh [RPP Kelas 2 SD Semester 1 dan 2 kurikulum 2013](/administrasi/rpp-kelas-2-sd-tema-1-8-kuritilas-revisi "RPP Kelas 2 SD Semester 1 dan 2 kurikulum 2013).
 
 
 ## RPP Kelas 2 Semester 1
