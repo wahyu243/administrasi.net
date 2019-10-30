@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas 9 Mapel B. Indonesia Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-07-17 04:49:09"
 description: Buku paket K13 Buku Guru Kelas 9 SMP Mapel B. Indonesia Revisi 2018 merupakan buku bagi guru kurikulum 2013 sebagai penunjang pembelajaran Bahasa Indonesia.
-author: artipedia
 tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
 published: true
 ---
@@ -45,14 +42,14 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran **B. Indonesia kelas 9 (IX)**.
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran **B. Indonesia kelas 9 (IX)**.
 
 ## Buku Guru Kelas IX B. Indonesia
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-b-indonesia-revisi-2018" title="Buku Guru Kelas 9 SMP Mapel Bahasa Indonesia Revisi 2018"><strong>B. Indonesia</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-9-smp-mapel-b-indonesia-revisi-2018" title="Buku Guru Kelas 9 SMP Mapel Bahasa Indonesia Revisi 2018"><strong>B. Indonesia</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|
