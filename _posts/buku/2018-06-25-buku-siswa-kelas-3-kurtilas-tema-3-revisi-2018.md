@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 3 Tema 3 Benda di Sekitarku Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-06-25 04:49:09"
 description: Download Buku siswa kelas 3 Tema 3 Benda di Sekitarku Revisi 2018 terdiri dari 4 subTema 1. Aneka Benda di Sekitarku, 2. Wujud Benda, 3. Perubahan Wujud Benda, 4. Keajaiban Perubahan Wujud di Sekitarku.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
 published: true
-image: buku-siswa-sd.png
 ---
 * TOC
 {:toc}
@@ -46,14 +42,14 @@ image: buku-siswa-sd.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Dalam **Kurikulum 2013** terdapat 2 jenis **Buku Kelas 3 Tema 3**, yaitu [Buku Guru](https://artipedia.id/buku/buku-guru-kelas-3-kurtilas-tema-3-revisi-2018 "Buku Guru Kelas 3 Tema 3") dan [Buku Siswa](https://artipedia.id/buku/buku-siswa-kelas-3-kurtilas-tema-3-revisi-2018 "Buku Siswa Kelas 3 Tema 3"). Buku Siswa Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 3 (Benda di Sekitarku) ini merupakan **buku paket tematik** yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 242 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sari Kusuma Dewi dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - Dalam **Kurikulum 2013** terdapat 2 jenis **Buku Kelas 3 Tema 3**, yaitu [Buku Guru](/bsd/buku-guru-kelas-3-kurtilas-tema-3-revisi-2018 "Buku Guru Kelas 3 Tema 3") dan [Buku Siswa](/bsd/buku-siswa-kelas-3-kurtilas-tema-3-revisi-2018 "Buku Siswa Kelas 3 Tema 3"). Buku Siswa Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 3 (Benda di Sekitarku) ini merupakan **buku paket tematik** yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 242 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sari Kusuma Dewi dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Siswa Kelas 3 Tema 3 Benda di Sekitarku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-3-kurtilas-tema-3-revisi-2018" title="Buku Siswa Kelas 3 semester 1 Tema 3 Benda di Sekitarku K13 Revisi 2018"><strong>Tema 3 : Benda di Sekitarku</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-3-kurtilas-tema-3-revisi-2018" title="Buku Siswa Kelas 3 semester 1 Tema 3 Benda di Sekitarku K13 Revisi 2018"><strong>Tema 3 : Benda di Sekitarku</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|III (Tiga)|
