@@ -1,7 +1,8 @@
 ---
 title: Kumpulan administrasi
 description: Halaman ini berisi kumpulan administrasi terupdate yang sangat berguna bagi para pembaca.
-permalink: /administrasi
+permalink: /adm
+redirect_from: /administrasi
 ---
 
 <ol class="arti">{% for post in site.categories.administrasi %}
