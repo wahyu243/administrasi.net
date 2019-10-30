@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas 9 Mapel Matematika Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-07-16 04:49:09"
 description: Buku paket K13 Buku Siswa Kelas 9 SMP Mapel Matematika Revisi 2018 berisi materi tentang Perpangkatan dan Bentuk Akar, Persamaan dan Fungsi Kuadrat, Transformasi, Kekongruenan dan Kesebangunan, dan Bangun Ruang Sisi Lengkung.
-author: artipedia
 tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel]
 published: true
 ---
@@ -45,7 +42,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Bergantinya kurikulum menjadi **kurikulum 2013** mengakibatkan komponen-kompenen lainnya seperti **buku sumber** mengikuti dengan dengan perkembangan kurikulum tersebut, seperti halnya buku yang akan dibagikan kali ini adalah **buku siswa kelas 9 mata pelajaran matematika revisi tahun 2018** yang merupakan edisi lengkap.
+[Administrasi.Net](/ "Administrasi.Net") - Bergantinya kurikulum menjadi **kurikulum 2013** mengakibatkan komponen-kompenen lainnya seperti **buku sumber** mengikuti dengan dengan perkembangan kurikulum tersebut, seperti halnya buku yang akan dibagikan kali ini adalah **buku siswa kelas 9 mata pelajaran matematika revisi tahun 2018** yang merupakan edisi lengkap.
 
 **Buku Siswa Kelas IX Matematika** ini sangat penting bagi guru ataupun siswa. **buku paket** bagi guru dapat bermanfaat sebagai panduan dalam membuat program pembelajaran seperti **RPP**. Sedangkan bagi siswa dapat bermanfaat sebagai sumber belajar bagi siswa dalam mengikuti pelaksanaan pembelajaran.
 
@@ -53,8 +50,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-siswa-kelas-9-smp-mapel-matematika-revisi-2018" title="Buku siswa Kelas 9 SMP Mapel Matematika Revisi 2018"><strong>Matematika</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bsd/buku-siswa-kelas-9-smp-mapel-matematika-revisi-2018" title="Buku siswa Kelas 9 SMP Mapel Matematika Revisi 2018"><strong>Matematika</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|
