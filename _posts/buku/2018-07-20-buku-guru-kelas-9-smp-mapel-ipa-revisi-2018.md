@@ -1,5 +1,4 @@
 ---
-layout: news_item
 title: Buku Guru Kelas 9 Mapel IPA Kurikulum 2013 Revisi 2018
 description: >-
   Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018 merupakan buku bagi guru
@@ -15,6 +14,7 @@ tags:
   - revisi-2018
   - mapel
 ---
+
 * TOC
   {:toc}
 
@@ -51,7 +51,7 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX).
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX).
 
 ## Buku Guru Kelas IX IPA
 
