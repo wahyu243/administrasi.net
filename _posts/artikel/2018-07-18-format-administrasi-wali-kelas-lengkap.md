@@ -1,10 +1,7 @@
 ---
 title: "Format Administrasi Kelas"
-layout: news_item
-comments: true
 date: "2018-07-18 04:49:09"
 description: Format administrasi kelas yang dibagikan kali ini berupa file dalam format exel, dimana dalam satu file tersebut didalamnya terdapat format-format seperti yang disebutkan di atas.
-author: artipedia
 tags: [administrasi]
 published: true
 ---
@@ -12,7 +9,7 @@ published: true
 {:toc}
 
 ## Pendahuluan
-[ArtiPedia](/ "ArtiPedia") - Wali Kelas mempunyai peranan penting dan posisi strategis dalam mendidik siswa di sekolah karena sangat menentukan keberhasilan dan pembangunan karakter anak didiknya. Peranan Wali Kelas yang sangat menonjol adalah menjadi semacam kepala keluarga dalam kelas tertentu, ini berarti ia bertanggung jawab terutama menciptakan kondisi dan lingkungan  yang kondusif satu sama lain sehingga kelas itu menjadi komunitas belajar dapat maju bersama dalam proses pembelajaran. 
+[Administrasi.Net](/ "Administrasi.Net") - Wali Kelas mempunyai peranan penting dan posisi strategis dalam mendidik siswa di sekolah karena sangat menentukan keberhasilan dan pembangunan karakter anak didiknya. Peranan Wali Kelas yang sangat menonjol adalah menjadi semacam kepala keluarga dalam kelas tertentu, ini berarti ia bertanggung jawab terutama menciptakan kondisi dan lingkungan  yang kondusif satu sama lain sehingga kelas itu menjadi komunitas belajar dapat maju bersama dalam proses pembelajaran. 
 
 Dalam mengelola kelas diperlukan administrasi yang dapat mengorganisir keadaan kelas seperti Absensi siswa, Denah Tempat Duduk, Daftar Nilai, Jadwal Pelajaran, Jadwal Piket dan lain-lain.
 
