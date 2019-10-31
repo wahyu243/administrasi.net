@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas 12 (XII) SMA Kurikulum 2013"
-layout: news_item
-comments: true
 date: "2018-08-29 11:49:09"
 description: Buku Kurikulum 2013 Buku Guru Kelas 12 SMA, Download Buku Guru SMA Kelas 12 Kurikulum 2013, Buku Panduan Guru Berfungsi sebagai pedoman dalam penggunaan Buku Siswa.
-author: artipedia
 tags: [buku,pendidikan,sma,guru,kelas-12]
 published: true
 ---
@@ -19,7 +16,7 @@ Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menye
 Dalam Buku Kurikulum 2013, Siswa dituntut berperan aktif dalam kegiatan pembelajaran, dimana kegiatan pembelajaran yang digunakan menggunakan pendekatan [saintifik](https://id.wikipedia.org/wiki/Pendekatan_saintifik "Pendekatan Saintifik").
 
 ## Download Buku Guru Kelas XII SMA 
-Berikut ini adalah daftar [buku guru kelas XII Kurikulum 2013](/buku/buku-guru-kelas-12-sma-kurikulum-2013 "Buku Kurikulum 2013 Kelas 12 SMA") yang bisa anda unduh:
+Berikut ini adalah daftar [buku guru kelas XII Kurikulum 2013](/bsd/buku-guru-kelas-12-sma-kurikulum-2013 "Buku Kurikulum 2013 Kelas 12 SMA") yang bisa anda unduh:
 
 <div class="products_box" id="products_box_1">
  	<ul id="books">
