@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 4 Tema 4 Kayanya Negeriku Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-16 20:49:09"
 description: Download Buku Siswa Kelas 4 SD Tema 4 Kayanya Negeriku Revisi 2017 merupakan buku paket tematik kurikulum 2013 terdiri dari beberapa tema.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-4,revisi-2017,tematik]
 published: true
-image: buku-siswa-sd.png
 ---
 * TOC
 {:toc}
