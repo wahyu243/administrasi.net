@@ -48,8 +48,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-guru-kelas-4-tema-9-kayanya-negeriku-revisi-2017" title="Buku Guru Kelas 4 semester 2 Tema 9 Kayanya Negeriku K13 Revisi 2017"><strong>Tema 9 : Kayanya Negeriku</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bsd/buku-guru-kelas-4-tema-9-kayanya-negeriku-revisi-2017" title="Buku Guru Kelas 4 semester 2 Tema 9 Kayanya Negeriku K13 Revisi 2017"><strong>Tema 9 : Kayanya Negeriku</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|IV (Empat)|
