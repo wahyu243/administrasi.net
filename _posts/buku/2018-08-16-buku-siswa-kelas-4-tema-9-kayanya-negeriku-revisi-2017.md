@@ -48,8 +48,8 @@ Buku Paket Tematik bagi siswa Kelas 4 <acronym title="Sekolah Dasar">SD</acronym
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-4-tema-9-kayanya-negeriku-revisi-2017.html" title="Buku Siswa Kelas 4 semester 2 Tema 9 Kayanya Negeriku K13 Revisi 2017"><strong>Tema 9 : Kayanya Negeriku</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-4-tema-9-kayanya-negeriku-revisi-2017" title="Buku Siswa Kelas 4 semester 2 Tema 9 Kayanya Negeriku K13 Revisi 2017"><strong>Tema 9 : Kayanya Negeriku</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|IV (Empat)|
