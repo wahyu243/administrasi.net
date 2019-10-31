@@ -49,8 +49,8 @@ Buku mapel IPS kelas 9 ini dapat anda unduh dengan mudah di blog ini, buku siswa
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-siswa-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Siswa Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bsd/buku-siswa-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Siswa Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|
