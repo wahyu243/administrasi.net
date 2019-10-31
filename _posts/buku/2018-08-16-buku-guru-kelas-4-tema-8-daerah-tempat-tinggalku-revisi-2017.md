@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas 4 Tema 8 Daerah Tempat Tinggalku Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-15 20:49:09"
 description: Buku Guru Kelas 4 SD Tema 8 Daerah Tempat Tinggalku Revisi 2017 merupakan buku paket tematik kurikulum 2013 revisi 2017 terdiri dari beberapa tema.
-author: artipedia
 tags: [buku,pendidikan,sd,guru,buku-guru,kelas-4,revisi-2017,tematik]
 published: true
 ---
