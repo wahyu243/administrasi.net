@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas 9 Mapel B. Indonesia Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-08-26 04:49:09"
 description: Buku paket K13 Buku Siswa Kelas 9 SMP Mapel B. Indonesia Revisi 2018 merupakan buku paket siswa kelas IX kurikulum 2013 sebagai penunjang pembelajaran Bahasa Indonesia.
-author: artipedia
 tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel]
 published: true
 ---
