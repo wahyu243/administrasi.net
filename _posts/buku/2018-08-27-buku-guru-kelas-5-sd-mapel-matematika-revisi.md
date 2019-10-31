@@ -41,14 +41,14 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SD mata pelajaran Matematika kelas 5 SD/Mi.
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SD mata pelajaran Matematika kelas 5 SD/Mi.
 
 ## Buku Guru Kelas 5 Mapel Matematika
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-5-sd-mapel-matematika-revisi" title="Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-5-sd-mapel-matematika-revisi" title="Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|V (lima)|
