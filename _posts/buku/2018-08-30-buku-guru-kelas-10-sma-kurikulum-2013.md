@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas X (10) SMA Kurikulum 2013 Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-30 11:49:09"
 description: Buku Guru Kelas X (10) SMA Kurikulum 2013 Revisi 2017. Download/unduh buku Guru Kelas 10 SMA Kurikulum 2013 Revisi 2017.
-author: artipedia
 tags: [buku,pendidikan,sma,guru,kelas-10]
 published: true
 ---
