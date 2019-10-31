@@ -47,8 +47,8 @@ Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SD mata pel
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-6-sd-mapel-matematika-revisi.html" title="Buku Guru Kelas 6 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-6-sd-mapel-matematika-revisi.html" title="Buku Guru Kelas 6 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
