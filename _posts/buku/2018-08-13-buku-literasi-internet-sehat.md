@@ -1,11 +1,7 @@
 ---
-layout: news_item
-comments: true
 title: "Buku Literasi Internet Sehat"
 date: "2018-08-13 01:49:09"
 description: Buku Literasi Digital Internet Sehat Pedoman Berinternet Sehat, Aman, Nyaman dan Bertanggungjawab. Buku education bagi orang tua..
-author: artipedia
-image: internet-sehat.jpg
 tags: [buku,pendidikan,literasi]
 published: true
 ---
