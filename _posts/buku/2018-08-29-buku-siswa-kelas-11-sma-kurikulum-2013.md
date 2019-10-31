@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas XI (11) SMA Kurikulum 2013"
-layout: news_item
-comments: true
 date: "2018-08-29 11:49:09"
 description: Buku Siswa Kelas XI SMA Kurikulum 2013. Download buku Siswa Kelas 11 SMA Kurikulum 2013.
-author: artipedia
 tags: [buku,pendidikan,sma,siswa,kelas-11]
 published: true
 ---
