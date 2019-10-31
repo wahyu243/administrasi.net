@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas X (10) SMA Kurikulum 2013 Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-29 11:49:09"
 description: Buku Siswa Kelas X SMA Kurikulum 2013 Revisi 2017. Download/unduh buku Siswa Kelas 10 SMA Kurikulum 2013 Revisi 2017.
-author: artipedia
 tags: [buku,pendidikan,sma,siswa,kelas-10,revisi-2017]
 published: true
 ---
