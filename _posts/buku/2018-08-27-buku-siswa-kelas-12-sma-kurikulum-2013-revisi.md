@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas 12 (XII) Kurikulum 2013"
-layout: news_item
-comments: true
 date: "2018-08-27 22:49:09"
 description: Halaman ini berisi kumpulan Buku Siswa Kelas XII SMA Kurikulum 2013, Download buku SMA Kelas 12 Kurikulum 2013.
-author: artipedia
 tags: [buku,pendidikan,sma,siswa,revisi-2017,kelas-12]
 published: true
 ---
