@@ -1,10 +1,7 @@
 ---
 title: "Kumpulan Komik Pendidikan (Komik Literasi)"
-layout: news_item
-comments: true
 date: "2018-08-30 14:49:09"
 description: Tingkatkan Minat Baca Anak-Anak Indonesia melalui komik pendidikan. Baca Online komik pendidikan yang berisi pengetahuan umum & alam, komik moral dan komik kesehatan
-author: artipedia
 tags: [buku,pendidikan,komik]
 published: true
 ---
