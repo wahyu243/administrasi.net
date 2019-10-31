@@ -52,8 +52,8 @@ Buku ini ini merupakan buku yang mengacu pada kurikulum 2013, dimana dapat dijad
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-siswa-kelas-9-smp-mapel-b-indonesia-revisi-2018.html" title="Buku Siswa Kelas 9 SMP Mapel Bahasa Indonesia Revisi 2018"><strong>B. Indonesia</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bsd/buku-siswa-kelas-9-smp-mapel-b-indonesia-revisi-2018" title="Buku Siswa Kelas 9 SMP Mapel Bahasa Indonesia Revisi 2018"><strong>B. Indonesia</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|
