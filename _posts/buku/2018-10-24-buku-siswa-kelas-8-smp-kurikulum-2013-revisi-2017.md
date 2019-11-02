@@ -1,11 +1,7 @@
 ---
 title: "Buku siswa Kelas 8 (VIII) Kurikulum 2013 Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-10-24 13:48:09"
 description: Download Buku Kurikulum 2013 Buku siswa Kelas Kelas 8 (VIII) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi siswa dalam melaksanakan pembelajaran di kelas 9.
-author: artipedia
-image: buku-siswa-sd.png
 tags: [buku,pendidikan,siswa,buku-siswa,kelas-8,revisi-2017]
 published: true
 ---
@@ -18,14 +14,14 @@ Keberadaan Buku siswa sangatlah penting dalam mengimplementasikan **Kurikulum 20
 
 **Buku siswa K13** pada **Kurikulum 2013** memiliki fungsi sebagai sumber kegiatan pembelajaran di kelas. 
 
-[ArtiPedia](/ "ArtiPedia") - Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk memperoleh **Buku Sekolah Elektronik <acronym title="Buku Sekolah Elektronik">BSE</acronym>** Kurikulum 2013. **Buku Kurikulum 2013** untuk kelas 8 (VIII) jenjang **SMP (Sekolah Menengah Pertama)** bisa didownload secara gratis. Buku Kurikulum 2013 Revisi 2017 8 (VIII) SMP terdiri dari buku pegangan guru dan buku pelajaran bagi siswa.
+[Administrasi.Net](/ "Administrasi.Net") - Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk memperoleh **Buku Sekolah Elektronik <acronym title="Buku Sekolah Elektronik">BSE</acronym>** Kurikulum 2013. **Buku Kurikulum 2013** untuk kelas 8 (VIII) jenjang **SMP (Sekolah Menengah Pertama)** bisa didownload secara gratis. Buku Kurikulum 2013 Revisi 2017 8 (VIII) SMP terdiri dari buku pegangan guru dan buku pelajaran bagi siswa.
 
 {% include ads-artikel.html %}
 
 **Buku siswa Kurikulum 2013 Kelas 8 (VIII) <acronym title="Sekolah Menengah Pertama">SMP</acronym>** untuk memudahkan para siswa dalam melaksanakan pembelajaran. Buku Kurikulum 2013 SD ini mencakup ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
 
 ### Download Buku siswa Kelas VIII <acronym title="Sekolah Menengah Pertama">SMP</acronym> Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku siswa kelas 8 SMP revisi 2017](https://artipedia.id/wiki/buku-siswa-kelas-8-smp-kurikulum-2013-revisi-2017.html "Buku siswa kelas 8 SMP Kurikulum 2013 edisi revisi 2017") yang terdiri dari beberapa mata pelajaran:
+Berikut ini kumpulan [buku siswa kelas 8 SMP revisi 2017](/bsd/buku-siswa-kelas-8-smp-kurikulum-2013-revisi-2017.html "Buku siswa kelas 8 SMP Kurikulum 2013 edisi revisi 2017") yang terdiri dari beberapa mata pelajaran:
 
 <div class="products_box" id="products_box_1">
 <ul id="books">
