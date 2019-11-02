@@ -1,12 +1,9 @@
 ---
-layout: news_item
 title: Buku Guru Kelas 6 Tema 8 Bumiku Kurikulum 2013
 description: >-
   Unduh Buku Guru kelas 6 Tema Bumiku Kurikulum 2013, buku panduan guru menjadi
   faktor penunjang dalam pembelajaran.
-image: buku-guru-kelas-6-tema-8-revisi.png
 date: 2019-08-11T04:49:09.000Z
-author: artipedia
 tags:
   - buku
   - pendidikan
@@ -55,7 +52,7 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Paket Kelas 6 Tema 8**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Paket Kelas 6 Tema 8**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
 
 **Tema 8** pada **kelas 6** kurikulum 2013 revisi 2018 ini yaitu **Tema Bumiku**. Tema Bumiku terbagi menjadi beberapa subtema.
 
