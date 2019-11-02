@@ -1,5 +1,4 @@
 ---
-layout: news_item
 title: Buku Paket Pendidikan Khusus Kurikulum 2013
 description: >-
   Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai
@@ -15,7 +14,8 @@ tags:
   - pendidikan-khusus
   - kelas-3
 ---
-Buku yang dibagikan kali ini adalah Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai buku siswa yang dapat dijadikan sebagai penunjang pembelajaran di kelas.
+
+[Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai buku siswa yang dapat dijadikan sebagai penunjang pembelajaran di kelas.
 
 Seperti halnya pendidikan umum, dalam mengelola pendidikan khusus diperlukan buku pembelajaran yang sifatnya tematik bagi **satuan pendidikan SDLB**, mata pelajaran bagi satuan pendidikan SMPLB dan SMALB kecuali Tunagrahita, yang mulai dari **SD, SMP, dan SMA** tetap **tematik**.
 
