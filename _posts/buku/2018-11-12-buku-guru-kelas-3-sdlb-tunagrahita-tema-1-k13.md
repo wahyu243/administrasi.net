@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas 3 SDLB Tunagrahita Tema 1 Kurikulum 2013"
-layout: news_item
-comments: true
 date: "2018-11-08 04:49:09"
 description: Buku Guru Kelas 3 SDLB Tunagrahita Tema 1 Kurikulum 2013, buku paket tematik yang diperuntukkan bagi guru kelas 3 tunagrahita.
-author: artipedia
 tags: [buku,abk,pendidikan,sdlb,guru,kelas-3,tematik,buku-guru,tunagrahita]
 published: true
 ---
@@ -13,7 +10,7 @@ published: true
 
 **Buku guru Kelas 3 <acronym title="Sekolah Dasar Luar Biasa">SDLB</acronym> Tunagrahita Tema 1** ini diperuntukkan bagi guru yang mengajar dikelas 3 SDLB dengan jenis kekhususan ketunagrahitaan sebagai penunjang pembelajaran.
 
-[Anak tunagrahita](https://artipedia.id/teori/tunagrahita.html) memiliki kecerdasan di bawah rata-rata anak normal pada umumnya, sehingga keberadaan **buku paket tematik** ini sangatlah berguna bagi guru sebagai panduan dalam menyusun program pembelajaran atau sebagai *panduan penggunaan buku siswa*.
+[Anak tunagrahita](/teori/tunagrahita) memiliki kecerdasan di bawah rata-rata anak normal pada umumnya, sehingga keberadaan **buku paket tematik** ini sangatlah berguna bagi guru sebagai panduan dalam menyusun program pembelajaran atau sebagai *panduan penggunaan buku siswa*.
 
 Materi pembelajaran bagi anak tunagrahita ringan berbeda dengan materi pembelajaran di kelas sd umum, dimana bobot **buku tunagrahita kelas 3** materinya lebih rendah disesuaikan dengan kemampuan anak.
 
@@ -25,8 +22,8 @@ Bagi anda guru yang mengajar di **kelas 3 C (Tunagrahita)** tentunya buku ini ak
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-3-sdlb-tunagrahita-tema-1-k13.html" title="Buku Guru Kelas 3 Tema 1 SDLB Tunagrahita"><strong>Buku Guru Kelas 3 SDLB Tunagrahita Tema 1</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-3-sdlb-tunagrahita-tema-1-k13" title="Buku Guru Kelas 3 Tema 1 SDLB Tunagrahita"><strong>Buku Guru Kelas 3 SDLB Tunagrahita Tema 1</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 |Kelas|III (Tiga)|
