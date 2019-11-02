@@ -1,20 +1,16 @@
 ---
 title: "Buku Siswa Kelas 2 Kurikulum 2013 Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-30 13:48:09"
 description: Download Buku Siswa Kelas 2 SD kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi Siswa dalam melaksanakan pembelajaran di kelas.
-author: artipedia
 tags: [buku,pendidikan,siswa,kelas-2,buku-siswa,tematik]
 published: true
-image: buku-siswa-sd.png
 ---
 
 * TOC
 {:toc}
 
 ### Pendahuluan
-Keberadaan Buku Siswa sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
+[Administrasi.Net](/ "Administrasi.Net") - Keberadaan Buku Siswa sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
 
 **Buku Siswa** pada **Kurikulum 2013** merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
@@ -23,7 +19,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 **Buku Siswa Kurikulum 2013 kelas 2 <acronym title="Sekolah Dasar">SD</acronym> Revisi 2017** tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
 
 ### Download Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku siswa kelas 2 sd revisi 2017](/buku/buku-siswa-kelas-2-sd-kurikulum-2013-revisi-2017.html "Buku Siswa kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
+Berikut ini kumpulan [buku siswa kelas 2 sd revisi 2017](/bsd/buku-siswa-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Siswa kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
 
 {% include ads-artikel.html %}
 
