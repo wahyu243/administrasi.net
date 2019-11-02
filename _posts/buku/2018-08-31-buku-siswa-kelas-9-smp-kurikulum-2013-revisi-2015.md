@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas 9 (IX) Kurikulum 2013 Revisi 2015"
-layout: news_item
-comments: true
 date: "2018-08-31 13:48:09"
 description: Download Buku paket K13 Buku Siswa Kelas Kelas 9 (IX) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2015 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas 9.
-author: artipedia
 tags: [buku,pendidikan,siswa,kelasIX,revisi2015]
 published: true
 ---
@@ -13,7 +10,7 @@ published: true
 {:toc}
 
 ### Pendahuluan
-Keberadaan Buku Siswa Kelas 9 sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. Dalam buku ini, siswa diajak untuk aktif dalam pembelaran.
+[Administrasi.Net](/ "Administrasi.Net") - Keberadaan Buku Siswa Kelas 9 sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. Dalam buku ini, siswa diajak untuk aktif dalam pembelaran.
 
 **Buku Panduan Siswa** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
@@ -24,7 +21,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 Buku Siswa Kurikulum 2013 kelas 9 (IX) <acronym title="Sekolah Menengah Pertama">SMP</acronym> untuk memudahkan para guru dalam melaksanakan pembelajaran
 
 ### Download Buku Siswa Kelas IX <acronym title="Sekolah Menengah Pertama">SMP</acronym> Kurikulum 2013 Revisi 2015
-Berikut ini kumpulan [buku siswa kelas 9 SMP revisi 2015](/wiki/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015.html "Buku Siswa kelas 9 SMP Kurikulum 2013 edisi revisi 2015"):
+Berikut ini kumpulan [buku siswa kelas 9 SMP revisi 2015](/bsd/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015 "Buku Siswa kelas 9 SMP Kurikulum 2013 edisi revisi 2015"):
 
 <div class="products_box" id="products_box_1">
   <ul id="books">
