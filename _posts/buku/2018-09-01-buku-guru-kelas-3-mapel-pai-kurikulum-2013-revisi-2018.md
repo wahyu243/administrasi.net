@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas 3 Mapel PAI Kurikulum 2013 Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-06-27 04:49:09"
 description: Buku Guru kelas 3 Mata pelajaran PAI Revisi 2018 merupakan buku paket mata pelajaran Pendidikan Agama Islam kurikulum 2013  cetakan kedua revisi 2018.
-author: artipedia
 tags: [buku,pendidikan,sd,guru,buku-guru,mapel,revisi-2018,kelas-3]
 published: true
 ---
@@ -45,7 +42,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku Panduan guru Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> Mata Pelajaran <acronym title="Pendidikan Agama Islam">PAI</acronym> ini diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 halaman ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Achmad Hasim dan M. Kholid Fathoni serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - Buku Panduan guru Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> Mata Pelajaran <acronym title="Pendidikan Agama Islam">PAI</acronym> ini diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 halaman ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Achmad Hasim dan M. Kholid Fathoni serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 {% include ads-artikel.html %}
 
@@ -53,8 +50,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-3-mapel-pai-kurikulum-2013-revisi-2018.html" title="Buku Guru Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-3-mapel-pai-kurikulum-2013-revisi-2018" title="Buku Guru Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 |Kelas|III (Tiga)|
