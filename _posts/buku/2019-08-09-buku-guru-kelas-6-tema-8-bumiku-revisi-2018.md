@@ -68,8 +68,8 @@ Selain itu, **buku kurikulum 2013** ini dapat dijadikan sebagai acuan dalam memp
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-6-tema-8-bumiku-revisi-2018.html" title="Buku Guru Kelas 6 SD Tema 8 Bumiku Revisi 2018"><strong>Tema 8 : Bumiku </strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru">Buku Guru</a>|
+|Tema|<a href="/bsd/buku-guru-kelas-6-tema-8-bumiku-revisi-2018" title="Buku Guru Kelas 6 SD Tema 8 Bumiku Revisi 2018"><strong>Tema 8 : Bumiku </strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
