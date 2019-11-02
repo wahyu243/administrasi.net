@@ -1,15 +1,12 @@
 ---
 title: Buku Kurikulum 2013 SD, SMP, SMA Revisi 2018
-layout: news_item
-comments: true
 date: "2018-09-15 20:49:09"
 description: Daftar Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018, Unduh Buku Kurikulum 2018 Revisi 2018.
-author: artipedia
 tags: [buku,revisi2018]
 ---
 
 ## Pendahuluan
-[ArtiPedia](/ "ArtiPedia") - mempublikasikan **Buku Kurikulum 2013 SD, SMP, SMA Revisi 2018** bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan: SD, SMP, SMA dan SMK yang merupakan program dari Departemen Pendidikan Nasional Indonesia sebagai penunjang dalam mengimplementasikan kurikulum 2013.
+[Administrasi.Net](/ "Administrasi.Net") - mempublikasikan **Buku Kurikulum 2013 SD, SMP, SMA Revisi 2018** bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan: SD, SMP, SMA dan SMK yang merupakan program dari Departemen Pendidikan Nasional Indonesia sebagai penunjang dalam mengimplementasikan kurikulum 2013.
 
 Setiap buku yang terdapat di Artipedia telah dibeli hak ciptanya secara resmi oleh Departemen Pendidikan Nasional dari penulis atau penerbit yang terkait, yang untuk selanjutnya, buku - buku tersebut diubah dalam bentuk **buku digital (ebook)** sehingga tidak melanggar hak cipta.
 
@@ -20,7 +17,7 @@ Dengan **mengunduh BSE** ini dan menyimpannya di smartphone, tablet atau laptop,
 Pada Tahun 2018 ini, pemerintah menerbitkan kembali **Buku Kurikulum 2013** Revisi 2018 satuan pendidikan **SD**, **SMP**, **SMA** dan **SMK**, akan tetapi masih beberapa kelas dan pelajaran serta beberapa tema ataupun mata pelajaran saja yang tersedia.
 
 ## Download Buku Kurikulum 2013 Revisi 2018
-Berikut ini adalah daftar [Buku Kurikulum 2013 Revisi 2018](/wiki/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2018.html "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018") terdiri dari buku guru dan buku siswa yang bisa anda unduh di bawah ini:
+Berikut ini adalah daftar [Buku Kurikulum 2013 Revisi 2018](/bsd/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2018 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018") terdiri dari buku guru dan buku siswa yang bisa anda unduh di bawah ini:
 
 <ol class="arti">{% for post in site.tags.revisi-2018 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
