@@ -1,11 +1,9 @@
 ---
-layout: news_item
 title: Buku Paket Tematik Kelas 6 Kurikulum 2013 Revisi 2018
 description: >-
   Buku Tematik Terpadu SD/Mi Kelas 6 Kurikulum 2013 Revisi 2018, buku guru dan
   buku siswa kelas 6 SD Kurtilas Revisi Terbaru.
 date: 2019-10-08T13:49:09.000Z
-author: artipedia
 tags:
   - buku
   - revisi-2018
@@ -15,7 +13,7 @@ tags:
   - sd
 ---
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Paket Kurikulum 2013 Kelas 6** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 6 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Paket Kurikulum 2013 Kelas 6** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 6 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
 
 ### Buku Paket Tematik Kelas 6 Kurikulum 2013 Revisi 2018
 Buku kelas 6 SD Kurikulum 2013 terdiri dari beberapa tema, dan diperinci lagi ke dalam beberap sub tema dari setiap tema.
@@ -31,7 +29,7 @@ Diharapkan dengan tersedianya *Buku Sekolah Digital* ini, serta menyimpannya di 
 Buku yang dibagikan di blog ini terdiri dari *buku guru* dan *buku siswa*.
 
 ## Download Buku Paket Kelas 6 SD Revisi 2018
-Berikut ini adalah daftar [Buku Paket Tematik Terpadu Kelas 6 Kurikulum 2013 Revisi 2018](/buku/buku-tematik-sd-mi-kelas-6 "Buku Tematik Kelas 6 SD Terpadu Kurikulum 2013 Revisi 2018")
+Berikut ini adalah daftar [Buku Paket Tematik Terpadu Kelas 6 Kurikulum 2013 Revisi 2018](/bsd/buku-tematik-sd-mi-kelas-6 "Buku Tematik Kelas 6 SD Terpadu Kurikulum 2013 Revisi 2018")
 
 <ol class="arti">{% for post in site.tags.kelas-6 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
