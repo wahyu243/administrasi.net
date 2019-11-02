@@ -1,11 +1,7 @@
 ---
 title: Buku Guru Kelas 6 Tema 7 Kepemimpinan Revisi 2018
-layout: news_item
-comments: true
 date: 2019-08-06 04:49:09
 description: Unduh Buku Guru kelas 6 Tema Kepemimpinan Kurikulum 2013 Revisi 2018, buku panduan guru menjadi faktor penunjang dalam pembelajaran.
-author: artipedia
-image: buku-guru-kelas-6-tema-7-revis.png
 tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
 published: true
 ---
@@ -47,7 +43,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Paket Kelas 6 Tema 7**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Paket Kelas 6 Tema 7**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
 
 Tema 7 pada kelas 6 kurikulum 2013 revisi 2018 ini yaitu **Tema Kepemimpinan**. Tema Kepemimpinan terbagi menjadi beberapa subtema.
 
@@ -63,8 +59,8 @@ Selain itu, buku kurikulum 2013 ini dapat dijadikan sebagai acuan dalam mempersi
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-6-tema-7-kepemimpinan-revisi-2018.html" title="Buku Guru Kelas 6 SD Tema 7 Kepemimpinan Revisi 2018"><strong>Tema 7 : Kepemimpinan </strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru">Buku Guru</a>|
+|Tema|<a href="/bsd/buku-guru-kelas-6-tema-7-kepemimpinan-revisi-2018" title="Buku Guru Kelas 6 SD Tema 7 Kepemimpinan Revisi 2018"><strong>Tema 7 : Kepemimpinan </strong></a>|
+|Jenis|<a href="/bsd" title="Buku Guru">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
