@@ -1,13 +1,9 @@
 ---
 title: "Buku Siswa Kelas 3 SD Mapel PAI Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-06-27 04:49:09"
 description: Buku Siswa kelas 3 SD Mata pelajaran PAI Revisi 2018 merupakan buku paket mata pelajaran PAI Pendidikan Agama Islam Kurikulum 2013  cetakan kedua revisi 2018.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,revisi-2018,kelas-3,mapel]
 published: true
-image: buku-siswa-sd.png
 ---
 * TOC
 {:toc}
@@ -46,7 +42,7 @@ image: buku-siswa-sd.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Siswa Kelas 3** <acronym title="Sekolah Dasar">SD</acronym> Mata Pelajaran <acronym title="Pendidikan Agama Islam">PAI</acronym> ini merupakan buku paket mata yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Achmad Hasim dan M. Kholid Fathoni serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 3** <acronym title="Sekolah Dasar">SD</acronym> Mata Pelajaran <acronym title="Pendidikan Agama Islam">PAI</acronym> ini merupakan buku paket mata yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Achmad Hasim dan M. Kholid Fathoni serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 {% include ads-artikel.html %}
 
@@ -54,8 +50,8 @@ image: buku-siswa-sd.png
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-siswa-kelas-3-mapel-pai-kurikulum-2013-revisi-2018.html" title="Buku Siswa Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bsd/buku-siswa-kelas-3-mapel-pai-kurikulum-2013-revisi-2018" title="Buku Siswa Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 |Kelas|III (Tiga)|
