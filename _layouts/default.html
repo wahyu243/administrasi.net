@@ -11,11 +11,13 @@ layout: compress
     <![endif]-->
 
     {% include header.html %}
+    {% include ads-header.html %}
  
         {{ content }}
     {% if page.layout == 'post' %} 
     {% include alertbar.html %}
     {% endif %}       
+    {% include ads-footer.html %}
     {% include footer.html %}
     
     {% if site.analytics %}
