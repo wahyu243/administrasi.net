@@ -1,10 +1,7 @@
 ---
 title: "Buku Guru Kelas 2 Kurikulum 2013 Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-30 12:48:09"
 description: Download Buku Guru Kelas 2 SD semua tema kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas.
-author: artipedia
 tags: [buku,pendidikan,guru,kelas-2,tematik,buku-guru]
 published: true
 ---
@@ -13,7 +10,7 @@ published: true
 {:toc}
 
 ### Pendahuluan
-Keberadaan Buku Guru sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
+[Administrasi.Net](/ "Administrasi.Net") - Keberadaan Buku Guru sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
 
 **Buku Panduan Guru** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
@@ -26,7 +23,7 @@ Buku Guru Kurikulum 2013 kelas 2 <acronym title="Sekolah Dasar">SD</acronym> unt
 **Buku Guru kelas 2 SD Kurikulum 2013 edisi revisi tahun 2017** kali ini tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan siswa.
 
 ### Download Buku Guru Kelas 2 SD Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku guru kelas 2 sd revisi 2017](/buku/buku-guru-kelas-2-sd-revisi-2017.html "Buku Guru kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
+Berikut ini kumpulan [buku guru kelas 2 sd revisi 2017](/bsd/buku-guru-kelas-2-sd-revisi-2017 "Buku Guru kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
 
 <div class="products_box" id="products_box_1">
   <ul id="books">
