@@ -1,11 +1,8 @@
 ---
 title: "Dongen Anak - Keledai dan Garam Muatannya"
-layout: news_item
-comments: true
 date: "2018-10-25 13:48:09"
 description: Dongen Anak - Keledai dan Garam Muatannya bercerita tentang keledai dengan tuannya membawa garam kemudian tergelincir di sungai, Apa yang terjadi selanjutnya?
 author: artipedia
-image: keledai-dan-muatannya.png
 tags: [dongeng]
 published: true
 ---
@@ -14,7 +11,7 @@ published: true
 {:toc}
 
 ## Pendahuluan 
-[ArtiPedia](/ "ArtiPedia") - **Dongen Anak - Keledai dan Garam Muatannya** bercerita tentang keledai dengan tuannya membawa garam kemudian tergelincir di sungai. Apa yang terjadi selanjutnya? Baca selengkapnya
+[Administrasi.Net](/ "Administrasi.Net") - **Dongen Anak - Keledai dan Garam Muatannya** bercerita tentang keledai dengan tuannya membawa garam kemudian tergelincir di sungai. Apa yang terjadi selanjutnya? Baca selengkapnya
 
 ### Dongeng Keledai dan Garam Muatannya
 Seorang pedagang, menuntun keledainya untuk melewati sebuah sungai yang dangkal. Selama ini mereka telah melalui sungai tersebut tanpa pernah mengalami satu pun kecelakaan, tetapi kali ini, keledainya tergelincir dan jatuh ketika mereka berada tepat di tengah-tengah sungai tersebut. 
