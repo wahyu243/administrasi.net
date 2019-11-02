@@ -1,12 +1,10 @@
 ---
-layout: news_item
 title: Buku Paket Kelas 12 (XII) Kurikulum 2013 Revisi 2018
 description: >-
   Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018 mengacu pada kurikulum 2013
   hasil revisi 2018 yang direkomendasikan oleh Kementrian Pendidikan dan
   Kebudayaan .
 date: 2019-10-08T15:49:09.000Z
-author: artipedia
 tags:
   - buku
   - pendidikan
@@ -20,7 +18,7 @@ tags:
 {:toc}
 
 ## Pendahuluan
-[ArtiPedia](/ "Artipedia") - **Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018** terbagi menjadi dua jenis buku yaitu **Buku Guru** dan **Buku Siswa**. Keduanya sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini **kurikulum 2013**. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018** terbagi menjadi dua jenis buku yaitu **Buku Guru** dan **Buku Siswa**. Keduanya sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini **kurikulum 2013**. 
 
 Buku Kurikulum 2013 SMA Kelas 12 ini lebih mengutamakan pada aktivitas siswa. Siswa diajak untuk berfikir kritis dan aktif dalam setiap kegiatan pembelajaran dengan melalui pendekatan saintifik. Dimana anak diarahkan untuk mengamati, bertanya, mencoba, mempresentasikan, dll.
 
@@ -29,7 +27,7 @@ Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menye
 {% include ads-artikel.html %}
 
 ## Download Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018
-Berikut ini adalah daftar *[Buku kelas XII Kurikulum 2013 Revisi 2018](/buku/buku-kelas-12-kurikulum-2013-revisi-2018 "buku kelas XII Kurikulum 2013 Revisi 2018")* yang bisa anda unduh:
+Berikut ini adalah daftar *[Buku kelas XII Kurikulum 2013 Revisi 2018](/bsd/buku-kelas-12-kurikulum-2013-revisi-2018 "buku kelas XII Kurikulum 2013 Revisi 2018")* yang bisa anda unduh:
 
 ### Buku Guru Kelas 12 Kurikulum 2013 Revisi 2018
 Buku guru kelas 12 yang dapat diunduh terdiri dari beberapa mata pelajaran yang tercantum di bawah ini
