@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas 8 (VIII) Kurikulum 2013 Revisi 2017"
-layout: news_item
-comments: true
 date: "2018-08-31 13:48:09"
 description: Download Buku Siswa Kelas Kelas 8 (VIII) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas 8.
-author: artipedia
 tags: [buku,pendidikan,siswa,kelas-8,buku-siswa,revisi-2017]
 published: true
 ---
@@ -13,7 +10,7 @@ published: true
 {:toc}
 
 ### Pendahuluan
-Keberadaan **Buku Siswa** sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
+[Administrasi.Net](/ "Administrasi.Net") - Keberadaan **Buku Siswa** sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
 
 **Buku Panduan Siswa** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
@@ -24,7 +21,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 Buku Siswa Kurikulum 2013 Kelas 8 (VIII) <acronym title="Sekolah Menengah Pertama">SMP</acronym> untuk memudahkan para guru dalam melaksanakan pembelajaran. Buku Kurikulum 2013 SD ini mencakup ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
 
 ### Download Buku Siswa Kelas VIII <acronym title="Sekolah Menengah Pertama">SMP</acronym> Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku siswa kelas 8 SMP revisi 2017](/wiki/buku-siswa-kelas-8-smp-kurikulum-2013-revisi-2017.html "Buku Siswa kelas 8 SMP Kurikulum 2013 edisi revisi 2017"):
+Berikut ini kumpulan [buku siswa kelas 8 SMP revisi 2017](/bsd/buku-siswa-kelas-8-smp-kurikulum-2013-revisi-2017 "Buku Siswa kelas 8 SMP Kurikulum 2013 edisi revisi 2017"):
 
 <div class="products_box" id="products_box_1">
   <ul id="books">
