@@ -1,10 +1,8 @@
 ---
-layout: news_item
 title: Buku Guru Kelas 6 Tema 9 Menjelajah Angkasa Luar Kurikulum 2013
 description: >-
   Download Gratis Buku Guru kelas 6 Tema Menjelajah Angkasa Luar Kurikulum 2013,
   buku panduan guru menjadi faktor penunjang dalam pembelajaran.
-image: buku-guru-kelas-6-tema-9-menjelajah-angkasa.png
 date: 2019-09-29T04:49:09.000Z
 author: artipedia
 tags:
@@ -55,7 +53,7 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Paket Kelas 6 Tema 9**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Paket Kelas 6 Tema 9**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
 
 **Tema 9** pada **kelas 6** kurikulum 2013 revisi 2018 ini yaitu **Tema Menjelajah Angkasa Luar**. Tema Menjelajah Angkasa Luar terbagi menjadi beberapa subtema.
 
