@@ -1,12 +1,8 @@
 ---
 title: "Buku Siswa Kelas 6 Tema 4 Globalisasi Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-07-11 04:49:09"
 description: Unduh Buku Siswa kelas 6 Tema 4 Globalisasi Revisi 2018. Buku paket tematik kelas 6 tema globalisasi kurikulum 2013 revisi 2018 terdiri dari 3 subTema.
-author: artipedia
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
-image: buku-siswa-sd.png
 published: true
 ---
 * TOC
@@ -46,7 +42,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Seiring berganti tahun ajaran, buku pelajaran pun dirubah mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 4 (Globalisasi) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 162 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[Administrasi.Net](/ "Administrasi.Net") - Seiring berganti tahun ajaran, buku pelajaran pun dirubah mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 4 (Globalisasi) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 162 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 Buku ini disusun agar siswa dalam melaksanakan kegiatan pembelajaran dapat membangun sikap dan perilaku yang positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
@@ -56,8 +52,8 @@ Buku ini disusun agar siswa dalam melaksanakan kegiatan pembelajaran dapat memba
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-6-tema-4-globalisasi-revisi-2018.html" title="Buku Siswa Kelas 6 SD Tema 4 Globalisasi Revisi 2018"><strong>Tema 4 : Globalisasi </strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-6-tema-4-globalisasi-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 4 Globalisasi Revisi 2018"><strong>Tema 4 : Globalisasi </strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
