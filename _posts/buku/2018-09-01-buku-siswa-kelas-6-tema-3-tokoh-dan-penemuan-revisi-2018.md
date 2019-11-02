@@ -1,11 +1,7 @@
 ---
 title: "Buku Siswa Kelas 6 Tema 3 Tokoh dan Penemuan Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-09-01 04:49:09"
 description: Unduh Buku Siswa kelas 6 Tema 3 Tokoh dan Penemuan Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari 3 subTema.
-author: artipedia
-image: buku-siswa-kelas-6-tema-3-revisi-2018.png
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
 published: true
 ---
@@ -45,7 +41,7 @@ published: true
     }
  
 </script>
-[ArtiPedia](/ "ArtiPedia") - **Buku Siswa Kelas 6 Tema 3 Kurikulum 2013**, Buku Tematik siswa Kelas 6 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 3 (Tokoh dan Penemuan) ini merupakan **buku paket tematik** sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 6 Tema 3 Kurikulum 2013**, Buku Tematik siswa Kelas 6 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 3 (Tokoh dan Penemuan) ini merupakan **buku paket tematik** sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 Buku ini disusun agar dalam pelaksanaan kegiatan pembelajaran, siswa dapat membangun sikap dan perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
@@ -55,8 +51,8 @@ Buku ini disusun agar dalam pelaksanaan kegiatan pembelajaran, siswa dapat memba
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-6-tema-3-tokoh-dan-penemuan-revisi-2018.html" title="Buku Siswa Kelas 6 SD Tema 3 Tokoh dan Penemuan Revisi 2018"><strong>Tema 3 : Tokoh dan Penemuan </strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-siswa-kelas-6-tema-3-tokoh-dan-penemuan-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 3 Tokoh dan Penemuan Revisi 2018"><strong>Tema 3 : Tokoh dan Penemuan </strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
