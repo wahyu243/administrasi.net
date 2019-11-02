@@ -1,10 +1,7 @@
 ---
 title: "Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018"
-layout: news_item
-comments: true
 date: "2018-09-10 04:49:09"
 description: Download Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018. Buku panduan guru mapel PAI kurikulum 2013 sebagai sangat penting bagi guru dalam menyusun dan melaksanakan pembelajaran.
-author: artipedia
 tags: [buku,pendidikan,sma,siswa,revisi2018,kelasXII]
 published: true
 ---
@@ -55,8 +52,8 @@ Buku ini disusun agar guru dalam melaksanakan kegiatan pembelajaran dapat memban
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-12-mapel-pai-kurtilas-revisi-2018.html" title="Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018"><strong>Pendidikan Agama Islam (PAI)</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa">Buku Siswa</a>|
+|Tema|<a href="/bsd/buku-guru-kelas-12-mapel-pai-kurtilas-revisi-2018" title="Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018"><strong>Pendidikan Agama Islam (PAI)</strong></a>|
+|Jenis|<a href="/bsd" title="Buku Siswa">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMA (Sekolah Menengah Atas)|
 |Kelas|XII (12)|
