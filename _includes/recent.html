@@ -1,7 +1,6 @@
 <div class="post-footer border-0 shadow mb-4 no-print">
 <h4 class="text">Lihat lainnya</h4>
- 
-<div class="card-body"><ol class="arti">
+<ol class="arti">
 
   {% assign maxRelated = 6 %}
 
@@ -28,7 +27,7 @@
 
     {% if sameTagCount >= minCommonTags %}
 <li> 
-<a href="{{ site.url }}/{{ post.url }}" title="{{ post.title }}" rel="nofollow"></a></li>
+<a href="{{ site.url }}/{{ post.url }}" title="{{ post.title }}" rel="nofollow">{{ post.title }}</a></li>
 <li>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -39,6 +38,5 @@
   {% endfor %}
   
   </ol>
-</div>
 
 </div>
