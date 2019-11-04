@@ -2,4 +2,5 @@
 
 # Redirect default Netlify subdomain to primary domain
 https://administrasi.netlify.com/* https://administrasi.net/:splat 301!
+https://master--administrasi.netlify.com/* https://administrasi.net/:splat 301!
 https://administrasi.net/administrasi/* https://administrasi.net/adm/:splat 301!
