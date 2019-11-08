@@ -11,8 +11,22 @@ Jakarta, Administrasi.Net - Pemerintah akan mulai membuka pendaftaran penerimaan
 
 Sebelum melakukan pendaftaran, Sebaiknya bagi anda calon pelamar menyiapkan syaratnya terlebih dahulu agar anda bisa fokus persiapan dalam hal kesiapan menghadapi Ujian/Tes.
 
-Nah, berdasarkan data yang diperoleh, dokumen yang perlu disiapkan sebagai syarat ikut daftar CPNS adalah:
+### Persyaratan Dasar
 
+Persyaratan dasar ini ditentukan oleh Badan Kepegawaian Negara. Berikut adalah syarat-syaratnya:
+
+1. Usia paling rendah 18 tahun dan paling tinggi 35 tahun pada saat melamar;
+2. Tidak pernah dipidana dengan pidana penjara berdasarkan putusan pengadilan yang mempunyai kekuatan hukum tetap karena melakukan tindak pidana dengan pidana penjara 2 (dua) tahun atau lebih;
+3. Tidak pernah diberhentikan dengan hormat tidak atas permintaan sendiri atau tidak dengan hormat sebagai PNS, prajurit TNI, anggota Polri, atau diberhentikan dengan tidak hormat sebagai pegawai swasta.
+4. Tidak berkedudukan sebagai calon PNS, PNS, prajurit TNI, atau anggota Polri;
+5. Tidak menjadi anggota atau pengurus partai atau terlibat politik praktis;
+6. Memiliki kualifikasi pendidikan sesuai dengan persyaratan jabatan;
+7. Sehat jasmani dan rohani sesuai dengan persyaratan jabatan yang dilamar;
+8. Bersedia ditempatkan di seluruh Negara Kesatuan Republik Indonesia atau negara lain yang ditentukan oleh Instansi Pemerintah; dan
+9. Persyaratan lain sesuai kebutuhan jabatan yang ditetapkan oleh Pejabat Pembina Kepegawaian (PPK).
+
+### Kelengkapan Dokumen
+Nah, berdasarkan data yang diperoleh, dokumen yang perlu disiapkan sebagai syarat ikut daftar CPNS adalah:
 1. Kartu Keluarga
 2. Kartu Tanda Penduduk (KTP)
 3. Ijazah
