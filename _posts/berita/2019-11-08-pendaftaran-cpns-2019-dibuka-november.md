@@ -4,6 +4,7 @@ date: "2019-11-08 04:49:09"
 description: Pendaftaran CPNS 11 November, Segera Siapkan Persyaratan!.
 author: wahyu
 tags: [pendidikan,cpns,cpns-2019]
+image: pendaftaran-CPNS-2019.jpg
 published: true
 ---
 
