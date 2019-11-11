@@ -15,7 +15,7 @@ Kami bukan siapa-siapa, hanya saja orang-orang yang senang dunia internet, menga
 Pendiri Administrasi.Net, Wahyu, seorang diri mempertahankan Administrasi.Net agar terus melangkah ke depan, berharap nantinya web ini dapat berkembang dan bekerja sama dengan pihak lain dalam mengelola website ini.
 
 ## Bagaimana Cara Kerja ArtiPedia?
-Karena ArtiPedia dapat disunting oleh siapa pun, konten kami berubah setiap hari. Tiap suntingan dapat dilihat dalam daftar Perubahan Terbaru, yang senantiasa mengalami peninjauan. 
+Karena Administrasi.Net dapat disunting oleh siapa pun, konten kami berubah setiap hari. Tiap suntingan dapat dilihat dalam daftar Perubahan Terbaru, yang senantiasa mengalami peninjauan. 
 
 Kedepan memungkinkan kami membentuk tim khusus yang bertugas memantau setiap kontribusi dari setiap kontributor, untuk meningkatkan kualitas konten.
 
