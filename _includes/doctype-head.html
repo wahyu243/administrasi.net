@@ -7,6 +7,7 @@
     <meta name="robots" content="index, follow">
     <meta name="google-site-verification" content="{{ site.google_verification }}">
     <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
+    <link rel="canonical" href="{{ page.url | prepend: site.url }}">
    
     <title>{%if page.title %}{{ page.title }} | {{ site.name }} {% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
