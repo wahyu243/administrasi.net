@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/wahyu243
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://administrasi.net
+  * I am wahyu243 (https://keybase.io/wahyu243) on keybase.
+  * I have a public key with fingerprint C1F7 22EA 513E E328 E9EB  1AE7 66A4 5FD1 4F6B 0641
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209409926b6bfbfeb4da2c9620883d64bb26d319f51d6990c80c593254d0e59b0e0a",
+      "fingerprint": "c1f722ea513ee328e9eb1ae766a45fd14f6b0641",
+      "host": "keybase.io",
+      "key_id": "66a45fd14f6b0641",
+      "kid": "0101a31f33d22bb4e504285f41e5681c379158f2ebdfa1449d568461e3c0fedc77290a",
+      "uid": "56922798f7c38ef332dedc2e08653d19",
+      "username": "wahyu243"
+    },
+    "service": {
+      "hostname": "administrasi.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1580872876,
+  "expire_in": 157680000,
+  "prev": "0bfe908e0d3e7759d17d972fe2a9d3060f2aa4136df135c26301eaecc3ba08ba",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMN1AnicbVJ7UFRVHF5SUCDDSVFqxOyqIYl07zn3uYqCU6hjDsZjgiS2e+85l708
+9uLuBSNlYkAHNQSERAeZBTMGGzKxtoHAcHg5sOpMzFLYYPagGRFLHBgeSVl3Gf2v
+88+Z8zvf953v951fz5IFpgAf5VPLQFymX4zP9c7aXFOamf78ICFpKJ8wHyQy8fyG
+sxB26JZMFRFmgqQAKdCkIABWYiVFUrBEIxHIAgtInoeIpSUJsAhSgsJQiBUEUuZJ
+mREgYGhEYkaQSEyKRAShqLZ0bM+xqzbdkJUphQMAiwwFMYaAxwKWKBFzLCvSjIIo
+WmElkqUpg2jVHF6GYU4SHThS1YyacbDM2/sf/FPfJCVCSoEQASBJNGZIGvCMQlOY
+YXlKhpxAMbwCsIQUkaJpARllmqUwlEkFI5njgDDvO3dejmEFADiBVzgZ8thQBcgA
+AUzyLAMRJXiBDmy3idnYQB8Qrfm5gIZEQQRhVPNUGXuD9XbyBCGibNWmOnS76FAj
+bVg3+Dl2TddkLcu4tep6jsPsZev5OfOCWLI8EbJIqg0ZWRqMPGx3qJqNMFMGUtZV
+r7LRFMlzgOfYCAK/n6PasUX1IhiO5Uljed/Bed6AjK8USB6TCGKOYwREcUjggIKB
+KCBIsqQCRJGmIIsUCjIyYCFJYRHLMpREkpe80TjwfptGmCE0fIrphqZDTbeJeq4d
+EwVdnakLTT4BJj/fZ7xDZgrwX/p09EKXBD1ev1B02c/0P89eLvJsutf7R+ILrQOj
+9Z2Ksy15oKwifelsQ9/KRStvh6U8mxQw3KONy6Bl4vGhkuhbVz+4vdkxPuqW6AXR
+Tte3ujtwc5b12l+Hv1POokfd+RntLZVuKq3Zbfuz4pzL2jqjLK7fdqGjLBZkK/jm
+sK9z6LezYy8mla/GUWLg8d460jnVUyrUNjamlP8wk7MnAW3xzYDTrjXF1ZeTwhPd
+y+Iv9odeX3Qs9/j5E+q6mCOban7vnfs4amrtsaznXjq5wlSCk5vetC0ey6o6ddcd
+fnLwwaCzFF4oDH+tW/up9z3/h2kTv1SyqR6nc4xzumqLb2TX7crQ93Pde7e3N7TG
+X3IEDd8vKoktPPF2fGne5MPTfdqh8PF/3bbmadfW/DrP374ZmX6aT9v6ZbCR2xh4
+a3UNlTByZOOrwbVH6x9Njt+pDv8xOqzS07FjOK791NjpaX/1DLBe3PPRjtR3V2Vs
+92xtDRmaS1tRuLOlKyygrPyf7m8etAykjF1xbrO+xcc1Rb5yzlUwWGWKuXIjIqlt
+7o1fv9oQFLDlk+rPvgh+Z9e6rz9MHM0s/rKfOX+/aHI5Cr3UoIfO+k0FVyg3PcnD
+zO6O0J0vt1R1T/atGfF0RW1Irwlpnll1jVpbp/Ucns2s2dekjUy8npt9NCHu7oHv
+907tu1O8/OrP8N6QOaRndzcT+x8V3Mgn
+=Lzg7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wahyu243
+
+==================================================================
