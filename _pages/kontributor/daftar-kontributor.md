@@ -1,6 +1,6 @@
 ---
 title: "Kontributor"
-description: "Berikut ini adalah daftar orang-orang yang telah berkontribusi di Administrasi.Net. Bergabung bersama kami"
+description: "Berikut ini adalah daftar orang-orang yang telah berkontribusi di Administrasi.Net. Bergabung bersama kami. Klik <a href='https://administrasi.net/admin'>Daftar</a> untuk bergabung"
 layout: nosidebar
 ---
 
