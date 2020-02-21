@@ -4,7 +4,7 @@ description: "Berikut ini adalah daftar orang-orang yang telah berkontribusi di 
 layout: nosidebar
 ---
 
-<div class="card border-0 shadow mb-4">Klik <a href="https://administrasi.net/admin">Daftar</a> untuk bergabung</div>
+<div class="card border-0 shadow mb-4"><div class="card-body">Klik <a href="https://administrasi.net/admin">Daftar</a> untuk bergabung</div></div>
 <div class="row">
     {% for author in site.authors %}
     <div class="col-xs-12 col-sm-6 col-md-4">
