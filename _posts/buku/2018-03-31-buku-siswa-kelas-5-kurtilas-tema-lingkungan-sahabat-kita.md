@@ -104,5 +104,5 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku Siswa Tema 8
-Klik tombol download atau baca
+
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=16POIEVB8oUHtJd3hC1YKQMDucZ1nlKB8" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/16POIEVB8oUHtJd3hC1YKQMDucZ1nlKB8/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
