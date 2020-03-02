@@ -6,7 +6,7 @@ description: >-
   Guru.
 image: /img/kebijakan-dana-bos.jpg
 last_modified_date: 2020-03-02T02:37:56.326Z
-author: You
+author: wahyu
 tags:
   - guru
   - sertifikasi
