@@ -4,7 +4,7 @@ title: 'Mendikbud Luncurkan Empat Kebijakan Merdeka Belajar: Kampus Merdeka'
 description: 'Mendikbud Luncurkan Empat Kebijakan Merdeka Belajar: Kampus Merdeka'
 image: /img/kebijakan-kampus-merdeka.jpg
 last_modified_date: 2020-03-02T02:45:44.057Z
-author: you
+author: yOu
 tags:
   - pendidikan
   - kebijakan
