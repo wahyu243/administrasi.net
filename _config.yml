@@ -186,7 +186,7 @@ exclude: [
 sass:
   style: compressed
   
-include: [_redirects,.htaccess,_pages]
+include: [_redirects,.htaccess,_pages,_headers]
 
 # Theme Settings
 analytics: UA-115101359-19
