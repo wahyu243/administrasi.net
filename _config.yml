@@ -55,6 +55,7 @@ defaults:
   values:
     layout: post
     category: Buku
+    permalink: "/bsd/:title"
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
