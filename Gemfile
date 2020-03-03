@@ -64,5 +64,4 @@ group :site do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jemoji"
-  gem 'jekyll-netlify-headers'
 end
