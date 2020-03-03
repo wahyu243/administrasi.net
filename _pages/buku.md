@@ -5,7 +5,7 @@ permalink: /bsd
 redirect_from: /buku
 ---
 
-<ol class="arti">{% for post in site.categories.bsd %}
+<ol class="arti">{% for post in site.categories.buku %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
