@@ -111,7 +111,7 @@ defaults:
       - label: "Administrasi"
         url: /adm
 - scope:
-    path: _posts/cara
+    path: _posts/tutorial
     type: posts
   values:
     layout: post
