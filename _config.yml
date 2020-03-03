@@ -54,7 +54,7 @@ defaults:
     type: posts
   values:
     layout: post
-    category: bsd
+    category: Buku
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -62,7 +62,7 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "BSD"
+      - label: "Buku"
         url: /bsd
 - scope:
     path: _posts/artikel
