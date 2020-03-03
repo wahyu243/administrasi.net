@@ -36,3 +36,4 @@ img.rounded{
 .map {
     height: 450px;
 }
+#kotak-dialog{position:fixed;height:auto;background-color:#fff;box-shadow:0 1px 2px rgba(0,0,0,0.4);z-index:99999;display:none;overflow:hidden}#kotak-dialog{top:5%;left:5%;right:5%;bottom:5%}#iframeContainer iframe{width:99%;height:570px}#kotak-dialog h5.title{background:#222;padding:5px;color:#bcb9b9}.isi-dialog{padding:5px}a.closed{float:right}#dialog-overlay{position:fixed;position:absolute;z-index:9999;top:0;right:0;bottom:0;left:0;background-color:#000;opacity:.10000000149012;display:none}.center.small{padding:10px 12px 12px;border:1px solid #ddd;border-radius:3px;font-size:13px;text-align:center;font-family:"Open Sans",sans-serif;background:#f7f7f7}
