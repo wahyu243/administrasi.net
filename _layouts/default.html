@@ -19,11 +19,13 @@ layout: compress
     {% include ads-footer.html %}
     </div> 
     {% include footer.html %}
+    <div id='kotak-dialog' class="no-print"><h5 class='title'>Tunggu hingga dokumen muncul<a class='closed' href='#'>Tutup <i aria-hidden='true' class='fa fa-window-close'></i></a></h5><div class='isi-dialog'><div id='iframeContainer'></div></div></div><div id='dialog-overlay'></div>
     {% if site.analytics %}
         {% include analytics.html %}
     {% endif %}
    {% include svg-defs.svg %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>  
     <script src="{{ site.baseurl }}/js/all.js"></script>
+    
 </body>
 </html>
