@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
   
-logo_url: https://administrasi.net/svg/min/logo.svg
+logo_url: https://administrasi.net/img/untitled.png
   
 media_folder: "img/"
 public_folder: "/img/"
