@@ -51,9 +51,9 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
-  - name: "bsd"
-    label: "BSD"
-    folder: "_posts/bsd"
+  - name: "buku"
+    label: "Buku Digital"
+    folder: "_posts/buku"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
