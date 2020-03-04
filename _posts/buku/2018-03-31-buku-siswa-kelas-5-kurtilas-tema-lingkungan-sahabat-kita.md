@@ -95,7 +95,7 @@ Buku siswa <b>kelas 5 semester 2 Tema 8</b> ini berisi sebagai berikut.
   
 8. Halaman ini berisi materi yang akan dipelajari, aktivitas belajar yang dilakukan anak bersama orang tua di rumah, serta saran agar anak dan orang tua bisa belajar dari lingkungan. Orang tua diharapkan berdiskusi dan terlibat dalam aktivitas belajar siswa. Saran-saran untuk kegiatan bersama antara siswa dan orang tua dicantumkan juga pada setiap akhir pembelajaran. 
 
-<b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi sebagai berikut.
+<b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk _mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan)_ peserta didik melalui aktivitas yang bervariasi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
   
 ## Pertimbangan
