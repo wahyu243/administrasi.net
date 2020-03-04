@@ -52,7 +52,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       
   - name: "buku"
-    label: "Buku Digital"
+    label: "Buku"
     folder: "_posts/buku"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
