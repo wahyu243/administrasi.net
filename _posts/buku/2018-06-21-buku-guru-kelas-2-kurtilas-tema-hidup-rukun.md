@@ -12,6 +12,7 @@ tags:
   - buku-guru
   - kelas-2
   - tematik
+  - revisi-2017
 ---
 * TOC
 {:toc}
