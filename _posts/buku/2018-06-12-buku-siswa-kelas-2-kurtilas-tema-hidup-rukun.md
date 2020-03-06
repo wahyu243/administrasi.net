@@ -12,6 +12,7 @@ tags:
   - kelas-2
   - buku-siswa
   - tematik
+  - revisi-2017
 ---
 * TOC
 {:toc}
