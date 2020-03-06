@@ -13,7 +13,7 @@ Setiap buku yang terdapat di Artipedia telah dibeli hak ciptanya secara resmi ol
 
 Diharapkan dengan tersedianya Buku Digital ini serta menyimpannya di smartphone, tablet atau laptop, maka seluruh pelajar Indonesia dapat belajar dimana saja dan kapan saja. Bukan tidak mungkin jika daerah-daerah pelosok Indonesia yang distribusi buku sekolahnya kurang lancar, tetap dapat belajar sesuai **standar pendidikan nasional**. Para guru dapat memanfaatkan aplikasi ini untuk tetap memberikan pembelajaran yang dibutuhkan para siswanya.
 
-Setiap tahun, pemerintah menerbitkan kembali **Buku Kurikulum 2013** Revisi 2017 satuan pendidikan **SD**, **SMP**, **SMA** dan **SMK**, yang telah disesuaikan mengikuti perkembangan ilmu pengetahuan.
+Setiap tahun, pemerintah menerbitkan kembali **Buku Kurikulum 2013 Revisi 2017**  satuan pendidikan **SD**, **SMP**, **SMA** dan **SMK**, yang telah disesuaikan mengikuti perkembangan ilmu pengetahuan.
 
 Berikut ini adalah daftar [Buku Guru dan Buku Siswa Revisi 2017](/bsd/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2017 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2017")
 
