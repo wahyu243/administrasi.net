@@ -10,6 +10,7 @@ tags:
   - pendidikan
   - kelas-5
   - tematik
+  - revisi-2017
 ---
 * TOC
 {:toc}
