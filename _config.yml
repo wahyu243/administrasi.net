@@ -141,6 +141,21 @@ defaults:
     breadcrumbs:
       - label: "Teori"
         url: /teori/
+- scope:
+    path: _posts/dongeng
+    type: posts
+  values:
+    layout: post
+    category: dongeng
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Dongeng"
+        url: /dongeng/
 
 # Contact form
 api_token: 2a824f5cb9d63ff7e9d555cf5d7551fe
