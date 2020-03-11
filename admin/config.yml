@@ -29,6 +29,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "administrasi"
     label: "Administrasi"
     folder: "_posts/administrasi"
@@ -49,6 +50,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "berita"
     label: "Berita"
     folder: "_posts/berita"
@@ -69,6 +71,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "buku"
     label: "Buku"
     folder: "_posts/buku"
@@ -89,6 +92,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "dongeng"
     label: "Dongeng"
     folder: "_posts/dongeng"
@@ -109,6 +113,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "tutorial"
     label: "Tutorial"
     folder: "_posts/tutorial"
@@ -129,6 +134,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "teori"
     label: "Teori"
     folder: "_posts/teori"
@@ -149,6 +155,7 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "kontributor"
     label: "Kontributor"
     folder: "_pages/kontributor"
@@ -169,6 +176,7 @@ collections:
         required: false
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "doc"
     label: "Doc"
     folder: "_pages/doc"
@@ -189,4 +197,3 @@ collections:
         required: false
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
