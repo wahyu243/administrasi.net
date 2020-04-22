@@ -24,7 +24,7 @@ Terdapat beberapa persiapan yang harus dilakukan untuk melakukan pendaftaran onl
 4. Photo atau hasil scan Akta Kelahiran Calon Peserta Didik
 5. Pendaftaran Online dilakukan dengan mengisi form di bawah ini.
 
-<a class="button demo" href="https://forms.gle/5AxLnKNbbZnxrBLn6" title="Unduh Formulir">Unduh</a>
+<a class="button demo" href="https://forms.gle/5AxLnKNbbZnxrBLn6" title="Isi Formulir">Formulir</a>
 
 <div class="note">Untuk pendaftaran secara offline, berkas dikirimkan ke alamat
 Jl. Sindangsari Raya RT. 18/07 Desa Sindangsari Kecamatan Cikoneng
