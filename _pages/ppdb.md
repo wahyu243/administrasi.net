@@ -4,7 +4,7 @@ description: Penerimaan Peserta Didik Baru SLB Sindangsari Cikoneng Tahun Ajaran
 permalink: /ppdb
 ---
 
-Penerimaan Peserta Didik Baru SLB Sindangsari Cikoneng Tahun Ajaran 2020-2021
+Penerimaan Peserta Didik Baru SLB Sindangsari Cikoneng Tahun Ajaran 2020-2021. Pendaftaran bisa dilakukan dengan dua cara yaitu secara Offline dan Secara Online.
 
 ![PPDB](/img/PPDB SLB SINDANGSARI.png)
 
