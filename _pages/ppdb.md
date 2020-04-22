@@ -26,6 +26,6 @@ Terdapat beberapa persiapan yang harus dilakukan untuk melakukan pendaftaran onl
 
 <a class="button demo" href="https://forms.gle/5AxLnKNbbZnxrBLn6" title="Isi Formulir">Formulir</a>
 
-<div class="note">Untuk pendaftaran secara offline, berkas dikirimkan ke alamat
-Jl. Sindangsari Raya RT. 18/07 Desa Sindangsari Kecamatan Cikoneng
-Kabupaten Ciamis, Provinsi Jawa Barat</div>
+Untuk pendaftaran secara offline, berkas dikirimkan ke alamat
+<blockquote>Jl. Sindangsari Raya RT. 18/07 Desa Sindangsari Kecamatan Cikoneng
+Kabupaten Ciamis, Provinsi Jawa Barat</blockquote>
