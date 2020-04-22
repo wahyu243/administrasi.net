@@ -6,6 +6,8 @@ permalink: /ppdb
 
 Penerimaan Peserta Didik Baru SLB Sindangsari Cikoneng Tahun Ajaran 2020-2021
 
+[PPDB](https://administrasi.net/img/ppdb.png)
+
 ## Pendaftaran Offline
 Berkas yang harus dipersiapkan 
 1. Photo 3x4 3 lembar
