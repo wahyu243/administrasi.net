@@ -30,29 +30,10 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+      
   - name: "administrasi"
     label: "Administrasi"
     folder: "_posts/administrasi"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
-      - label: "Author"
-        name: "author"
-        widget: "string"
-        required: false
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "berita"
-    label: "Berita"
-    folder: "_posts/berita"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
