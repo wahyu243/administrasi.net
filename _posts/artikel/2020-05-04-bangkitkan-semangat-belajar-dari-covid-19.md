@@ -3,7 +3,7 @@ layout: post
 title: Bangkitkan Semangat, Belajar dari Covid-19
 description: Bangkitkan Semangat, Belajar dari Covid-19, Memupuk Pendidikan
   Karakter Saat Belajar di Rumah
-date: 2020-05-04T06:42:24.094Z
+date: 2020-05-04T06:50:28.818Z
 tags:
   - pendidikan
   - belajar
