@@ -41,11 +41,11 @@
 
 <div class="card border-0 shadow mb-4 no-print">
 <div class="card-body"><h4 class="text">Komentar</h4> 
-<a href="https://administrasi.net/{{ page.url }}/#disqus_thread" id="disqus-button" onclick="event.preventDefault();show_disqus()" class="btn"><span>Comments </span></a>
+<a href="https://administrasi.net{{ page.url }}/#disqus_thread" id="disqus-button" onclick="event.preventDefault();show_disqus()" class="btn"><span>Comments </span></a>
 <div id='disqus_thread'></div>
 <script>
  var disqus_config = function() {
-    this.page.url = 'https://administrasi.net/{{ page.url }}';
+    this.page.url = 'https://administrasi.net{{ page.url }}';
     this.page.identifier = '{{ page.url }}';
   };
   (function() {
