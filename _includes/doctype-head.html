@@ -59,10 +59,11 @@
    "@context": "https://schema.org", 
  "@type": "Article",
  "headline": "{{ page.title }}",
- "alternativeHeadline": "{% if page.description %}{{ page.description}}{% else %}{{ post.excerpt }}{% endif %}",
+ "alternativeHeadline": "{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}",
  "image": "{%if page.image %}{{ site.url }}/img/{{ page.image }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
  "author": "{{page.author}}", 
  "editor": "yOu", 
+ "wordcount" : "{{ page.content | size }}"
  "genre": "{{page.category}}", 
  "publisher": {
     "@type": "Organization",
@@ -86,6 +87,7 @@
  "dateCreated": "{{ page.date | date_to_xmlschema }}",
  "dateModified": "{{ page.date | date_to_xmlschema }}",
  "description": "{% if page.description %}{{ page.description}}{% else %}{{ post.excerpt }}{% endif %}"
+ "articleBody": "{{post.content}}"
  }
 	</script>
   {% endif %}
