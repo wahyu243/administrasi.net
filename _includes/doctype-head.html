@@ -70,9 +70,13 @@
     "logo": {
       "@type": "ImageObject",
       "url": "{{ site.url }}{{ site.logo_url }}"
-    }
+    },
+    "sameAs": [
+    
+    "{{ site.facebook }}"
+        ]
   },
- "url": "{{ site.url }}",
+ "url": "{{ site.url }}{{ page.url }}",
    "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
@@ -81,7 +85,6 @@
  "dateCreated": "{{ page.date | date_to_xmlschema }}",
  "dateModified": "{{ page.date | date_to_xmlschema }}",
  "description": "{% if page.description %}{{ page.description}}{% else %}{{ site.description}}{% endif %}",
- "articleBody": "You can paste your entire post in here, and yes it can get really really long."
  }
 	</script>
   {% endif %}
