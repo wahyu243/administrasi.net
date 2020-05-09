@@ -37,15 +37,14 @@
       <meta content='https://administrasi.net/apple-touch-icon.png' itemprop='url'/>
       <meta content='180' itemprop='width'/>
       <meta content='180' itemprop='height'/>   </div></div>
-                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="60" height="60" />
-
-                        <span class="ml-3"><a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}}</a><span>&nbsp; &nbsp;<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+   <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="60" height="60" />
+<span class="ml-3"><a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}}</a><span>&nbsp; &nbsp;<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
                         <small class="text-muted d-block mt-1">
 <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>&nbsp; &nbsp;
 				
 				<span itemprop='dateModified'>
 
-<abbr class='updated published' expr:title='{{ page.date | date_to_string }}' itemprop='datePublished'>{{ page.date | date_to_string }}</abbr>
+<abbr class='updated published' expr:title='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date_to_string }}</abbr>
 
 </span><span class="read-time" title="Estimated read time">
          &nbsp; &nbsp; <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>     
