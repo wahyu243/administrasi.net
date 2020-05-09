@@ -90,6 +90,20 @@
  "articleBody": "{{page.content}}"
  }
 	</script>
+	{% else %}
+	<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "{{site.name}}",
+    "description": "{{site.description}}",
+    "publisher": {
+        "@type": "ProfilePage",
+        "name": "{{site.name}}"
+    }
+}
+</script>
+
   {% endif %}
    
     <script type="application/ld+json">
