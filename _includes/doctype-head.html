@@ -87,7 +87,7 @@
  "dateCreated": "{{ page.date | date_to_xmlschema }}",
  "dateModified": "{{ page.date | date_to_xmlschema }}",
  "description": "{% if page.description %}{{ page.description}}{% else %}{{ post.excerpt }}{% endif %}",
- "articleBody": "{{post.content}}"
+ "articleBody": "{{page.content}}"
  }
 	</script>
   {% endif %}
