@@ -75,7 +75,7 @@
  "url": "{{ site.url }}",
    "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://google.com/article"
+    "@id": "{{ site.url }}{{ page.url }}"
   },
  "datePublished": "{{ page.date | date_to_xmlschema }}",
  "dateCreated": "{{ page.date | date_to_xmlschema }}",
