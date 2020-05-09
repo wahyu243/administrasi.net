@@ -92,16 +92,53 @@
 	</script>
 	{% else %}
 	<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "name": "{{site.name}}",
-    "description": "{{site.description}}",
-    "publisher": {
-        "@type": "ProfilePage",
-        "name": "{{site.name}}"
+    {
+        "@context": "http://schema.org",
+        "@graph": [{
+            "@type": "WebPage",
+            "author": {
+                "@id": "#identity"
+            },
+            "copyrightHolder": {
+                "@id": "#identity"
+            },
+            "copyrightYear": "2019-06-06T10:10:00-07:00",
+            "creator": {
+                "@id": "#creator"
+            },
+          
+            "description": "{{site.description}}",
+            "headline": "{{site.title}}",
+            "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.url }}/apple-touch-icon.png"
+            },
+            "inLanguage": "id-ID",
+            "mainEntityOfPage": "{{site.url}}",
+            "name": "{{site.name}}",
+            "publisher": {
+                "@id": "#creator"
+            },
+            "url": "{{site.url}}"
+        }, {
+            "@id": "#identity",
+            "@type": "LocalBusiness",
+            "priceRange": "$"
+        }, {
+            "@id": "#creator",
+            "@type": "Organization"
+        }, {
+            "@type": "BreadcrumbList",
+            "description": "Breadcrumbs list",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "item": "{{site.url}}",
+                "name": "Homepage",
+                "position": 1
+            }],
+            "name": "Breadcrumbs"
+        }]
     }
-}
 </script>
 
   {% endif %}
