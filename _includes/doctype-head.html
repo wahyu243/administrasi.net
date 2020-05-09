@@ -77,9 +77,9 @@
     "@type": "WebPage",
     "@id": "https://google.com/article"
   },
- "datePublished": "2015-09-20",
- "dateCreated": "2015-09-20",
- "dateModified": "2015-09-20",
+ "datePublished": "{{ page.date | date_to_xmlschema }}",
+ "dateCreated": "{{ page.date | date_to_xmlschema }}",
+ "dateModified": "{{ page.date | date_to_xmlschema }}",
  "description": "{% if page.description %}{{ page.description}}{% else %}{{ site.description}}{% endif %}",
  "articleBody": "You can paste your entire post in here, and yes it can get really really long."
  }
