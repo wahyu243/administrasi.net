@@ -5,8 +5,6 @@ title: Tag
 description: Halaman ini berisi posting yang dikelompokkan kembali menjadi beberapa tags.
 ---
 
-<
-
 Halaman ini berisi posting yang dikelompokkan berdasarkan tag tertentu
 <div id="archives">
 {% for tag in site.tags %}
