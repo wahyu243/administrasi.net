@@ -1,5 +1,5 @@
 <div class="post-tags no-print"><span class="post-bottom-meta-title"><span class="fa fa-tags" aria-hidden="true"></span> Tags</span>
   {% for tag in page.tags %}
-  <a class="tag-link" href="/{{category}}/#{{tag|slugize}}"><span itemprop="keywords">{{tags}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
+  <a class="tag-link" href="/{{page.category}}/#{{tag|slugize}}"><span itemprop="keywords">{{tag|slugize}}</span></a>{% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}&nbsp;
  </div><div class="clear"></div>
