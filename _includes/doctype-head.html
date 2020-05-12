@@ -60,7 +60,7 @@
  "@type": "Article",
  "headline": "{{ page.title }}",
  "alternativeHeadline": "{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}",
- "image": "{%if page.image %}{{ site.url }}/img/{{ page.image }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
+ "image": "{%if page.image %}{{ site.url }}/img/{{ page.image | replace: '/img/','' | }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
  "author": "{{page.author}}", 
  "editor": "yOu", 
  "wordcount" : "{{ page.content | size }}",
