@@ -5,7 +5,7 @@ description: THR bagi ASN/PNS golongan III ke bawah dipastikan cair 10 hari
   sebelum lebaran atau tanggal 13-14 Mei 2020
 image: /img/thr-pns-2020-cair.png
 last_modified_date: 2020-05-12T01:49:01.003Z
-author: ""
+author: wahyu
 tags:
   - asn
   - tunjangan
