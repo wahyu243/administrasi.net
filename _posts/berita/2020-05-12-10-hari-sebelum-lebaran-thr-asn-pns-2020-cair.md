@@ -43,8 +43,9 @@ Terdapat 13 kriteria yang akan menerima THR PNS 2020 ini.
 12. PNS, Prajurit TNI, dan Anggota Polri yang sedang ditugaskan di luar instansi pemerintah baik di dalam maupun luar negeri yang gajinya dibayar oleh instansi tempat penugasan
 
 
-### Besaran THR ASN 2020
-Adapun besaran THR sebesar penghasilan satu bulan pada dua bulan sebelum bulan Hari Raya Idul fitri, diberikan bagi jabatan berikut.
+### Besaran THR ASN 2020
+
+Adapun besaran THR sebesar penghasilan satu bulan pada dua bulan sebelum bulan Hari Raya Idul fitri, diberikan bagi jabatan berikut.
 
 1. PNS, prajurit TNI, anggota Polri, dan hakim dalam jabatan hakim madya muda ke bawah atau kolonel ke bawah di lingkungan MA. THR yang diberikan paling banyak meliputi gaji pokok, tunjangan keluarga, tunjangan jabatan/umum
 2. Penerima gaji terusan dari PNS, TNI, Polri yang meninggal dunia, tewas, gugur, atau penerima gaji dari PNS, Prajurit TNI, atau Anggota Polri yang dinyatakan hilan, yaitu sebesar satu bulan gaji terusan pada dua bulan sebelum bulan hari raya
@@ -55,5 +56,7 @@ Terdapat 13 kriteria yang akan menerima THR PNS 2020 ini.
 7. Pegawai non PNS pada LNS atau LPP, atau pegawai lainnya, sebesar lampiran PP
 8. Pegawai non PNS pada BLU, sebesar komponen gaji pada remunerasi, paling tinggi sebesar THR yang diterima PNS pada jabatan yang setara
 9. Calon PNS, paling banyak sebesar 80% dari gaji pokok PNS, tunjangan keluarga, dan tunjangan jabatan/umum.
-
-<div class="sumber">https://wartakota.tribunnews.com/2020/05/06/hari-hari-menanti-thr-pns-cair-berikut-lima-fakta-yang-perlu-diketahui-seputar-thr-pns-2020?page=all. </div>
+
+
+<div class="sumber">https://wartakota.tribunnews.com/2020/05/06/hari-hari-menanti-thr-pns-cair-berikut-lima-fakta-yang-perlu-diketahui-seputar-thr-pns-2020?page=all.
+ </div>
