@@ -83,9 +83,9 @@
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
   },
- "datePublished": "{{ page.date | date_to_xmlschema }}",
- "dateCreated": "{{ page.date | date_to_xmlschema }}",
- "dateModified": "{{ page.date | date_to_xmlschema }}",
+ "datePublished": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
+ "dateCreated": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
+ "dateModified": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
  "description": "{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}",
  "articleBody": "{{page.content | strip_html }}"
  }
