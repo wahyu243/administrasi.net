@@ -26,6 +26,9 @@ layout: compress
     {% endif %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>  
     <script src="{{ site.baseurl }}/js/all.min.js"></script>
-    
+    {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'news_item' %} 
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v7.0&appId=502591903662193&autoLogAppEvents=1"></script>
+    {% endif %}
 </body>
 </html>
