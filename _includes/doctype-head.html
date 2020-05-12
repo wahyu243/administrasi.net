@@ -20,7 +20,7 @@
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.layout == 'post' or page.layout == 'page' %}
     <meta property="og:type" content="article">
-    <meta property="og:image" content="{{site.url}}/img/{{ page.image }}" >
+    <meta property="og:image" content="{{site.url}}/img/{{ page.image | replace: '/img/','' }}" >
     <meta property="og:image:alt" content="{{page.title}}" >
     <meta property="article:publisher" content="http://www.facebook.com/administrasi.net" >
     <meta property="article:author" content="https://www.facebook.com/you.w4hyou" >
@@ -60,7 +60,7 @@
  "@type": "Article",
  "headline": "{{ page.title }}",
  "alternativeHeadline": "{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}",
- "image": "{%if page.image %}{{ site.url }}/img/{{ page.image | replace: '/img/','' | }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
+ "image": "{%if page.image %}{{ site.url }}/img/{{ page.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
  "author": "{{page.author}}", 
  "editor": "yOu", 
  "wordcount" : "{{ page.content | size }}",
