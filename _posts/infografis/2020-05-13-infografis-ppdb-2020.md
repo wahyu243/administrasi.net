@@ -6,6 +6,7 @@ image: /img/infografis-ppdb-2020.jpg
 date: 2020-05-13T08:55:42.178Z
 author: wahyu
 tags:
+  - infografis
   - ppdb
   - sekolah
   - siswa
