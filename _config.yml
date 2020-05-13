@@ -156,6 +156,21 @@ defaults:
     breadcrumbs:
       - label: "Dongeng"
         url: /dongeng/
+- scope:
+    path: _posts/infografis
+    type: posts
+  values:
+    layout: post
+    category: infografis
+    image: twitter-card.png
+    author: wahyu
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Infografis"
+        url: /infografis/
 
 # Contact form
 api_token: 2a824f5cb9d63ff7e9d555cf5d7551fe
