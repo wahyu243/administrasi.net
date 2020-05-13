@@ -191,7 +191,7 @@ layout: default
     {% for post in site.categories.infografis %}
         <a href="{{ site.baseurl }}/img/{{ post.image | replace:"/img/", ""}}" class="gallery-item expandable-box image-link">
             <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/{{ post.image }}" alt="{{ post.title }}">
+                <img src="{{ site.baseurl }}/img/{{ post.image | replace:"/img/", "" }}" alt="{{ post.title }}" title="{{ post.title }}">
             </div>
             <div class="expandable-box-bottom">
                 <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
