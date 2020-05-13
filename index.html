@@ -189,7 +189,7 @@ layout: default
     <h2 class="section-title">Gallery</h2>
 
     {% for post in site.categories.infografis %}
-        <a href="{{ site.baseurl }}/img/{{ post.image }}" class="gallery-item expandable-box image-link">
+        <a href="{{ site.baseurl }}/img/{{ post.image | replace:"/img/", ""}}" class="gallery-item expandable-box image-link">
             <div class="expandable-box-top">
                 <img src="{{ site.baseurl }}/img/{{ post.image }}" alt="{{ post.title }}">
             </div>
