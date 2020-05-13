@@ -10,12 +10,12 @@ tags:
   - covid-19
 ---
 
-![Cegah Covid-19](/img/download.jpg){:class="img-responsive"}
-![Cegah Covid-19](/img/download(1).jpg){:class="img-responsive"}
-![Cegah Covid-19](/img/download(2).jpg){:class="img-responsive"}
-![Cegah Covid-19](/img/download(3).jpg){:class="img-responsive"}
-![Cegah Covid-19](/img/download(4).jpg){:class="img-responsive"}
-![Cegah Covid-19](/img/download(5).jpg){:class="img-responsive"}
+![Cegah Covid-19](/img/infografis-cegah-covid-19.jpg){:class="img-responsive"}
+![Cegah Covid-19](/img/download (1).jpg){:class="img-responsive"}
+![Cegah Covid-19](/img/download (2).jpg){:class="img-responsive"}
+![Cegah Covid-19](/img/download (3).jpg){:class="img-responsive"}
+![Cegah Covid-19](/img/download (4).jpg){:class="img-responsive"}
+![Cegah Covid-19](/img/download (5).jpg){:class="img-responsive"}
 <p>
 <a class="button download" href="/img/SE Corona SatPend.pdf">Download</a>
   </p>
