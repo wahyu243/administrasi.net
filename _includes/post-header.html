@@ -33,7 +33,7 @@
                     <h1 class="display-4 mb-2 article-headline">{{ page.title }}</h1>
 			<div class="d-flex align-items-center no-print">
 <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatar}}" alt="{{author.name}}" width="60" height="60" />
-<span class="ml-3"><a href="{{site.url}}/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}}</a><span>&nbsp; &nbsp;<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+<span class="ml-3"><a href="{{site.url}}/kontributor/{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}}</a><span>&nbsp; &nbsp;<a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
                         <small class="text-muted d-block mt-1">
 <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>&nbsp; &nbsp;
 				
