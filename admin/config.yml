@@ -128,6 +128,7 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
           
   - name: "tutorial"
     label: "Tutorial"
