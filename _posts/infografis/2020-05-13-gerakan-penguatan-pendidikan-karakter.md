@@ -6,6 +6,7 @@ image: /img/gerakan-penguatan-pendidikan-karakter.png
 date: 2020-05-13T09:57:02.552Z
 author: wahyu
 tags:
+  - infografis
   - pendidikan
   - siswa
   - sekolah
