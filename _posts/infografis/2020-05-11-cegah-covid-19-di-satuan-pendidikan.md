@@ -6,6 +6,7 @@ image: infografis-cegah-covid-19.jpg
 date: 2020-05-11T00:00:00.000Z
 author: wahyu
 tags:
+  - infografis
   - sekolah
   - kesehatan
   - covid-19
