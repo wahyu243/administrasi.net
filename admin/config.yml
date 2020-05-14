@@ -28,6 +28,10 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "administrasi"
     label: "Administrasi"
@@ -48,6 +52,10 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "berita"
     label: "Berita"
@@ -67,6 +75,10 @@ collections:
         name: "author"
         widget: "string"
         required: false
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false        
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "buku"
@@ -88,6 +100,10 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "dongeng"
     label: "Dongeng"
@@ -108,6 +124,10 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "infografis"
     label: "Infografis"
@@ -128,8 +148,11 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
-          
   - name: "tutorial"
     label: "Tutorial"
     folder: "_posts/tutorial"
@@ -149,6 +172,10 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "teori"
     label: "Teori"
@@ -169,6 +196,10 @@ collections:
         widget: "string"
         required: false
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "kontributor"
     label: "Kontributor"
