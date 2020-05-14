@@ -12,10 +12,7 @@ tags:
 ---
 Wabah infeksi virus corona baru (SARS-CoV-2/COVID-19, sebelumnya disebut 2019-nCoV) adalah jenis virus penyebab penyakit seperti flu biasa, MERS, SARS, dan penyakit saluran pernapasan lain yang berpotensi mematikan. Meskipun bisa berakibat serius, langkah-langkah pencegahan bisa membantu melindungi kesehatan Anda dari virus corona, baik di masyarakat, dan di rumah.
 
-### Melindungi Diri dari Virus Corona
-
 ![Mencuci tangan dengan sabun](/img/galuh-ilustrasi-mencuci-tangan-berita1.png "Mencuci tangan dengan sabun")
-
 1. **Cucilah tangan dengan sabun dan air untuk meminimalkan risiko infeksi dengan mencuci tangan sesering mungkin**. Basahi tangan Anda dengan air hangat kemudian tuangkan sabun lembut. Usap sabun hingga berbusa selama 20-30 detik kemudian basuh tangan dengan air hangat mengalir.  
 
    * Organisasi Kesehatan Dunia atau WHO menganjurkan untuk tidak hanya mengusap kedua telapak tangan, tetapi juga mengait dan memautkan jari tangan dengan beragam cara demi memastikan seluruh permukaan tangan bersih. Gunakan tisu untuk mengeringkan tangan dan mematikan keran air.Pastikan Anda selalu mencuci tangan sebelum makan atau minum apa pun. Namun, ada baiknya Anda mencuci tangan kapan saja saat berada di luar ruangan atau di sekitar orang-orang yang mungkin sedang sakit.
@@ -26,16 +23,16 @@ Wabah infeksi virus corona baru (SARS-CoV-2/COVID-19, sebelumnya disebut 2019-nC
 
    * Jika pun harus menyentuh wajah, cucilah tangan terlebih dahulu untuk mengurangi kemungkinan Anda terinfeksi.
 
-   ![Hindari orang-orang yang batuk atau bersin](/img/hindari-batuk.jpg "Hindari orang-orang yang batuk atau bersin")
+![Hindari orang-orang yang batuk atau bersin](/img/hindari-batuk.jpg "Hindari orang-orang yang batuk atau bersin")
 3. **Hindari orang-orang yang batuk atau bersin**. Oleh karena virus corona menyebabkan infeksi pada saluran pernapasan, batuk dan bersin adalah gejala yang lazim timbul. Selain itu, batuk dan bersin bisa melepaskan virus ke udara sehingga meningkatkan risiko Anda terinfeksi. Jadi, jagalah jarak Anda dengan orang-orang yang menunjukkan gejala infeksi saluran pernapasan atas. 
 
    * Jika mungkin, mintalah orang tersebut untuk menjauh dari Anda. Anda bisa saja mengatakan, "Sepertinya tadi kamu batuk-batuk. Semoga kamu cepat sembuh, tapi tolong jangan terlalu dekat dengan saya agar saya tidak sakit.”
    * Jika Anda tahu ada orang yang pernah berada di sekitar orang sakit, ada baiknya Anda menjauh dari mereka juga.
 
-   ![Hindari berjabat tangan dengan orang lain](/img/jabat-tangan.png "Hindari berjabat tangan dengan orang lain")
+![Hindari berjabat tangan dengan orang lain](/img/jabat-tangan-1.jpg "Hindari berjabat tangan dengan orang lain")
 4. **Hindari berjabat tangan dengan orang lain, baik jika mereka menunjukkan gejala maupun tidak**. Sayangnya, orang-orang yang terinfeksi virus corona bisa menularkan penyakit bahkan jika tidak menunjukkan gejala. Untuk melindungi diri, batasilah kontak dengan orang lain.  
 
-   ![Disinfeksi permukaan yang sering disentuh](/img/20200325063219.jpg "Disinfeksi permukaan yang sering disentuh")
+![Disinfeksi permukaan yang sering disentuh](/img/20200325063219.jpg "Disinfeksi permukaan yang sering disentuh")
 5. **Disinfeksi permukaan yang sering disentuh setiap hari menggunakan produk pembunuh virus**. Sayangnya, virus corona bisa menempel di permukaan benda seperti gagang pintu, meja dapur, dan keran. Gunakan semprotan disinfektan atau cairan pemutih untuk membersihkan permukaan ini setiap hari. Agar efektif membunuh virus, pastikan permukaan tersebut basah selama sekitar 10 menit. Langkah ini akan meminimalkan risiko virus menempel di permukaan benda yang berpotensi menyebabkan infeksi.
 
    * Di rumah, bersihkan gagang pintu depan, meja dapur, wastafel kamar mandi, serta keran air dengan disinfektan.
