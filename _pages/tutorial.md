@@ -1,6 +1,6 @@
 ---
 title: Kumpulan Tutorial
-description: Halaman ini berisi kumpulan tutorial yang sangat berguna bagi para pembaca.
+description: Halaman ini berisi kumpulan tutorial, cara atau konten panduan cara yang paling andal, lengkap, dan menyenangkan di internet.
 permalink: /tutorial
 ---
 
