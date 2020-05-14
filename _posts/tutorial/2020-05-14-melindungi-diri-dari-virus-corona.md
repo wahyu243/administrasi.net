@@ -32,7 +32,7 @@ Wabah infeksi virus corona baru (SARS-CoV-2/COVID-19, sebelumnya disebut 2019-nC
    * Jika mungkin, mintalah orang tersebut untuk menjauh dari Anda. Anda bisa saja mengatakan, "Sepertinya tadi kamu batuk-batuk. Semoga kamu cepat sembuh, tapi tolong jangan terlalu dekat dengan saya agar saya tidak sakit.”
    * Jika Anda tahu ada orang yang pernah berada di sekitar orang sakit, ada baiknya Anda menjauh dari mereka juga.
 
-   ![Hindari berjabat tangan dengan orang lain](/img/jabat-tangan.png "Hindari berjabat tangan dengan orang lain")
+   ![Hindari berjabat tangan dengan orang lain](/img/jabat-tangan-1.jpg "Hindari berjabat tangan dengan orang lain")
 4. **Hindari berjabat tangan dengan orang lain, baik jika mereka menunjukkan gejala maupun tidak**. Sayangnya, orang-orang yang terinfeksi virus corona bisa menularkan penyakit bahkan jika tidak menunjukkan gejala. Untuk melindungi diri, batasilah kontak dengan orang lain.  
 
    ![Disinfeksi permukaan yang sering disentuh](/img/20200325063219.jpg "Disinfeksi permukaan yang sering disentuh")
