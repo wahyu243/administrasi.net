@@ -26,16 +26,16 @@ Wabah infeksi virus corona baru (SARS-CoV-2/COVID-19, sebelumnya disebut 2019-nC
 
    * Jika pun harus menyentuh wajah, cucilah tangan terlebih dahulu untuk mengurangi kemungkinan Anda terinfeksi.
 
-   ![](/img/hindari-batuk.jpg)
+   ![Hindari orang-orang yang batuk atau bersin](/img/hindari-batuk.jpg "Hindari orang-orang yang batuk atau bersin")
 3. **Hindari orang-orang yang batuk atau bersin**. Oleh karena virus corona menyebabkan infeksi pada saluran pernapasan, batuk dan bersin adalah gejala yang lazim timbul. Selain itu, batuk dan bersin bisa melepaskan virus ke udara sehingga meningkatkan risiko Anda terinfeksi. Jadi, jagalah jarak Anda dengan orang-orang yang menunjukkan gejala infeksi saluran pernapasan atas. 
 
    * Jika mungkin, mintalah orang tersebut untuk menjauh dari Anda. Anda bisa saja mengatakan, "Sepertinya tadi kamu batuk-batuk. Semoga kamu cepat sembuh, tapi tolong jangan terlalu dekat dengan saya agar saya tidak sakit.”
    * Jika Anda tahu ada orang yang pernah berada di sekitar orang sakit, ada baiknya Anda menjauh dari mereka juga.
 
-   ![](/img/jabat-tangan.png)
+   ![Hindari berjabat tangan dengan orang lain](/img/jabat-tangan.png "Hindari berjabat tangan dengan orang lain")
 4. **Hindari berjabat tangan dengan orang lain, baik jika mereka menunjukkan gejala maupun tidak**. Sayangnya, orang-orang yang terinfeksi virus corona bisa menularkan penyakit bahkan jika tidak menunjukkan gejala. Untuk melindungi diri, batasilah kontak dengan orang lain.  
 
-   ![](/img/20200325063219.jpg)
+   ![Disinfeksi permukaan yang sering disentuh](/img/20200325063219.jpg "Disinfeksi permukaan yang sering disentuh")
 5. **Disinfeksi permukaan yang sering disentuh setiap hari menggunakan produk pembunuh virus**. Sayangnya, virus corona bisa menempel di permukaan benda seperti gagang pintu, meja dapur, dan keran. Gunakan semprotan disinfektan atau cairan pemutih untuk membersihkan permukaan ini setiap hari. Agar efektif membunuh virus, pastikan permukaan tersebut basah selama sekitar 10 menit. Langkah ini akan meminimalkan risiko virus menempel di permukaan benda yang berpotensi menyebabkan infeksi.
 
    * Di rumah, bersihkan gagang pintu depan, meja dapur, wastafel kamar mandi, serta keran air dengan disinfektan.
