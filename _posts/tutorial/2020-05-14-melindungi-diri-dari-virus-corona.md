@@ -41,7 +41,7 @@ Wabah infeksi virus corona baru (SARS-CoV-2/COVID-19, sebelumnya disebut 2019-nC
    * Di rumah, bersihkan gagang pintu depan, meja dapur, wastafel kamar mandi, serta keran air dengan disinfektan.
    * Di kantor, bersihkan permukaan benda yang sering disentuh seperti gagang pintu, pegangan tangga, meja, dan meja dapur.
    * Anda juga bisa membuat larutan disinfektan dengan mencampur 1 cangkir (250 ml) cairan pemutih dengan 4 liter air hangat.
-6. **Usahakan untuk tidak terlalu khawatir jika Anda tidak benar-benar berisiko**. Mitos tentang virus corona yang tersebar di media sosial terkadang menyebabkan ketakutan berlebihan. Cari tahu fakta virus corona dari sumber tepercaya seperti Kementrian Kesehatan atau Organisasi Kesehatan Dunia (WHO). Selain itu, ada baiknya Anda memverifikasi sumber informasi sebelum membuat keputusan apa pun. 
+6. **Usahakan untuk tidak panik, jika Anda tidak benar-benar berisiko**. Mitos tentang virus corona yang tersebar di media sosial terkadang menyebabkan ketakutan berlebihan. Cari tahu fakta virus corona dari sumber tepercaya seperti Kementrian Kesehatan atau Organisasi Kesehatan Dunia (WHO). Selain itu, ada baiknya Anda memverifikasi sumber informasi sebelum membuat keputusan apa pun. 
 
    * Meskipun galur virus corona yang baru ini berasal dari Tiongkok, virus ini tidak berhubungan dengan etnis Tionghoa. Jangan memperlakukan seseorang dengan berbeda ataupun menjauhi mereka hanya karena berasal dari etnis tertentu. Perlakukan semua orang dengan baik, dan ingatlah bahwa semua orang bisa terinfeksi.
    * Menurut WHO, Anda tidak bisa tertular virus corona dari surat maupun produk yang berasal dari Tiongkok.
