@@ -5,3 +5,4 @@ https://administrasi.netlify.app/* https://administrasi.net/:splat 301!
 https://master--administrasi.netlify.app/* https://administrasi.net/:splat 301!
 https://administrasi.net/administrasi/* https://administrasi.net/adm/:splat 301!
 https://administrasi.net/buku/* https://administrasi.net/bsd/:splat 301!
+https://administrasi.net/admin/* https://administrasi.net/admin/#/:splat 301!
