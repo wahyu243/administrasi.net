@@ -21,17 +21,21 @@ Wabah infeksi virus corona baru (SARS-CoV-2/COVID-19, sebelumnya disebut 2019-nC
    * Organisasi Kesehatan Dunia atau WHO menganjurkan untuk tidak hanya mengusap kedua telapak tangan, tetapi juga mengait dan memautkan jari tangan dengan beragam cara demi memastikan seluruh permukaan tangan bersih. Gunakan tisu untuk mengeringkan tangan dan mematikan keran air.Pastikan Anda selalu mencuci tangan sebelum makan atau minum apa pun. Namun, ada baiknya Anda mencuci tangan kapan saja saat berada di luar ruangan atau di sekitar orang-orang yang mungkin sedang sakit.
    * Jika Anda tidak bisa mencuci tangan, gunakan cairan pembersih tangan atau hand sanitizer yang mengandung alkohol 60-95%. Persentase alkohol lebih dari 95% justru kurang efektif.
 
-
-
      ![Jauhkan tangan dari mata hidung dan mulut](/img/v4-728px-prevent-coronavirus-step-2-version-2.jpg.jpg "Jauhkan tangan dari mata hidung dan mulut")
 2. **Hindari sentuhan tangan ke mata, hidung, dan mulut Anda**. Ada kemungkinan Anda bersentuhan dengan virus corona di permukaan seperti gagang pintu atau meja dapur. Jika hal ini terjadi, kuman akan menempel di tangan Anda dan mudah masuk ke dalam tubuh saat Anda menyentuh wajah. Jadi, hindarilah menyentuh mata, hidung, dan mulut untuk berjaga-jaga jika ada virus di kulit Anda. 
 
    * Jika pun harus menyentuh wajah, cucilah tangan terlebih dahulu untuk mengurangi kemungkinan Anda terinfeksi.
+
+   ![](/img/hindari-batuk.jpg)
 3. **Hindari orang-orang yang batuk atau bersin**. Oleh karena virus corona menyebabkan infeksi pada saluran pernapasan, batuk dan bersin adalah gejala yang lazim timbul. Selain itu, batuk dan bersin bisa melepaskan virus ke udara sehingga meningkatkan risiko Anda terinfeksi. Jadi, jagalah jarak Anda dengan orang-orang yang menunjukkan gejala infeksi saluran pernapasan atas. 
 
    * Jika mungkin, mintalah orang tersebut untuk menjauh dari Anda. Anda bisa saja mengatakan, "Sepertinya tadi kamu batuk-batuk. Semoga kamu cepat sembuh, tapi tolong jangan terlalu dekat dengan saya agar saya tidak sakit.”
    * Jika Anda tahu ada orang yang pernah berada di sekitar orang sakit, ada baiknya Anda menjauh dari mereka juga.
+
+   ![](/img/jabat-tangan.png)
 4. **Hindari berjabat tangan dengan orang lain, baik jika mereka menunjukkan gejala maupun tidak**. Sayangnya, orang-orang yang terinfeksi virus corona bisa menularkan penyakit bahkan jika tidak menunjukkan gejala. Untuk melindungi diri, batasilah kontak dengan orang lain.  
+
+   ![](/img/20200325063219.jpg)
 5. **Disinfeksi permukaan yang sering disentuh setiap hari menggunakan produk pembunuh virus**. Sayangnya, virus corona bisa menempel di permukaan benda seperti gagang pintu, meja dapur, dan keran. Gunakan semprotan disinfektan atau cairan pemutih untuk membersihkan permukaan ini setiap hari. Agar efektif membunuh virus, pastikan permukaan tersebut basah selama sekitar 10 menit. Langkah ini akan meminimalkan risiko virus menempel di permukaan benda yang berpotensi menyebabkan infeksi.
 
    * Di rumah, bersihkan gagang pintu depan, meja dapur, wastafel kamar mandi, serta keran air dengan disinfektan.
