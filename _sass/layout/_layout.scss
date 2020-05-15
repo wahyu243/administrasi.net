@@ -25,8 +25,12 @@
 .mt-2, .my-2 {
     margin-top: .5rem!important;
 } 
+ins {
+    margin: 8px 0;
+    background: #f9f6d2;
+}
 header {
-    margin-top: 70px;
+    margin-top: 80px;
 }
 @media screen and (max-width: 768px){
 .col-md-6.align-self-center {
