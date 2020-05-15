@@ -1,8 +1,8 @@
 ---
 title: "Buku Siswa Kelas 1 Tema Diriku Kurikulum 2013"
 date: "2018-06-24 03:48:09"
-description: Buku siswa kelas 1 tema 1 Diriku merupakan buku paket tematik kurikulum 2013 revisi 2017 yang diperuntukkan bagi siswa kelas 1 sekolah dasar sebagai penunjang dalam melaksanakan aktivitas pembelajaran dikelas.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017]
+description: Download Buku siswa kelas 1 tema 1 Diriku, buku paket tematik kurikulum 2013 revisi 2017 penunjang dalam melaksanakan aktivitas pembelajaran dikelas.
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017,download]
 published: true
 ---
 * TOC
@@ -51,7 +51,7 @@ published: true
 |Uraian|Keterangan|
 | --- | --- |
 |Tema|<a href="/bsd/buku-siswa-kelas-1-kurtilas-tema-diriku" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|I (satu)|
@@ -82,8 +82,7 @@ Buku siswa <b>kelas 1 semester 1 Tema 1</b> ini berisi sebagai berikut.
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
-  
+
 ## Download Buku Siswa Kelas 1 Tema Diriku
 **Download buku tematik kelas 1 tema diriku** di bawah ini.
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B18mXGGKnIqvUG52Nk5oNTJYWDQ" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B18mXGGKnIqvUG52Nk5oNTJYWDQ/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

@@ -1,10 +1,10 @@
 ---
 title: Buku Guru Kelas 2 Tema Hidup Rukun Kurikulum 2013
 description: >-
-  Buku guru kelas 2 tema 1 Hidup Rukun merupakan buku kurikulum 2013 revisi 2017
-  yang digunakan oleh guru sebagai penunjang dan panduan penggunaan buku siswa
+  Download Buku guru kelas 2 tema 1 Hidup Rukun kurikulum 2013 revisi 2017
+  digunakan oleh guru sebagai penunjang dan panduan penggunaan buku siswa
   kelas 2 SD.
-last_modified_date: 2019-09-28T09:59:15.350Z
+last_modified_date: 2020-05-05T09:59:15.350Z
 tags:
   - buku
   - pendidikan
@@ -13,6 +13,7 @@ tags:
   - kelas-2
   - tematik
   - revisi-2017
+  - download
 ---
 * TOC
 {:toc}
@@ -71,7 +72,7 @@ Penulis|Irene Maria Juli Asuti|
 |Tahun|<strong>Edisi Revisi 2017</strong>|
 |ISBN|<strong>978-602-427-164-0</strong>|
 
-## Subtema
+## Subtema Buku Guru Kelas 2 Tema Hidup Rukun
 <strong>Buku Guru</strong> <strong>Kelas 2 Tema 1 Hidup Rukun</strong> terdiri dari 4 subtema antara lain: 
 ### 1. Hidup Rukun Di Rumah
 ### 2. Hidup Rukun Di Tempat Bermain
@@ -92,9 +93,7 @@ Buku guru <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
   
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
-
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
-## Download Buku
+## Download Buku Guru Kelas 2 Tema Hidup Rukun Kurikulum 2013
 Klik tombol download atau baca
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B1j4dij_cZkMTlZWTy1tMkwxVm8" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B1j4dij_cZkMTlZWTy1tMkwxVm8/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

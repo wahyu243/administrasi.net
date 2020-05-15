@@ -1,16 +1,16 @@
 ---
 title: Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita Kurikulum 2013
 description: >-
-  Buku siswa kelas 5 tema 8 Lingkungan Sahabat Kita merupakan buku kurikulum
-  2013 revisi 2017 yang digunakan sebagai penunjang bagi pembelajaran siswa di
-  kelas.
-last_modified_date: 2019-09-28T09:51:17.380Z
+  Download Buku siswa kelas 5 tema 8 Lingkungan Sahabat Kita buku kurikulum
+  2013 revisi 2017.
+last_modified_date: 2020-05-15T09:51:17.380Z
 tags:
   - buku
   - pendidikan
   - kelas-5
   - tematik
   - revisi-2017
+  - download
 ---
 * TOC
 {:toc}
@@ -57,7 +57,7 @@ Buku paket kelas 5 terdiri dari buku guru dan buku siswa. Buku tersebut mengacu 
 
 Implementasi Kurikulum 2013 bertujuan untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
 
-Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku siswa kelas 5 ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
+Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku siswa kelas 5 ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
 
 Struktur penulisan buku siswa kelas 5 ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
@@ -86,7 +86,7 @@ Penulis|Heny Kusumawati|
 3. Usaha Pelestarian Lingkungan
 4. Kegiatan Berbasis Proyek dan Literasi
 
-Buku siswa <b>kelas 5 semester 2 Tema 8</b> ini berisi sebagai berikut.
+<b>Buku siswa kelas 5 semester 2 Tema 8</b> ini berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 2. Buku Siswa dilengkapi dengan penjelasan lebih rinci tentang isi dan penggunaan buku sebagaimana dituangkan dalam Buku Guru.
 3. Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru atau mengembangkan ide-ide pembelajaran sendiri.
@@ -101,9 +101,7 @@ Buku siswa <b>kelas 5 semester 2 Tema 8</b> ini berisi sebagai berikut.
   
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
-
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
-  
+ 
 ## Download Buku Siswa Tema 8
 
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=16POIEVB8oUHtJd3hC1YKQMDucZ1nlKB8" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/16POIEVB8oUHtJd3hC1YKQMDucZ1nlKB8/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

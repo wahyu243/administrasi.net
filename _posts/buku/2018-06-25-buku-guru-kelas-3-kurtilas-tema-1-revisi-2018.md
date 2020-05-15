@@ -1,8 +1,8 @@
 ---
 title: "Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018"
 date: "2018-06-25 11:48:09"
-description: Buku K13 - Buku Guru kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket pelajaran dengan model tematik kurikulum 2013 revisi 2018.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik]
+description: Download Buku K13 - Buku Guru kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket pelajaran dengan model tematik kurikulum 2013 revisi 2018.
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik, download]
 published: true
 ---
 * TOC
@@ -42,7 +42,7 @@ published: true
  
 </script>
 
-[Administrasi.Net](/ "Administrasi.Net") - **Buku Kurikulum 2013 (K13) Revisi** terbaru Tahun 2018 diantaranya Buku Guru Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> **semester 1 (satu) tema 1** (**Pertumbuhan dan Perkembangan Makhluk Hidup**) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sonya Sinyanyuri dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Kurikulum 2013 (K13) Revisi** terbaru Tahun 2018 diantaranya Buku Guru Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> **semester 1 (satu) tema 1** (**Pertumbuhan dan Perkembangan Makhluk Hidup**) ini merupakan buku paket tematik yang diperuntukkan bagi guru. Buku ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sonya Sinyanyuri dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup
 
@@ -62,7 +62,7 @@ Penulis|Sonya Sinyanyuri dan Lubna Assagaf|
 
 {% include ads-artikel.html %}
 
-## Subtema
+## Subtema Buku Guru Kelas 3 Tema 1 
 <strong>Buku Guru</strong> <strong>Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup</strong> mencakup beberapa subtema antara lain: 
 1. Ciri-Ciri Makhluk Hidup
 2. Pertumbuhan dan Perkembangan Manusia
@@ -91,8 +91,6 @@ indikator dari berbagai mata pelajaran.
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
-  
-## Download Buku
+## Download Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018
 Buku Kurtilas Revisi 2018 ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1WdN5vrgoPl8C2xSbthSTceeQmdzqw7_J" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1WdN5vrgoPl8C2xSbthSTceeQmdzqw7_J/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

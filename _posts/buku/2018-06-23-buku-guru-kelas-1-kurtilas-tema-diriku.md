@@ -1,12 +1,12 @@
 ---
 title: "Buku Guru Kelas 1 Tema Diriku Kurikulum 2013"
 date: "2019-09-29 03:48:09"
-description: Buku guru kelas 1 tema 1 Diriku merupakan buku paket kurikulum 2013 revisi 2017 yang digunakan sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam menyusun Program Pembelajaran RPP dan Melaksanakan pembelajaran dikelas.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017]
+description: Download Buku guru kelas 1 tema 1 Diriku merupakan buku paket kurikulum 2013 revisi 2017 sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam melaksanakan pembelajaran dikelas.
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik,revisi-2017,download]
 published: true
 ---
 
-Buku Paket sangat lah penting baik itu sebagai penunjang guru dalam mengelola kelas ataupun sebagai penunjang siswa dalam mengikuti pelaksanaan pembelajaran. Bagi satuan pendidikan SD saat ini kurikulum yang digunakan adalah kurikulum 2013 dengan model pembelajaran tematik. Jadi buku yang digunakanpun harus lah buku tematik mengikuti kurikulum yang berlaku saat ini.
+Buku Guru Kelas 1 Tema Diriku Kurikulum 2013 sangat lah penting baik itu sebagai penunjang guru dalam mengelola kelas ataupun sebagai penunjang siswa dalam mengikuti pelaksanaan pembelajaran. Bagi satuan pendidikan SD saat ini kurikulum yang digunakan adalah kurikulum 2013 dengan model pembelajaran tematik. Jadi buku yang digunakanpun harus lah buku tematik mengikuti kurikulum yang berlaku saat ini.
 
 * TOC
 {:toc}
@@ -64,14 +64,14 @@ Penulis|Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf.|
 |Tahun|<strong>Edisi Revisi 2017</strong>|
 |ISBN|<strong>978-602-282-879-2</strong>|
 
-## Subtema
+## Subtema Buku Guru Kelas 1 Tema Diriku Kurikulum 2013
 <strong>Buku Guru</strong> <strong>Kelas 1 Tema 1 Diriku</strong> terdiri dari 4 subtema antara lain: 
 ### 1. Aku dan Teman Baru
 ### 2. Tubuhku
 ### 3. Aku Merawat Tubuhku
 ### 4. Istimewa
 
-## Isi Buku
+## Isi Buku Guru Kelas 1 Tema Diriku Kurikulum 2013
 **Buku guru kelas 2 semester 1 Tema 1** ini berisi sebagai berikut.
 1. Buku guru merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para guru dalam melaksanakan pembelajaran yang didalamnya mencakup Materi, Pemetaan Kompetensi Dasar dalam Pembelajaran, Kompetensi yang dikembangkan, Panduan Penilaian dll.
 2. Buku guru dilengkapi dengan penjelasan lebih rinci tentang isi dan penggunaan buku.
@@ -86,7 +86,6 @@ Penulis|Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf.|
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku guru kelas 2 semester 1 Tema 1
 Klik tombol download atau baca

@@ -1,10 +1,9 @@
 ---
 title: Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku Kurikulum 2013
 description: >-
-  Buku guru kelas 2 tema 2 Bermain dilingkunganku merupakan buku kurikulum  2013
-  revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan
-  pembelajaran di kelas.
-last_modified_date: 2019-09-28T09:54:14.180Z
+  Download Buku guru kelas 2 tema 2 Bermain dilingkunganku kurikulum 2013
+  revisi 2017 penunjang dalam melaksanakan pembelajaran di kelas.
+last_modified_date: 2020-05-15T09:54:14.180Z
 tags:
   - buku
   - pendidikan
@@ -13,6 +12,7 @@ tags:
   - kelas-2
   - tematik
   - revisi-2017
+  - download
 ---
 
 * TOC
@@ -56,11 +56,11 @@ tags:
 
 Pada satuan pendidikan *sekolah dasar (SD)* saat ini menggunakan **kurikulum 2013** dimana dalam kurikulum tersebut bersifat tematik, artinya tiap mata pelajaran dileburkan ke dalam suatu tema. seperti halnya dalam **buku guru tema bermain dilingkunganku** yang disajikan pada halaman ini.
 
-Penggunaan buku guru dapat memberikan gambaran kepada guru yang dalam mengelola dan mengembangkan kegiatan pembelajaran di kelas yang dituntut untuk mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
+Penggunaan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku dapat memberikan gambaran kepada guru yang dalam mengelola dan mengembangkan kegiatan pembelajaran di kelas yang dituntut untuk mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
 
 Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku kelas 2 ini sangat penting dimiliki oleh guru  sebagai panduan, baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
 
-Struktur penulisan buku kelas 2 ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
+Struktur penulisan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
 ## Buku Guru Kelas 2 Tema 2 Bermain di Lingkunganku
 
@@ -97,8 +97,6 @@ Penulis|Taufina|
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
-  
 ## Download Buku Kelas 2 Tema 2
 Unduh Buku Kurikulum 2013 Kelas 2 Tema 2
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B1j4dij_cZkMVzZKTW9kMXVhbWc" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B1j4dij_cZkMVzZKTW9kMXVhbWc/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

@@ -1,8 +1,8 @@
 ---
 title: "Buku Siswa Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018"
 date: '2018-06-25 03:48:09'
-description: Buku siswa kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi terbaru tahun ajaran 2018/2019.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
+description: Download Buku siswa kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018.
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download]
 published: true
 ---
 * TOC
@@ -69,7 +69,7 @@ Penulis|Sonya Sinyanyuri dan Lubna Assagaf|
 3. Pertumbuhan Hewan
 4. Pertumbuhan dan Perkembangan Tumbuhan
 
-Buku siswa <b>kelas 3 semester 1 Tema 1</b> ini berisi sebagai berikut.
+Buku siswa <b>kelas 3 semester 1 Tema Pertumbuhan dan Perkembangan Makhluk Hidup</b> berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan siswa dalam melaksanakan aktivitas pembelajaran di kelas.
 2. Buku siswa dilengkapi dengan gambar dan warna untuk menstimulasi imajinasi dan minat siswa.
 3. Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Berdiskusi, Ayo Membaca, Ayo Menulis, Ayo Mengamati, Ayo Mencoba, Ayo Berlatih, Ayo Bernyanyi, Ayo Renungkan, dan Kerja Sama dengan Orang Tua.
@@ -82,8 +82,6 @@ Buku siswa <b>kelas 3 semester 1 Tema 1</b> ini berisi sebagai berikut.
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
-  
 ## Download Buku Siswa Kelas 3 Tema 1
 **Buku Siswa Kelas 3 Tema 1 Kurtilas Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1O8S7EicR1nyuT_31pvnxE_YwAFIjBTYB" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1O8S7EicR1nyuT_31pvnxE_YwAFIjBTYB/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
