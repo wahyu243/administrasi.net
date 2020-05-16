@@ -1,0 +1,9 @@
+- icon: icon-tint
+  title: Dongeng
+  description: Berisi kumpulan Dongeng atau Cerita Anak. 
+  url: /dongeng
+
+- icon: icon-star
+  title: Berita
+  description: Unduh atau Download Infografis Terbaru.
+  url: /infografis
