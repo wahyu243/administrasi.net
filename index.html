@@ -196,7 +196,7 @@ layout: default
 <div id="gallery" class="gallery">
         
     <h2 class="section-title"><a href="https://administrasi.net/infografis" title="Infografis">Infografis</a></h2>
-      {% for post in site.categories.infografis %}
+      {% for post in site.categories.infografis limit:8 %}
         <a href="{{ site.baseurl }}/img/{{ post.image | replace:"/img/", ""}}" class="gallery-item expandable-box image-link">
             <div class="expandable-box-top">
                 <img src="{{ site.baseurl }}/img/{{ post.image | replace:"/img/", "" }}" alt="{{ post.title }}" title="{{ post.title }}">
