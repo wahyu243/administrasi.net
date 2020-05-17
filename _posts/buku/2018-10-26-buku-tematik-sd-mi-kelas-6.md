@@ -11,6 +11,7 @@ tags:
   - kelas-6
   - pendidikan
   - sd
+  - download
 ---
 
 [Administrasi.Net](/ "Administrasi.Net") - **Buku Paket Kurikulum 2013 Kelas 6** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 6 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
