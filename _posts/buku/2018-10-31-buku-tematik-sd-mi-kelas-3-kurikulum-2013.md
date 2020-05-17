@@ -11,6 +11,7 @@ tags:
   - sd
   - revisi-2018
   - kelas-3
+  - download
 ---
 
 [Administrasi.Net](/ "Administrasi.Net") - **Buku Sekolah Elektronik** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk *digital* untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 3 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
