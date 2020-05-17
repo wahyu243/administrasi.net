@@ -2,7 +2,7 @@
 title: "Buku siswa Kelas 8 (VIII) Kurikulum 2013 Revisi 2017"
 date: "2018-10-24 13:48:09"
 description: Download Buku Kurikulum 2013 Buku siswa Kelas Kelas 8 (VIII) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi siswa dalam melaksanakan pembelajaran di kelas 9.
-tags: [buku,pendidikan,siswa,buku-siswa,kelas-8,revisi-2017]
+tags: [buku,pendidikan,siswa,buku-siswa,kelas-8,revisi-2017,download]
 published: true
 ---
 
