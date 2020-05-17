@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 9 (IX) Kurikulum 2013 Revisi 2015"
 date: "2018-08-31 13:48:09"
 description: Download Buku paket K13 Buku Siswa Kelas Kelas 9 (IX) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2015 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas 9.
-tags: [buku,pendidikan,siswa,kelasIX,revisi2015]
+tags: [buku,pendidikan,siswa,kelas-IX,revisi-2015,download]
 published: true
 ---
 
