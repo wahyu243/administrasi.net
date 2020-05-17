@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 9 Mapel IPA Kurikulum 2013 Revisi 2018"
 date: "2018-07-23 01:49:09"
 description: Buku paket K13 Buku Siswa Kelas 9 SMP/MTs Mapel IPA Kurikulum 2013 Revisi 2018 sebagai referensi dalam pelaksanaan pembelajaran IPA SMP/MTs kelas IX.
-tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel]
+tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel,download]
 published: true
 ---
 * TOC
