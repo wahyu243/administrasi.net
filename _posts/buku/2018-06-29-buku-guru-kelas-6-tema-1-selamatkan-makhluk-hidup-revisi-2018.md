@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 6 Tema 1 Selamatkan Makhluk Hidup Revisi 2018"
 date: "2018-06-29 04:49:09"
 description: Download Buku Guru Tema 1 kelas 6. Tema 1 Selamatkan Makhluk Hidup Revisi 2018 terdiri dari 3 subTema. Buku ini adalah buku guru untuk tingkat satuan pendidikan dasar SD Kelas 6
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik,download]
 published: true
 ---
 * TOC
@@ -90,7 +90,6 @@ Buku Guru <b>kelas 6 SD semester 1 Tema 1</b> ini berisi sebagai berikut.
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku
 **Buku <abbr title="Kurikulum 2013">Kurtilas</abbr> Kelas 6 Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
