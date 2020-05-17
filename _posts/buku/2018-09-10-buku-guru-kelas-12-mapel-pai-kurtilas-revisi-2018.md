@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018"
 date: "2018-09-10 04:49:09"
 description: Download Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018. Buku panduan guru mapel PAI kurikulum 2013 sebagai sangat penting bagi guru dalam menyusun dan melaksanakan pembelajaran.
-tags: [buku,pendidikan,sma,siswa,revisi2018,kelasXII]
+tags: [buku,pendidikan,sma,siswa,revisi-2018,kelas-12,download]
 published: true
 ---
 * TOC
