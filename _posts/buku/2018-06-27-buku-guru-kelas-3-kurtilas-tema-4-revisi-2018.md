@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018"
 date: "2018-06-27 04:49:09"
 description: Buku Guru kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari 4 subTema 1. Kewajiban dan Hakku di Rumah, 2. Kewajiban dan Hakku di Sekolah, 3. Kewajiban dan Hakku dalam Bertetangga, 4. Kewajiban dan Hakku sebagai Warga Negara.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik,download]
 published: true
 ---
 * TOC
@@ -94,5 +94,5 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku
-Buku Kurtilas Revisi 2018 ini dapat anda unduh atau baca melalui tombol dibawah:
+**Buku Kurtilas Tema Kewajiban dan Hakku Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1HcPIibUht5mFq7EqEYk3XFc45CqsBTo8" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1HcPIibUht5mFq7EqEYk3XFc45CqsBTo8/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
