@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 4 (IV) Kurikulum 2013 Revisi 2017"
 date: "2018-08-31 12:48:09"
 description: Download Buku Guru Kelas 4 (IV) SD yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas 4.
-tags: [buku,pendidikan,guru,buku-guru,kelas-4]
+tags: [buku,pendidikan,guru,buku-guru,kelas-4,download,revisi-2017]
 published: true
 ---
 
