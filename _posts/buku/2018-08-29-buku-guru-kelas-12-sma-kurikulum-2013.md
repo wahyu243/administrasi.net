@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 12 (XII) SMA Kurikulum 2013"
 date: "2018-08-29 11:49:09"
 description: Buku Kurikulum 2013 Buku Guru Kelas 12 SMA, Download Buku Guru SMA Kelas 12 Kurikulum 2013, Buku Panduan Guru Berfungsi sebagai pedoman dalam penggunaan Buku Siswa.
-tags: [buku,pendidikan,sma,guru,kelas-12]
+tags: [buku,pendidikan,sma,guru,kelas-12,download]
 published: true
 ---
 * TOC
