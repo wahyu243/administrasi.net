@@ -12,6 +12,7 @@ layout: default
             <div class="card border-0 shadow mb-4">
                 <div class="card-body">
                      <h2 class="title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+                    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
                  {% include ads-artikel.html %}
                     {{ content }}
             {% include tag.html %}
