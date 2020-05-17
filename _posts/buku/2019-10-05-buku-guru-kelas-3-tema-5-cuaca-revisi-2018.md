@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 3 Tema 5 Cuaca Revisi 2018"
 date: "2019-10-05 04:49:09"
 description: Buku Guru kelas 3 Tema 5 Cuaca Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari 4 subTema 1. Keadaan Cuaca, 2. Perubahan Cuaca, 3. Pengaruh Perubahan Cuaca Terhadap Kehidupan Manusia, 4. Cuaca, Musim, dan Iklim.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik,download]
 published: true
 ---
 
