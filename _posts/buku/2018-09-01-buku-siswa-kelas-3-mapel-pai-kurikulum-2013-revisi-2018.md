@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 3 SD Mapel PAI Revisi 2018"
 date: "2018-06-27 04:49:09"
 description: Buku Siswa kelas 3 SD Mata pelajaran PAI Revisi 2018 merupakan buku paket mata pelajaran PAI Pendidikan Agama Islam Kurikulum 2013  cetakan kedua revisi 2018.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,revisi-2018,kelas-3,mapel]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,revisi-2018,kelas-3,mapel,download]
 published: true
 ---
 * TOC
