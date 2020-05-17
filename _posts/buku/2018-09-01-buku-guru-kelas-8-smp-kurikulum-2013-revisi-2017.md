@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 8 (VIII) Kurikulum 2013 Revisi 2017"
 date: "2018-09-01 13:48:09"
 description: Download Buku paket SMP K13 Buku Guru Kelas Kelas 8 (VIII) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran di kelas 9.
-tags: [buku,pendidikan,guru,kelas-8,buku-guru,revisi-2017]
+tags: [buku,pendidikan,guru,kelas-8,buku-guru,revisi-2017,download]
 published: true
 ---
 
