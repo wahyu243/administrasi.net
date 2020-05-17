@@ -13,6 +13,7 @@ tags:
   - guru
   - revisi-2018
   - kelas-12
+  - download
 ---
 * TOC
 {:toc}
