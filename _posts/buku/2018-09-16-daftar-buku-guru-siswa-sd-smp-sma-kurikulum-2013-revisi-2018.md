@@ -2,7 +2,7 @@
 title: Buku Kurikulum 2013 SD, SMP, SMA Revisi 2018
 date: "2018-09-15 20:49:09"
 description: Daftar Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018, Unduh Buku Kurikulum 2018 Revisi 2018.
-tags: [buku,revisi-2018,,download]
+tags: [buku,revisi-2018,download]
 ---
 
 ## Pendahuluan
