@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 9 Mapel Matematika Revisi 2018"
 date: "2018-07-16 04:49:09"
 description: Buku paket K13 Buku Siswa Kelas 9 SMP Mapel Matematika Revisi 2018 berisi materi tentang Perpangkatan dan Bentuk Akar, Persamaan dan Fungsi Kuadrat, Transformasi, Kekongruenan dan Kesebangunan, dan Bangun Ruang Sisi Lengkung.
-tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel]
+tags: [buku,pendidikan,smp,siswa,buku-siswa,kelas-9,revisi-2018,mapel,download]
 published: true
 ---
 * TOC
