@@ -43,7 +43,7 @@ published: true
  
 </script>
 
-[Administrasi.Net](/ "Administrasi.Net") - Buku Siswa Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) tema 2 (Menyayangi Tumbuhan dan Hewan) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 218 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Yanti Kurnianingsih, Sonya Sinyanyuri., dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - Buku Siswa Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 2 (Menyayangi Tumbuhan dan Hewan) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 218 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Yanti Kurnianingsih, Sonya Sinyanyuri., dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Siswa Kelas 3 Tema 2 Menyayangi Tumbuhan dan Hewan
 
@@ -86,5 +86,5 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku
-Buku Kurtilas Revisi 2018 ini dapat anda unduh atau baca melalui tombol dibawah:
+**Buku Siswa Kelas 3 Tema 2 Menyayangi Tumbuhan dan Hewan Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1uN7T3kWFQ1n4eKeXuPOMYfBDSs9AgyLO" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1uN7T3kWFQ1n4eKeXuPOMYfBDSs9AgyLO/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
