@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas XI SMA Kurikulum 2013"
 date: "2018-08-29 11:49:09"
 description: Berisi kumpulan Buku Guru Kelas XI SMA Kurikulum 2013 bagi guru SMA. Download buku Guru SMA Kelas 11 Kurikulum 2013.
-tags: [buku,pendidikan,sma,guru,kelas-11]
+tags: [buku,pendidikan,sma,guru,kelas-11,download]
 published: true
 ---
 * TOC
