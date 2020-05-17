@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 3 Mapel PAI Kurikulum 2013 Revisi 2018"
 date: "2018-06-27 04:49:09"
 description: Buku Guru kelas 3 Mata pelajaran PAI Revisi 2018 merupakan buku paket mata pelajaran Pendidikan Agama Islam kurikulum 2013  cetakan kedua revisi 2018.
-tags: [buku,pendidikan,sd,guru,buku-guru,mapel,revisi-2018,kelas-3]
+tags: [buku,pendidikan,sd,guru,buku-guru,mapel,revisi-2018,kelas-3,download]
 published: true
 ---
 * TOC
