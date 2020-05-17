@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 9 Mapel IPS Revisi 2018"
 date: "2018-07-23 01:49:09"
 description: Download Buku Guru Kelas 9 SMP/MTs Mapel IPS Revisi 2018 yang merupakan buku panduan guru dalam melaksanakan pembelajaran IPS.
-tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
+tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel,download]
 published: true
 ---
 * TOC
