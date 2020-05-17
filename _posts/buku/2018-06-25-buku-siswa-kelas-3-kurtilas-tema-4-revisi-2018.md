@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018"
 date: "2018-06-25 04:49:09"
 description: Buku siswa kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018, buku paket tematik kurikulum 2013 revisi terdiri dari 4 subTema 1. Kewajiban dan Hakku di Rumah, 2. Kewajiban dan Hakku di Sekolah, 3. Kewajiban dan Hakku dalam Bertetangga, 4. Kewajiban dan Hakku sebagai Warga Negara.
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download]
 published: true
 ---
 * TOC
@@ -81,9 +81,7 @@ Buku siswa <b>kelas 3 semester 1 Tema 4</b> ini berisi sebagai berikut.
   
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
-
-Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
-  
-## Download Buku
-Buku Kurtilas Revisi 2018 ini dapat anda unduh atau baca melalui tombol dibawah:
+ 
+## Download Buku Sisa Kelas 3 Tema 4
+**Buku Kurtilas Tema Kewajiban dan Hakku kelas 4 Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1fKw1xlS-_5zEBQu_eI63fB1EA4sFz09j" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1fKw1xlS-_5zEBQu_eI63fB1EA4sFz09j/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
