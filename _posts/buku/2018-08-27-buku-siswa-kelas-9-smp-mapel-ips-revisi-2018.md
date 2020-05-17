@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 9 Mapel IPS Kurikulum 2013 Revisi 2018"
 date: "2018-08-27 01:49:09"
 description: Buku paket K13 Buku Siswa Kelas 9 SMP/MTs Mapel IPS Revisi 2018 merupakan buku bagi Siswa kurikulum 2013 sebagai pedoman Siswa dalam pembelajaran IPS.
-tags: [buku,pendidikan,smp,siswa,revisi2018,kelasIX]
+tags: [buku,pendidikan,smp,siswa,revisi-2018,kelas-9,download]
 published: true
 ---
 * TOC
