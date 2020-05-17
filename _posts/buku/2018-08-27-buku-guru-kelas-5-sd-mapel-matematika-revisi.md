@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 5 Mapel Matematika Revisi"
 date: "2018-08-27 01:49:09"
 description: Buku K13 Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi sebagai referensi dalam pelaksanaan pembelajaran Matematika 5 SD/Mi kelas VI.
-tags: [buku,pendidikan,sd,guru,kelas-5,download]
+tags: [buku,pendidikan,sd,guru,kelas-5,tematik,download]
 published: true
 ---
 * TOC
