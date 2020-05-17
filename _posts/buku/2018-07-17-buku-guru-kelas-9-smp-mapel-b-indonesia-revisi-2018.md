@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 9 Mapel B. Indonesia Revisi 2018"
 date: "2018-07-17 04:49:09"
 description: Buku paket K13 Buku Guru Kelas 9 SMP Mapel B. Indonesia Revisi 2018 merupakan buku bagi guru kurikulum 2013 sebagai penunjang pembelajaran Bahasa Indonesia.
-tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
+tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel,download]
 published: true
 ---
 * TOC
