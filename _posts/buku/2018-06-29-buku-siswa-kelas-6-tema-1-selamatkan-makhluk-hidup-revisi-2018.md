@@ -2,7 +2,7 @@
 title: "Buku Siswa Kelas 6 Tema 1 Selamatkan Makhluk Hidup Revisi 2018"
 date: "2018-06-29 04:49:09"
 description: Unduh Buku Siswa kelas 6 Tema 1 Selamatkan Makhluk Hidup Revisi 2018 terdiri dari subTema Tumbuhan Sahabatku, Hewan Sahabatku, dan Ayo, Selamatkan Hewan dan Tumbuhan
-tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik,download]
 published: true
 ---
 * TOC
