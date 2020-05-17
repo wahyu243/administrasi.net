@@ -5,7 +5,7 @@ comments: true
 date: "2018-09-01 04:49:09"
 description: Unduh Buku Guru kelas 6 Tema 5 Wirausaha Kurikulum 2013 Revisi 2018, buku panduan guru menjadi faktor penunjang dalam pembelajaran.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik,download]
 published: true
 ---
 * TOC
