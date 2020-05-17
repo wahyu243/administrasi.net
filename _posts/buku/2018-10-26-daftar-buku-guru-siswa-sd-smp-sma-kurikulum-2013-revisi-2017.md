@@ -2,7 +2,7 @@
 title: Buku Kurikulum 2013 SD, SMP, SMA Revisi 2017
 date: "2018-09-15 20:49:09"
 description: Daftar Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2017, Unduh Buku Kurikulum 2013 Revisi 2017.
-tags: [buku,revisi-2017]
+tags: [buku,revisi-2017,download]
 ---
 
 [Administrasi.Net](/ "Administrasi.Net") - **Buku Kurikulum 2013 SD, SMP, SMA Revisi 2017** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan: SD, SMP, SMA dan SMK yang merupakan program dari Departemen Pendidikan Nasional Indonesia sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
