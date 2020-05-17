@@ -13,6 +13,7 @@ tags:
   - kelas-6
   - revisi-2018
   - tematik
+  - download
 ---
 
 * TOC
