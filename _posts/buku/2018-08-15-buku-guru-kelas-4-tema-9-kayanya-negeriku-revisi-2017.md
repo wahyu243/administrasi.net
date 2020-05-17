@@ -2,7 +2,7 @@
 title: "Buku Guru Kelas 4 Tema 9 Kayanya Negeriku Revisi 2017"
 date: "2018-08-15 20:49:09"
 description: Buku Guru Kelas 4 SD Tema 9 Kayanya Negeriku Revisi 2017 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari beberapa tema.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-4,revisi-2017,tematik]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-4,revisi-2017,tematik,download]
 published: true
 ---
 * TOC
