@@ -1,8 +1,6 @@
-<div class="card border-0 shadow mb-4 no-print">
-<div class="card-body pb-0"><h4 class="text">Lihat {{page.category}} lainnya</h4></div>  
-<ol class="arti">
 
-  {% assign maxRelated = 6 %}
+
+  {% assign maxRelated = 10 %}
 
   {% assign minCommonTags =  1 %}
 
@@ -27,8 +25,13 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
+<div class="card border-0 shadow mb-4 no-print">
+<div class="card-body pb-0"><h4 class="text">Lihat {{page.category}} lainnya</h4></div>  
+<ol class="arti">
 <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" rel="nofollow">{{ post.title }}</a></li>
+  </ol>
 
+</div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
@@ -36,9 +39,7 @@
     {% endif %}
   {% endfor %}
   
-  </ol>
 
-</div>
 
 <div class="card border-0 shadow mb-4 no-print">
 <div class="card-body"><div id='disqusshow' onclick='load_Comments()'>Lihat komentar tentang {{page.title | truncate: 40}}</div>
