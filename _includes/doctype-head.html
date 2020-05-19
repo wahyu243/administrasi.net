@@ -59,7 +59,7 @@
    "@context": "https://schema.org", 
  "@type": "Article",
  "headline": "{{ page.title }}",
- "alternativeHeadline": "{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}",
+ "alternativeHeadline": "{{ page.title }} - {{ site.name }} ",
  "image": "{%if page.image %}{{ site.url }}/img/{{ page.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
  "author": "{{page.author}}", 
  "editor": "yOu", 
