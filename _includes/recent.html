@@ -21,7 +21,7 @@
         {% if page.categories contains category %}
           {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
           {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
-          {% assign commonCategories = commonCategories | append: tagmarkup %}
+          {% assign commonCategories = commonCategories | append: categorymarkup %}
         {% endif %}
       {% endif %}
     {% endfor %}
