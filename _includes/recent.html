@@ -4,7 +4,7 @@
 
   {% assign maxRelated = 10 %}
 
-  {% assign minCommonTags =  1 %}
+  {% assign minCommonCategories =  1 %}
 
   {% assign maxRelatedCounter = 0 %}
 
@@ -12,21 +12,21 @@
   {% for post in site.posts %}
 
    
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
+    {% assign sameCategoryCount = 0 %}
+    {% assign commonCategories = '' %}
 
      
      {% for category in post.categories %}
       {% if post.url != page.url %}
         {% if page.categories contains category %}
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
+          {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+          {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+          {% assign commonCategories = commonCategories | append: tagmarkup %}
         {% endif %}
       {% endif %}
     {% endfor %}
 
-    {% if sameTagCount >= minCommonTags %}
+    {% if sameCategoryCount >= minCommonCategories %}
 <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" rel="nofollow">{{ post.title }}</a></li>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
