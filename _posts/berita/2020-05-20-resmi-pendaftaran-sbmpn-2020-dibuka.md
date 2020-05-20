@@ -12,7 +12,10 @@ tags:
   - kuliah
   - mahasiswa
 ---
-SBMPN adalah jalur seleksi Bersama masuk politeknik negeri. Jalur ini merupakan jalur seleksi yang diperuntukkan bagi calon peserta/siswa sekolah yang akan melanjutkan pendidikan di Perguruan Tinggi bidang vokasi, khususnya Politeknik dan Politani Negeri di seluruh wilayah Indonesia.
+* TOC
+{:toc}
+
+Administrasi.Net]{/ "Administrasi.Net"} - SBMPN adalah jalur seleksi Bersama masuk politeknik negeri. Jalur ini merupakan jalur seleksi yang diperuntukkan bagi calon peserta/siswa sekolah yang akan melanjutkan pendidikan di Perguruan Tinggi bidang vokasi, khususnya Politeknik dan Politani Negeri di seluruh wilayah Indonesia.
 
 Pola seleksi ini tertuang dalam suatu sistem yang terpadu dan diselenggarakan secara serentak melalui seleksi prestasi akademik siswa selama mengikuti pendidikan di Sekolah Menengah Atas, Sekolah Menengah Kejuruan, Madrasah Aliyah dan Kejar Paket C (lulusan tahun 2018, 2019 dan 2020).
 
