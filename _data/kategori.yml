@@ -9,9 +9,9 @@
   url: /berita
 
 - icon: icon-flask
-  title: Buku Sekolah Digital
+  title: Buku Sekolah
   description: Download atau baca buku sekolah digital, buku guru, buku siswa dan komik pendidikan. 
-  url: /bsd
+  url: /bse
 
 - icon: icon-globe
   title: Tutorial
