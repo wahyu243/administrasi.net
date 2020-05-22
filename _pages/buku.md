@@ -1,6 +1,6 @@
 ---
-title: Kumpulan Buku Sekolah Digital (BSD)
-description: Halaman ini berisi kumpulan Buku sekolah SD, SMP, SMA, dll terdiri dari buku guru, buku siswa, komik pendiikan yang sangat berguna bagi para pembaca.
+title: Kumpulan Buku Sekolah Elektronik (BSE)
+description: Halaman ini berisi kumpulanBuku Sekolah Elektronik (BSE) SD, SMP, SMA, dll terdiri dari buku guru, buku siswa, komik pendidikan yang sangat berguna bagi para pembaca.
 permalink: /bse
 ---
 
