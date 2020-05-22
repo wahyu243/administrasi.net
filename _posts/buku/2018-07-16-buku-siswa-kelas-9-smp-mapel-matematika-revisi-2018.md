@@ -50,8 +50,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-siswa-kelas-9-smp-mapel-matematika-revisi-2018" title="Buku siswa Kelas 9 SMP Mapel Matematika Revisi 2018"><strong>Matematika</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bse/buku-siswa-kelas-9-smp-mapel-matematika-revisi-2018" title="Buku siswa Kelas 9 SMP Mapel Matematika Revisi 2018"><strong>Matematika</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|

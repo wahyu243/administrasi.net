@@ -49,8 +49,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-siswa-kelas-3-kurtilas-tema-2-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 2 Menyayangi Tumbuhan dan Hewan K13 Revisi 2018"><strong>Tema 2 : Menyayangi Tumbuhan dan Hewan</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-siswa-kelas-3-kurtilas-tema-2-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 2 Menyayangi Tumbuhan dan Hewan K13 Revisi 2018"><strong>Tema 2 : Menyayangi Tumbuhan dan Hewan</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|III (Tiga)|

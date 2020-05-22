@@ -50,8 +50,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-3-mapel-pai-kurikulum-2013-revisi-2018" title="Buku Guru Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-3-mapel-pai-kurikulum-2013-revisi-2018" title="Buku Guru Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 |Kelas|III (Tiga)|

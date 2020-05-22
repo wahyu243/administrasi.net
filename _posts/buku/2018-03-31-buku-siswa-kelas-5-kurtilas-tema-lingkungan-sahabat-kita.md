@@ -67,8 +67,8 @@ Struktur penulisan buku siswa kelas 5 ini memfasilitasi pengalaman belajar berma
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|V (lima)|

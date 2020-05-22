@@ -70,8 +70,8 @@ Selain itu, **buku kurikulum 2013** ini dapat dijadikan sebagai acuan dalam memp
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-6-tema-8-menjelajah-luar-angkasa.html" title="Buku Guru Kelas 6 SD Tema 9 Menjelajah Angkasa Luar "><strong>Tema 9 : Menjelajah Angkasa Luar </strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-6-tema-8-menjelajah-luar-angkasa.html" title="Buku Guru Kelas 6 SD Tema 9 Menjelajah Angkasa Luar "><strong>Tema 9 : Menjelajah Angkasa Luar </strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|

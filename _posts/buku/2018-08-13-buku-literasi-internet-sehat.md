@@ -46,8 +46,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Judul|<a href="/wiki/internet-sehat.html" title="Internet Sehat Pedoman Berinternet Sehat, Aman, Nyaman dan Bertanggungjawab"><strong>Internet Sehat (Pedoman Berinternet Sehat, Aman, Nyaman dan Bertanggungjawab)</strong></a>|
-|Jenis|<a href="/buku" title="Buku" target="_blank">Literasi</a>|
+|Judul|<a href="/bse/internet-sehat.html" title="Internet Sehat Pedoman Berinternet Sehat, Aman, Nyaman dan Bertanggungjawab"><strong>Internet Sehat (Pedoman Berinternet Sehat, Aman, Nyaman dan Bertanggungjawab)</strong></a>|
+|Jenis|<a href="/bse" title="Buku" target="_blank">Literasi</a>|
 |Penanggung Jawab|Widuri|
 |Editor|Donny BU dan Merry Magdalena
 |Penulis|Acep Syaripudin, Deni Ahmad,Dewi Widya Ningrum, Hari Styawan,Ige Ashar, Indriyatno Banyumurti,Lixiviandro Indra.|

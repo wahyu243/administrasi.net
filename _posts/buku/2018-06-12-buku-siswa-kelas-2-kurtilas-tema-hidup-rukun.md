@@ -60,8 +60,8 @@ Buku ini dapat membantu guru dan siswa dalam pelasanaan kegiatan pembelajaran.
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-siswa-kelas-2-kurtilas-tema-hidup-rukun" title="Buku Siswa Kelas 2 semester 1 Tema 1 Hidup Rukun K13 Revisi 2017"><strong>Hidup Rukun</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-siswa-kelas-2-kurtilas-tema-hidup-rukun" title="Buku Siswa Kelas 2 semester 1 Tema 1 Hidup Rukun K13 Revisi 2017"><strong>Hidup Rukun</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|II (dua)|

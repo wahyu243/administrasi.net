@@ -51,8 +51,8 @@ Buku ini disusun agar siswa dalam melaksanakan kegiatan pembelajaran dapat memba
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-siswa-kelas-6-tema-4-wirausaha-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 5 Wirausaha Revisi 2018"><strong>Tema 5 : wirausaha </strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-siswa-kelas-6-tema-4-wirausaha-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 5 Wirausaha Revisi 2018"><strong>Tema 5 : wirausaha </strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|

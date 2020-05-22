@@ -60,8 +60,8 @@ tags:
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-2-kurtilas-tema-hidup-rukun" title="Buku Guru Kelas 2 semester 1 Tema 1 Hidup Rukun K13 Revisi 2017"><strong>Hidup Rukun</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-2-kurtilas-tema-hidup-rukun" title="Buku Guru Kelas 2 semester 1 Tema 1 Hidup Rukun K13 Revisi 2017"><strong>Hidup Rukun</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|II (dua)|

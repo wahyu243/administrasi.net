@@ -22,8 +22,8 @@ Bagi anda guru yang mengajar di **kelas 3 C (Tunagrahita)** tentunya buku ini ak
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-3-tema-3-tunagrahita-k13" title="Buku Guru Kelas 3 Tema 3 SDLB Tunagrahita"><strong>Buku Guru Kelas 3 Tema 3 SDLB Tunagrahita</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-3-tema-3-tunagrahita-k13" title="Buku Guru Kelas 3 Tema 3 SDLB Tunagrahita"><strong>Buku Guru Kelas 3 Tema 3 SDLB Tunagrahita</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 |Kelas|III (Tiga)|

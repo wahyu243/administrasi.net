@@ -15,7 +15,7 @@ Diharapkan dengan tersedianya Buku Digital ini serta menyimpannya di smartphone,
 
 Setiap tahun, pemerintah menerbitkan kembali **Buku Kurikulum 2013 Revisi 2017**  satuan pendidikan **SD**, **SMP**, **SMA** dan **SMK**, yang telah disesuaikan mengikuti perkembangan ilmu pengetahuan.
 
-Berikut ini adalah daftar [Buku Guru dan Buku Siswa Revisi 2017](/bsd/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2017 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2017")
+Berikut ini adalah daftar [Buku Guru dan Buku Siswa Revisi 2017](/bse/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2017 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2017")
 
 <ol class="arti">{% for post in site.categories.revisi-2017 %}
 <li class="{% if page.title == post.title %}current{% endif %}">

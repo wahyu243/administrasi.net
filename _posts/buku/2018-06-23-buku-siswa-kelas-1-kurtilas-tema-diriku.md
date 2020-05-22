@@ -50,8 +50,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-siswa-kelas-1-kurtilas-tema-diriku" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-siswa-kelas-1-kurtilas-tema-diriku" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|I (satu)|

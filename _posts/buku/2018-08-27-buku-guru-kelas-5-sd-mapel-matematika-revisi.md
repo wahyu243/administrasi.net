@@ -47,8 +47,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-5-sd-mapel-matematika-revisi" title="Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-5-sd-mapel-matematika-revisi" title="Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|V (lima)|

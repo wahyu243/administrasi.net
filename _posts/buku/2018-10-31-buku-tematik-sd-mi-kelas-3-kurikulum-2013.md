@@ -27,7 +27,7 @@ Kurikulum 2013 disusun sedemikian rupa untuk mengembangkan kemampuan peserta did
 Diharapkan dengan tersedianya *Buku Sekolah Digital* ini, serta menyimpannya di smartphone, tablet atau laptop, maka seluruh siswa **kelas 3** dapat belajar dimana saja dan kapan saja.
 
 ## Download Buku Kelas 3 SD Revisi 2018
-Berikut ini adalah daftar [Buku Tematik Terpadu Kelas 3 Kurikulum 2013 Revisi 2018](/bsd/buku-tematik-sd-mi-kelas-3-kurikulum-2013.html "Buku Tematik Kelas 3 SD Terpadu Kurikulum 2013 Revisi 2018")
+Berikut ini adalah daftar [Buku Tematik Terpadu Kelas 3 Kurikulum 2013 Revisi 2018](/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013.html "Buku Tematik Kelas 3 SD Terpadu Kurikulum 2013 Revisi 2018")
 
 <ol class="arti">{% for post in site.tags.kelas-3 %}
 <li class="{% if page.title == post.title %}current{% endif %}">

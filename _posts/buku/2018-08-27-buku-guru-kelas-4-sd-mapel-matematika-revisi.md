@@ -47,8 +47,8 @@ Buku yang bisa anda unduh kali ini adalah **buku guru** bagi satuan pendidikan S
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-4-sd-mapel-matematika-revisi" title="Buku Guru Kelas 4 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-4-sd-mapel-matematika-revisi" title="Buku Guru Kelas 4 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|IV (Empat)|

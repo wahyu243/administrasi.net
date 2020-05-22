@@ -48,8 +48,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-seni-budaya-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel Seni Budaya Revisi 2018"><strong>Seni Budaya</strong></a>|
-|Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-9-smp-mapel-seni-budaya-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel Seni Budaya Revisi 2018"><strong>Seni Budaya</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|

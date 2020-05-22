@@ -48,8 +48,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-3-kurtilas-tema-1-revisi-2018" title="Buku Guru Kelas 3 semester 1 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup K13 Revisi 2018"><strong>Pertumbuhan dan Perkembangan Makhluk Hidup</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-3-kurtilas-tema-1-revisi-2018" title="Buku Guru Kelas 3 semester 1 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup K13 Revisi 2018"><strong>Pertumbuhan dan Perkembangan Makhluk Hidup</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|III (Tiga)|

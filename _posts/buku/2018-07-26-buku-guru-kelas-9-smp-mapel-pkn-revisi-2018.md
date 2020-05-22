@@ -47,8 +47,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-9-smp-mapel-pkn-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel PKn Revisi 2018"><strong><abbr title="Pendidikan Pancasila dan Kewarganegaraan">PKn</abbr></strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-9-smp-mapel-pkn-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel PKn Revisi 2018"><strong><abbr title="Pendidikan Pancasila dan Kewarganegaraan">PKn</abbr></strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|

@@ -61,8 +61,8 @@ Selain itu, buku kurikulum 2013 ini dapat dijadikan sebagai acuan dalam mempersi
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-6-tema-4-wirausaha-revisi-2018" title="Buku Guru Kelas 6 SD Tema 5 Wirausaha Revisi 2018"><strong>Tema 5 : wirausaha </strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-6-tema-4-wirausaha-revisi-2018" title="Buku Guru Kelas 6 SD Tema 5 Wirausaha Revisi 2018"><strong>Tema 5 : wirausaha </strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|

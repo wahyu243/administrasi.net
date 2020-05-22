@@ -21,7 +21,7 @@ Keberadaan Buku siswa sangatlah penting dalam mengimplementasikan **Kurikulum 20
 **Buku siswa Kurikulum 2013 Kelas 8 (VIII) <acronym title="Sekolah Menengah Pertama">SMP</acronym>** untuk memudahkan para siswa dalam melaksanakan pembelajaran. Buku Kurikulum 2013 SD ini mencakup ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
 
 ### Download Buku siswa Kelas VIII <acronym title="Sekolah Menengah Pertama">SMP</acronym> Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku siswa kelas 8 SMP revisi 2017](/bsd/buku-siswa-kelas-8-smp-kurikulum-2013-revisi-2017.html "Buku siswa kelas 8 SMP Kurikulum 2013 edisi revisi 2017") yang terdiri dari beberapa mata pelajaran:
+Berikut ini kumpulan [buku siswa kelas 8 SMP revisi 2017](/bse/buku-siswa-kelas-8-smp-kurikulum-2013-revisi-2017.html "Buku siswa kelas 8 SMP Kurikulum 2013 edisi revisi 2017") yang terdiri dari beberapa mata pelajaran:
 
 <div class="products_box" id="products_box_1">
 <ul id="books">

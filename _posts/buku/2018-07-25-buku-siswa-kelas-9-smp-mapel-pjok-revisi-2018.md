@@ -50,8 +50,8 @@ Buku Guru Kelas IX mapel PJOK ini adalah buku kurikulum 2013 revisi terbaru. Buk
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-pjok-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr></strong></a>|
-|Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-9-smp-mapel-pjok-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr></strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|

@@ -52,8 +52,8 @@ Buku ini disusun agar guru dalam melaksanakan kegiatan pembelajaran dapat memban
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-12-mapel-pai-kurtilas-revisi-2018" title="Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018"><strong>Pendidikan Agama Islam (PAI)</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-guru-kelas-12-mapel-pai-kurtilas-revisi-2018" title="Buku Siswa Kelas 12 SMA Mapel PAI Revisi 2018"><strong>Pendidikan Agama Islam (PAI)</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMA (Sekolah Menengah Atas)|
 |Kelas|XII (12)|

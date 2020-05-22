@@ -27,7 +27,7 @@ Buku ini disusun supaya guru dan siswa bisa mendapatkan gambaran yang terperinci
 
 Buku kurikulum 2013 berbeda dengan buku kurikulum 2006. Di dalam buku kurikulum 2013 lebih mengutamakan keaktivan siswa agar lebih kreatif, berfikir kritis, serta melalui pendekatan saintifik, dimana siswa diajak untuk mengamati, bertanya, mencoba, mempraktekkan, mempresentasikan, sebagai upaya untuk mencapai kompetensi yang telah ditentukan.
 
-Berikut ini adalah daftar "[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/bsd/buku-kelas-9-kurikulum-2013-revisi-2018 "Buku Kelas 9 Kurikulum 2013 Revisi 2018")" yang terdapat di Blog ini.
+Berikut ini adalah daftar "[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/bse/buku-kelas-9-kurikulum-2013-revisi-2018 "Buku Kelas 9 Kurikulum 2013 Revisi 2018")" yang terdapat di Blog ini.
 
 <ol class="arti">
   {% for post in site.tags.kelas-9 %}

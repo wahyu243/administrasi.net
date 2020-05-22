@@ -52,8 +52,8 @@ Buku Guru Kelas 1 Tema Diriku Kurikulum 2013 sangat lah penting baik itu sebagai
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-1-kurtilas-tema-diriku" title="Buku Guru Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-1-kurtilas-tema-diriku" title="Buku Guru Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|II (dua)|

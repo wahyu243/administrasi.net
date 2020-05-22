@@ -17,7 +17,7 @@ Dengan **mengunduh BSE** ini dan menyimpannya di smartphone, tablet atau laptop,
 Pada Tahun 2018 ini, pemerintah menerbitkan kembali **Buku Kurikulum 2013** Revisi 2018 satuan pendidikan **SD**, **SMP**, **SMA** dan **SMK**, akan tetapi masih beberapa kelas dan pelajaran serta beberapa tema ataupun mata pelajaran saja yang tersedia.
 
 ## Download Buku Kurikulum 2013 Revisi 2018
-Berikut ini adalah daftar [Buku Kurikulum 2013 Revisi 2018](/bsd/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2018 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018") terdiri dari buku guru dan buku siswa yang bisa anda unduh di bawah ini:
+Berikut ini adalah daftar [Buku Kurikulum 2013 Revisi 2018](/bse/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2018 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018") terdiri dari buku guru dan buku siswa yang bisa anda unduh di bawah ini:
 
 <ol class="arti">{% for post in site.tags.revisi-2018 %}
 <li class="{% if page.title == post.title %}current{% endif %}">

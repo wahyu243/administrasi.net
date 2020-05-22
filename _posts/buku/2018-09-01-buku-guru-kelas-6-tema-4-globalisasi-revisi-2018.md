@@ -52,8 +52,8 @@ Buku ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam melaksan
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-6-tema-4-globalisasi-revisi-2018" title="Buku Guru Kelas 6 SD Tema 4 Globalisasi Revisi 2018"><strong>Tema 4 : Globalisasi </strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-6-tema-4-globalisasi-revisi-2018" title="Buku Guru Kelas 6 SD Tema 4 Globalisasi Revisi 2018"><strong>Tema 4 : Globalisasi </strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|

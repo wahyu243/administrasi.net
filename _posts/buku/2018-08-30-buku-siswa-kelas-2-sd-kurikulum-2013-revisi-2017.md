@@ -19,7 +19,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 **Buku Siswa Kurikulum 2013 kelas 2 <acronym title="Sekolah Dasar">SD</acronym> Revisi 2017** tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
 
 ### Download Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku siswa kelas 2 sd revisi 2017](/bsd/buku-siswa-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Siswa kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
+Berikut ini kumpulan [buku siswa kelas 2 sd revisi 2017](/bse/buku-siswa-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Siswa kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
 
 {% include ads-artikel.html %}
 

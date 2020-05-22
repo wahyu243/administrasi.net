@@ -28,7 +28,7 @@ Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menye
 {% include ads-artikel.html %}
 
 ## Download Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018
-Berikut ini adalah daftar *[Buku kelas XII Kurikulum 2013 Revisi 2018](/bsd/buku-kelas-12-kurikulum-2013-revisi-2018 "buku kelas XII Kurikulum 2013 Revisi 2018")* yang bisa anda unduh:
+Berikut ini adalah daftar *[Buku kelas XII Kurikulum 2013 Revisi 2018](/bse/buku-kelas-12-kurikulum-2013-revisi-2018 "buku kelas XII Kurikulum 2013 Revisi 2018")* yang bisa anda unduh:
 
 ### Buku Guru Kelas 12 Kurikulum 2013 Revisi 2018
 Buku guru kelas 12 yang dapat diunduh terdiri dari beberapa mata pelajaran yang tercantum di bawah ini

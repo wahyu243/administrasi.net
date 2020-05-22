@@ -51,8 +51,8 @@ Buku Kelas 9 Kurikulum 2013 ini dibagikan sebagai buku sekolah digital dengan fo
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bsd/buku-guru-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Mata Pelajaran|<a href="/bse/buku-guru-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
 Kelas|IX (Sembilan)|

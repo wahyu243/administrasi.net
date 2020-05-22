@@ -21,7 +21,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 **Buku Guru Kurikulum 2013 Kelas 8 (VIII) <acronym title="Sekolah Menengah Pertama">SMP</acronym>** untuk memudahkan para guru dalam melaksanakan pembelajaran. Buku Kurikulum 2013 SMP ini mencakup ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
 
 ### Download Buku Guru Kelas VIII <acronym title="Sekolah Menengah Pertama">SMP</acronym> Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku guru kelas 8 SMP revisi 2017](/bsd/buku-guru-kelas-8-smp-kurikulum-2013-revisi-2017 "Buku Guru kelas 8 SMP Kurikulum 2013 edisi revisi 2017") yang terdiri dari beberapa mata pelajaran:
+Berikut ini kumpulan [buku guru kelas 8 SMP revisi 2017](/bse/buku-guru-kelas-8-smp-kurikulum-2013-revisi-2017 "Buku Guru kelas 8 SMP Kurikulum 2013 edisi revisi 2017") yang terdiri dari beberapa mata pelajaran:
 
 <div class="products_box" id="products_box_1">
 <ul id="books">

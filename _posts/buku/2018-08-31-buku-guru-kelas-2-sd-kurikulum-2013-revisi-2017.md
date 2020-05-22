@@ -31,7 +31,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 **Buku Guru Tematik kelas 2 (II) Kurikulum 2013** <acronym title="Sekolah Dasar">SD</acronym> untuk memudahkan para guru dalam melaksanakan pembelajaran tematik terpadu. **Buku Tematik** Kurikulum 2013 SD ini mencakup jaringan tema, ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
 
 ## Download Buku Guru Kelas 2 <acronym title="Sekolah Dasar">SD</acronym> Kurikulum 2013 Revisi 2017
-Berikut ini kumpulan [buku guru Kelas II sd revisi 2017](/bsd/buku-guru-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Guru kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
+Berikut ini kumpulan [buku guru Kelas II sd revisi 2017](/bse/buku-guru-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Guru kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
 
 <div class="products_box" id="products_box_1">
   <ul id="books">

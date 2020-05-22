@@ -66,8 +66,8 @@ Struktur penulisan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku ini memfasili
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-2-kurtilas-tema-bermain-dilingkungaku" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-2-kurtilas-tema-bermain-dilingkungaku" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|II (dua)|

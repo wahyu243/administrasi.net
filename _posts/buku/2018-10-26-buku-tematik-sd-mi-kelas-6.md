@@ -30,7 +30,7 @@ Diharapkan dengan tersedianya *Buku Sekolah Digital* ini, serta menyimpannya di 
 Buku yang dibagikan di blog ini terdiri dari *buku guru* dan *buku siswa*.
 
 ## Download Buku Paket Kelas 6 SD Revisi 2018
-Berikut ini adalah daftar [Buku Paket Tematik Terpadu Kelas 6 Kurikulum 2013 Revisi 2018](/bsd/buku-tematik-sd-mi-kelas-6 "Buku Tematik Kelas 6 SD Terpadu Kurikulum 2013 Revisi 2018")
+Berikut ini adalah daftar [Buku Paket Tematik Terpadu Kelas 6 Kurikulum 2013 Revisi 2018](/bse/buku-tematik-sd-mi-kelas-6 "Buku Tematik Kelas 6 SD Terpadu Kurikulum 2013 Revisi 2018")
 
 <ol class="arti">{% for post in site.tags.kelas-6 %}
 <li class="{% if page.title == post.title %}current{% endif %}">

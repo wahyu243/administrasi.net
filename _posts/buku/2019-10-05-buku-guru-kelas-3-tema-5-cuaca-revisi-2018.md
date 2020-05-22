@@ -55,8 +55,8 @@ Buku Paket Tematik bagi guru Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> semes
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-guru-kelas-3-kurtilas-tema-5-revisi-2018" title="Buku Guru Kelas 3 semester 1 Tema 5 Cuaca K13 Revisi 2018"><strong>Tema 5 : Cuaca</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Guru" target="_blank">Buku Guru</a>|
+|Tema|<a href="/bse/buku-guru-kelas-3-kurtilas-tema-5-revisi-2018" title="Buku Guru Kelas 3 semester 1 Tema 5 Cuaca K13 Revisi 2018"><strong>Tema 5 : Cuaca</strong></a>|
+|Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|III (Tiga)|

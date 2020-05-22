@@ -48,8 +48,8 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/bsd/buku-siswa-kelas-6-tema-1-selamatkan-makhluk-hidup-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 1 Selamatkan Makhluk Hidup Revisi 2018"><strong>Tema 1 : Selamatkan Makhluk Hidup</strong></a>|
-|Jenis|<a href="/bsd" title="Buku Siswa" target="_blank">Buku Siswa</a>|
+|Tema|<a href="/bse/buku-siswa-kelas-6-tema-1-selamatkan-makhluk-hidup-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 1 Selamatkan Makhluk Hidup Revisi 2018"><strong>Tema 1 : Selamatkan Makhluk Hidup</strong></a>|
+|Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
 Kelas|VI (Enam)|
