@@ -55,7 +55,7 @@ defaults:
   values:
     layout: post
     category: buku
-    permalink: "/bsd/:title"
+    permalink: "/bse/:title"
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -63,8 +63,8 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "Buku"
-        url: /bsd
+      - label: "Buku Sekolah Elektronik"
+        url: /bse
 - scope:
     path: _posts/artikel
     type: posts
