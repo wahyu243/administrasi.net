@@ -2,7 +2,7 @@
 layout: post
 title: Panduan Guru dan Instrumen Profil Belajar Siswa (PBS) ABK
 description: Download Panduan Guru dan Instrumen Profil Belajar Siswa (PBS)
-  untuk membantu identifikasi anak berkebutuhan khusu
+  untuk membantu identifikasi anak berkebutuhan khusus
 image: /img/panduan-guru-dan-instrumen-profil-belajar-siswa-pbs-abk.png
 date: 2020-05-23T03:28:05.852Z
 author: wahyu
