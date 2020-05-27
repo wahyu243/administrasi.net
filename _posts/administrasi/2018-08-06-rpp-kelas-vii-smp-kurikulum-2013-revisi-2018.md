@@ -1,8 +1,15 @@
 ---
-title: "RPP Kelas VII SMP Kurikulum 2013 Revisi 2018"
-description: RPP K13 Kelas VII SMP Kurikulum 2013 Revisi 2018, Berikut ini adalah contoh RPP K13 Kelas 7.
-date: "2018-08-06 20:48:09 -0500"
-tags: [administrasi,rpp,pendidikan,kelas-7,smp]
+title: RPP Kelas 7 SMP Kurikulum 2013 Revisi 2018
+description: RPP K13 Kelas VII SMP Kurikulum 2013 Revisi 2018, Berikut ini
+  adalah contoh RPP K13 Kelas 7.
+date: 2018-08-06 20:48:09 -0500
+last_modified_date: 2020-05-27T06:35:57.466Z
+tags:
+  - administrasi
+  - rpp
+  - pendidikan
+  - kelas-7
+  - smp
 ---
 * TOC
 {:toc}
