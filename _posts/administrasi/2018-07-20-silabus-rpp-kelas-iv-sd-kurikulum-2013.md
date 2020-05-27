@@ -1,8 +1,15 @@
 ---
-title: "Silabus RPP Kelas IV SD Kurikulum 2013 Revisi 2017"
-description: RPP K13 Kelas IV SD Tema 1 s/d 9 Kurikulum 2013 Revisi 2017, Dilengkapi Administrasi lainnya seperti Silabus, KKM, KIKD, dan lainnya.
-date: "2018-07-20 20:48:09 -0500"
-tags: [administrasi,rpp,pendidikan,kelas-4,sd]
+title: Silabus RPP Kelas 4 SD Kurikulum 2013 Revisi 2017
+description: RPP K13 Kelas IV SD Tema 1 s/d 9 Kurikulum 2013 Revisi 2017,
+  Dilengkapi Administrasi lainnya seperti Silabus, KKM, KIKD, dan lainnya.
+date: 2018-07-20 20:48:09 -0500
+last_modified_date: 2020-05-27T06:36:31.493Z
+tags:
+  - administrasi
+  - rpp
+  - pendidikan
+  - kelas-4
+  - sd
 ---
 * TOC
 {:toc}
