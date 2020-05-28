@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pembukaan Sekolah Akan Ditetapkan Berdasarkan Pertimbangan Gugus Tugas
+title: Pembukaan Sekolah Ditetapkan Berdasarkan Pertimbangan Gugus Tugas
 description: "Mendikbud: Pembukaan Sekolah Akan Ditetapkan Berdasarkan
   Pertimbangan Gugus Tugas Percepatan Penanganan Coronavirus Disease 2019
   (COVID-19)"
