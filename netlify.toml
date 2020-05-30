@@ -4,3 +4,6 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+  
+[[plugins]]
+  package = netlify-plugin-algolia-index
