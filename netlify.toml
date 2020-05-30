@@ -7,3 +7,5 @@
   
 [[plugins]]
   package = "netlify-plugin-algolia-index"
+  [plugins.inputs]
+      exclude = ['/admin', '/404.html']
