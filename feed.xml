@@ -14,6 +14,9 @@ layout: null
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
+        <author>{{ post.author }}</author>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" height="278" width="509" />
+
         <description>{% if post.description %}{{ post.description | xml_escape}}{% else %}{{ post.excerpt | xml_escape }}{% endif %}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
