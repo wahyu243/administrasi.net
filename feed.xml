@@ -19,7 +19,7 @@ layout: null
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         
-        <categorydomain="{{site.url}}/{{ post.category }}">{{ post.category }}</category>
+        <categorydomain="{{site.url}}/{{ post.category }}">{{ post.category | capitalize}}</category>
       </item>
     {% endfor %}
   </channel>
