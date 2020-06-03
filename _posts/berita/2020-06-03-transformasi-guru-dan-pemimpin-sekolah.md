@@ -4,7 +4,7 @@ title: Transformasi Guru dan Pemimpin Sekolah
 description: Guru adalah sebuah profesi yang mulia dan terhormat. Status sosial
   ekonomi guru semestinya sama dengan profesional lain karena peran guru sangat
   penting dalam pembangunan bangsa.
-image: /img/teacher.png
+image: /img/teacher-1-.png
 last_modified_date: 2020-06-03T03:56:55.942Z
 author: wahyu
 sumber: https://gtk.kemdikbud.go.id/read-news/transformasi-guru-dan-pemimpin-sekolah
