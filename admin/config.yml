@@ -33,6 +33,174 @@ collections:
         widget: "string"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "administrasi"
+    label: "Administrasi"
+    folder: "_posts/administrasi"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "berita"
+    label: "Berita"
+    folder: "_posts/berita"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false        
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "buku"
+    label: "Buku"
+    folder: "_posts/buku"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "dongeng"
+    label: "Dongeng"
+    folder: "_posts/dongeng"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "infografis"
+    label: "Infografis"
+    folder: "_posts/infografis"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: true
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "tutorial"
+    label: "Tutorial"
+    folder: "_posts/tutorial"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "teori"
+    label: "Teori"
+    folder: "_posts/teori"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Sumber"
+        name: "sumber"
+        widget: "string"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "kontributor"
     label: "Kontributor"
     folder: "_pages/kontributor"
