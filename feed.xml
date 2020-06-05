@@ -22,11 +22,9 @@ layout: null
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
 
-         <content:encoded>
-<![CDATA[ 
+         <content>
 {{ post.content }}
-]]>
- </content:encoded>
+ </content>
  
         <category domain="{{site.url}}/{{ post.category }}">{{ post.category | capitalize}}</category>
       </item>
