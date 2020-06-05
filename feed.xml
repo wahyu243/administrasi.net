@@ -20,9 +20,8 @@ layout: null
         <description>{% if post.description %}{{ post.description | xml_escape}}{% else %}{{ post.excerpt | xml_escape }}{% endif %}</description>
         <content:encoded>
 
-        <![CDATA[
-{{ post.content }}
- ]]>
+        {{ post.content }}
+
 
           </content:encoded>
  
