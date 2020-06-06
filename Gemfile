@@ -30,7 +30,7 @@ end
 group :jekyll_optional_dependencies do
   gem "jekyll-coffeescript"
   gem "jekyll-docs", :path => "../docs" if Dir.exist?("../docs") && ENV["JEKYLL_VERSION"]
-  gem "jekyll-feed", "~> 0.9"
+  gem "jekyll-feed"
   gem "jekyll-gist"
   gem "jekyll-paginate"
   gem "jekyll-redirect-from"
