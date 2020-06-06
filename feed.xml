@@ -15,7 +15,8 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <author>{{ post.author }}</author>
-
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}" height="278" width="509">
+</media:thumbnail>
         <description>{{ post.content | strip_html | truncate: 320 }}</description>
        
  
