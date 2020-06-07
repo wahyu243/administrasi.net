@@ -26,7 +26,7 @@ layout: null
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         <category domain="{{site.url}}/{{ post.category }}">{{ post.category | capitalize}}</category>
         <content:encoded>
-{{ post.content }} 
+{{ post.content | strip_html}} 
 </content:encoded>
       </item>
     {% endfor %}
