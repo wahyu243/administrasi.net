@@ -18,7 +18,7 @@ layout: null
         <image>
          <url>{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}</url>
 <title>{{ post.title | xml_escape }}</title>
-
+<link>{{site.url}}</link>
         </image>
         <description>{% if post.description %}{{ post.description}}{% else %}{{ post.excerpt  | strip_html }}{% endif %}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
