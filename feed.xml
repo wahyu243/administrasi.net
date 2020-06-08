@@ -30,7 +30,7 @@ layout: null
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         <category domain="{{site.url}}/{{ post.category }}">{{ post.category | capitalize}}</category>
         <content:encoded>
-<![CDATA[ {{ post.content }} ]]>
+<![CDATA[ <img="{%if post.image %}{{ site.url }}/img/{{ post.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}"></img>{{ post.content }} ]]>
 </content:encoded>
       </item>
     {% endfor %}
