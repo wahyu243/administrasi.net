@@ -159,7 +159,8 @@ html, body {
   
 <div class="entry-content">
 	
-<div class="wp-block-image"><figure class="aligncenter size-large"><amp-img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="" class="wp-image-3316 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-layout" width="1000" height="500" layout="intrinsic" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-0" on="tap:amp-lightbox-gallery.activate"><i-amphtml-sizer class="i-amphtml-sizer"></amp-img></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large">
+	<amp-img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="" width="500" height="400" layout="responsive"></amp-img></figure></div>
 
   {{ content | markdownify | amp_images }}
 </div>
