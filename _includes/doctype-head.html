@@ -8,6 +8,9 @@
     <meta name="google-site-verification" content="{{ site.google_verification }}">
     <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+{% if page.path contains '_posts' %}
+  <link rel="amphtml" href="{{ page.id | prepend: '/YOURDIR' | prepend: site.baseurl | prepend: site.url | append: '.html' }}">
+{% endif %}
    
     <title>{%if page.title %}{{ page.title }} | {{ site.name }} {% else %}{{ site.title }}{% endif %}</title>
  
