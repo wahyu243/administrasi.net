@@ -126,11 +126,12 @@ html, body {
 
   {{ content | markdownify | amp_images }}
 </div>
+	{% include recent.html %}
+	{% include share.html %}
 
 	</article>
 	
-	{% include recent.html %}
-	{% include share.html %}
+	
 	</main>
 </body>
 </html>
