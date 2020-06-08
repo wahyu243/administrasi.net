@@ -67,13 +67,31 @@ h1,h2,h3,h4,h5{margin-top:1.5rem;margin-bottom:.75em;font-family:Poppins,sans-se
     </nav>
   </div>
 </header>
-<h1 class="post-title">
-{{ header | amp_images }}
-</h1>
-<span>
-{{ page.date }} - {{ page.author }}
-</span>
-{{ content | markdownify | amp_images }}
+    
+    <main id="primary" class="ap--main ap-t-custom-content site-main">
+		
+<article id="post-3310" class="entry ap--content post-3310 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+  
+  <header class="entry-header">
+	<div class="entry-meta">
+			<span class="posted-on">
+			<a href="{{ site.url }}{{ page.url }}" rel="bookmark"><time class="entry-date published updated" datetime="2020-05-01T09:41:55-07:00">{{ page.date | date_to_string }}</time></a>		</span>
+		</div><!-- .entry-meta -->
+
+	<h1 class="entry-title">{{ header | amp_images }}</h1>
+	<div class="entry-taxonomies">
+			<span class="category-links term-links">
+			<a class="ap-m-filter-bubble" href="/{{ page.category }}" rel="category tag">{{ page.category }}</a>		</span>
+		</div><!-- .entry-taxonomies -->
+</header>
+  
+<div class="entry-content">
+	
+<div class="wp-block-image"><figure class="aligncenter size-large"><amp-img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="" class="wp-image-3316 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-layout" width="1000" height="500" layout="intrinsic" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-0" on="tap:amp-lightbox-gallery.activate"><i-amphtml-sizer class="i-amphtml-sizer"></amp-img></figure></div>
+
+  {{ content | markdownify | amp_images }}
+</div>
+
 {% capture footer %}{% include footer.html %}{% endcapture %}
 {{ footer | amp_images: false, 24, 24 }}
 </body>
