@@ -126,7 +126,47 @@ html, body {
 
   {{ content | markdownify | amp_images }}
 </div>
-	{% include recent.html %}
+	<div class="card border-0 shadow mb-4 no-print">
+<div class="card-body pb-0"><h4 class="text">Lihat {{page.category}} lainnya</h4></div>  
+<ol class="arti">
+
+  {% assign maxRelated = 10 %}
+
+  {% assign minCommonCategories =  1 %}
+
+  {% assign maxRelatedCounter = 0 %}
+
+ 
+  {% for post in site.posts %}
+
+   
+    {% assign sameCategoryCount = 0 %}
+    {% assign commonCategories = '' %}
+
+     
+     {% for category in post.categories %}
+      {% if post.url != page.url %}
+        {% if page.categories contains category %}
+          {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+          {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+          {% assign commonCategories = commonCategories | append: categorymarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if sameCategoryCount >= minCommonCategories %}
+<li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  
+  </ol>
+
+</div>
 	{% include share.html %}
 
 	</article>
