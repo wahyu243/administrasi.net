@@ -160,7 +160,11 @@ html, body {
 <div class="entry-content">
 	
 <div class="wp-block-image"><figure class="aligncenter size-large">
-	<amp-img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="" width="500" height="400" layout="responsive"></amp-img></figure></div>
+	<amp-img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
+	<noscript>
+    <img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
+  </noscript>
+	</amp-img></figure></div>
 
   {{ content | markdownify | amp_images }}
 </div>
