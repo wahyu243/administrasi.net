@@ -170,7 +170,22 @@ html, body {
 	{% include share.html %}
 
 	</article>
-	
+	<div class="alertbar no-print">
+    <div class="container">
+        <div class="row prevnextlinks small font-weight-bold">
+          
+            <div class="col-md-6 rightborder pl-0"> {% if page.previous.url %}
+                <a class="text-dark" href="{{ site.url }}{{ page.previous.url }}" title="{{page.previous.title}}"> {{page.previous.title}}</a>
+           {% endif %} </div>
+          
+          
+            <div class="col-md-6 text-right pr-0">{% if page.next.url %}
+                <a class="text-dark" href="{{ site.url }}{{ page.next.url }}" title="{{page.next.title}}"> {{page.next.title}} </a>
+          {% endif %}  </div>
+          
+        </div>
+    </div>
+</div>
 	
 	</main>
 </body>
