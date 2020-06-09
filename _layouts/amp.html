@@ -236,26 +236,19 @@ button.ap-o-header-main-link.ap-m-nav-link {
 </div>
 	<div class="entry-content">
     <div class="share-links  share-centered">
-        <div class="share-title">
-            
-            <span> Share</span>
+        <div class="share-title">         
+        <span> Share</span>
         </div>
         <div class="share-btn">
         <a href="https://facebook.com/sharer.php?u={{ site.url | replace: "amp",""}}{{ page.url | replace: "amp",""}}" rel="nofollow" target="_blank" title="Share on Facebook"  class="facebook-share-btn large-share-button"> 
 		<span class="social-text">Facebook</span></a>
-
-        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url | replace: "amp",""}}{{ page.url }}&via=bootyocean18" rel="nofollow" target="_blank" title="Share on Twitter"  class="twitter-share-btn large-share-button"> <span class="social-text">Twitter</span></a>
-
-        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.summary }}&source={{ site.url }}" rel="nofollow" target="_blank" title="Share On LinkedIn" class="linkedin-share-btn">
-		<span class="social-text">Li</span></a>
-
-         <a href="https://wa.me/?text={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share On Whatsapp"  class="whatsapp-share-btn">
-		 <span class="social-text">Wa</span></a>
-
-            
-        <a href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ page.url }}" rel="external" target="_blank" class="email-share-btn">
+        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url | replace: "amp",""}}&via=bootyocean18" rel="nofollow" target="_blank" title="Share on Twitter"  class="twitter-share-btn large-share-button"> <span class="social-text">Twitter</span></a>
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url | replace: "amp",""| replace: "amp",""}}&title={{ page.title }}&summary={{ page.summary }}&source={{ site.url }}" rel="nofollow" target="_blank" title="Share On LinkedIn" class="linkedin-share-btn">
+		<span class="social-text">L</span></a>
+         <a href="https://wa.me/?text={{ site.url }}{{ page.url | replace: "amp",""}}" rel="nofollow" target="_blank" title="Share On Whatsapp"  class="whatsapp-share-btn">
+		 <span class="social-text">W</span></a>          
+        <a href="mailto:?subject={{ page.title }}&amp;body={{ site.url }}{{ page.url | replace: "amp",""}}" rel="external" target="_blank" class="email-share-btn">
 		<span class="social-text">@</span></a>
-
     </div>
         </div>
 </div>
