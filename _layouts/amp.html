@@ -131,18 +131,15 @@ button.ap-o-header-main-link.ap-m-nav-link {
   </head>
   <body>
 <header class="ap--header " data-amp-bind-class="'ap--header  ' + (mainmenuopen ? 'mainmenuopen' : '')">
-
   <div class="ap-o-header">
     <a class="ap-o-header-home" href="{{site.url}}">
       <amp-img width="220"
   height="30" class="ap-o-header-home-logo" src="https://administrasi.net/svg/min/logo.svg"></amp-img>
       <span class="ap-o-header-home-title">{{site.title}}</span>
     </a>
-
     <nav class="ap-o-header-main">
-<div class="ap-o-header-main-item">
-        <button class="ap-o-header-main-link ap-m-nav-link "><div role="button" tabindex="0" class="hamburger"><div class="menus"></div><div class="menus"></div><div class="menus"></div></div> </button>
-
+	    <div class="ap-o-header-main-item">
+		    <button class="ap-o-header-main-link ap-m-nav-link "><div role="button" tabindex="0" class="hamburger"><div class="menus"></div><div class="menus"></div><div class="menus"></div></div> </button>
         <ul class="ap-o-header-flyout">
           <li class="ap-o-header-flyout-item-secondary">
             <a class="ap-o-header-flyout-item-title secondary" href="https://administrasi.net/adm">Administrasi</a>
@@ -177,31 +174,28 @@ button.ap-o-header-main-link.ap-m-nav-link {
     
     <main id="primary" class="ap--main ap-t-custom-content site-main">
 		
-<article id="post-3310" class="entry ap--content post-3310 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-  
+<article id="post-3310" class="entry ap--content">
   <header class="entry-header">
-	<div class="entry-meta">
-			<span class="posted-on">
-			<a href="{{ site.url }}{{ page.url }}" rel="bookmark"><time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time></a>		</span>
-		</div><!-- .entry-meta -->
-
+    <div class="entry-meta">
+	<span class="posted-on">
+	<a href="{{ site.url }}{{ page.url }}" rel="bookmark"><time class="entry-date published updated" datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time></a>		</span>
+	</div><!-- .entry-meta -->
 	<h1 class="entry-title">{{ page.title | strip_html }}</h1>
 	<div class="entry-taxonomies">
-			<span class="category-links term-links">
-			<a class="ap-m-filter-bubble" href="/{{ page.category }}" rel="category tag">{{ page.category | capitalize }}</a>		</span>
-		</div><!-- .entry-taxonomies -->
+	<span class="category-links term-links">
+	<a class="ap-m-filter-bubble" href="/{{ page.category }}" rel="category tag">{{ page.category | capitalize }}</a>		</span>
+  </div><!-- .entry-taxonomies -->
 </header>
   
 <div class="entry-content">
-	
+<amp-img src="https://administrasi.net/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
+<noscript>
+<img src="https://administrasi.net/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
+</noscript>
+</amp-img>
 
-	<amp-img src="https://administrasi.net/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
-	<noscript>
-    <img src="https://administrasi.net/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
-  </noscript>
-	</amp-img>
-	<div class="entry-content">{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}</div>
-	<div class="entry-content">
+<div class="entry-content">{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}</div>
+<div class="entry-content">
 <amp-ad width="100vw" height="320"
      type="adsense"
      data-ad-client="ca-pub-5849615914567319"
@@ -210,7 +204,9 @@ button.ap-o-header-main-link.ap-m-nav-link {
      data-full-width="">
   <div overflow=""></div>
 </amp-ad></div>
-  {{ content | markdownify | amp_images }}
+<div class="entry-content">
+{{ content | markdownify | amp_images }}
+<div>
 <div class="entry-content">
 <amp-ad width="100vw" height="320"
      type="adsense"
@@ -220,8 +216,8 @@ button.ap-o-header-main-link.ap-m-nav-link {
      data-full-width="">
   <div overflow=""></div>
 </amp-ad>
-</div></div>
-	<div class="entry-content">
+</div>
+<div class="entry-content">
 <div class="card-body pb-0"><h4 class="text">Lihat {{page.category}} lainnya</h4></div>  
 <ol class="arti">
   {% assign maxRelated = 10 %}
