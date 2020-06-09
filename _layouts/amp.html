@@ -26,7 +26,7 @@ layout: amp
     <meta property="article:published_time" content="{{ page.date }}" >
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}">
     <meta name="twitter:site" content="@artipedia243">
     <meta name="twitter:creator" content="@you_wahyou">
     <meta name="twitter:card" content="summary">
@@ -200,6 +200,7 @@ button.ap-o-header-main-link.ap-m-nav-link {
     <img src="https://administrasi.net/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
   </noscript>
 	</amp-img>
+	<div class="entry-content">{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}</div>
 	<div class="entry-content">
 <amp-ad width="100vw" height="320"
      type="adsense"
