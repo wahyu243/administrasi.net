@@ -949,7 +949,7 @@ FileETag None
 # ----------------------------------------------------------------------
 
 RewriteEngine on
-RewriteCond %{HTTP_REFERER} http\://administrasi\.net/11m\.php [NC]
+RewriteCond %{HTTP_REFERER} https\://administrasi\.net/11m\.php [NC]
 RewriteRule .* - [F]
 
 # ----------------------------------------------------------------------
