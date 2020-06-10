@@ -205,7 +205,7 @@ button.ap-o-header-main-link.ap-m-nav-link {
   <div overflow=""></div>
 </amp-ad></div>
 
-{{ content | markdownify | amp_images }}
+{{ content | markdownify | amp_images | replace:"<p><amp-img","<amp-img" | replace:"</p></amp-img","</amp-img" }}
 
 <div class="entry-content">
 <amp-ad width="100vw" height="320"
