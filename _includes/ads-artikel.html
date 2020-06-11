@@ -1,7 +1,11 @@
+{% if page.layout == 'amp' %}
+  <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">
+{% else %}
 <ins class="adsbygoogle "
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-5849615914567319"
      data-ad-slot="9268082792"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+{% endif %}
 <hr class="my-2">
 
