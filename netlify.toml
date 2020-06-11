@@ -10,6 +10,3 @@
   [plugins.inputs]
       exclude = ['/admin', '/404.html']
 
-[[plugins]]
-package = "netlify-plugin-amp-server-side-rendering"
-      
