@@ -227,15 +227,17 @@ button.ap-o-header-main-link.ap-m-nav-link {
 </header>
   
 <div class="entry-content">
-	<div class="fixed-container">
+<div class="fixed-container">
 <amp-img class="img-feat contain" src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
 <noscript>
 <img  class="img-feat contain"  src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
 </noscript>
 </amp-img>
-</div></div>
-<div class="entry-content">{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}</div>
+</div>
+</div>
 <div class="entry-content">
+	<div class="container">{% if page.description %}{{ page.description}}{% else %}{{ page.excerpt }}{% endif %}</div></div>
+<div class="entry-content"><div class="container">
 <amp-ad width="100vw" height="320"
      type="adsense"
      data-ad-client="ca-pub-5849615914567319"
@@ -243,11 +245,11 @@ button.ap-o-header-main-link.ap-m-nav-link {
      data-auto-format="rspv"
      data-full-width="">
   <div overflow=""></div>
-</amp-ad></div>
-
+	</amp-ad></div></div>
+<div class="entry-content"><div class="container">
 {{ content | markdownify | amp_images | replace:"<p><amp-img","<amp-img" | replace:"</p></amp-img","</amp-img"}}
-
-<div class="entry-content">
+	</div></div>
+<div class="entry-content"><div class="container">
 <amp-ad width="100vw" height="320"
      type="adsense"
      data-ad-client="ca-pub-5849615914567319"
@@ -256,11 +258,11 @@ button.ap-o-header-main-link.ap-m-nav-link {
      data-full-width="">
   <div overflow=""></div>
 </amp-ad>
-</div>
+	</div></div>
 
 
 
-<div class="entry-content">
+<div class="entry-content"><div class="container">
 <div class="card-body pb-0"><h4 class="text">Lihat {{page.category}} lainnya</h4></div>  
 <ol class="arti">
   {% assign maxRelated = 10 %}
@@ -287,7 +289,7 @@ button.ap-o-header-main-link.ap-m-nav-link {
     {% endif %}
   {% endfor %}
   </ol>
-</div>
+	</div></div>
 	<div class="entry-content">
     <div class="share-links  share-centered">
         <div class="share-title">         
