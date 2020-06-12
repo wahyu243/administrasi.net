@@ -122,7 +122,8 @@ button.ap-o-header-main-link.ap-m-nav-link {
 }
 	  .share{text-align:right;padding:20px 0 0}.share a{text-decoration:none;color:#bbb;padding-left:12px}.share a .hidden{display:none}.share a:hover{color:#333}
 	  .share-links{overflow:hidden}.share-links .fa{font-size:15px}.share-links a{display:inline-block;padding-left:0;margin:2px;height:40px;overflow:hidden;color:#fff;background:#444;position:relative;border-radius:2px;width:40px}.share-links a.large-share-button{width:auto}.share-links a .fa{width:40px;height:40px;float:left;display:block;text-align:center;line-height:40px}.share-links a .social-text{border:0 solid rgba(255,255,255,.3);border-left-width:1px;padding-left:15px;height:20px;float:left;margin-top:10px;padding-right:25px;font-size:12px;line-height:20px;font-family:open sans,sans-serif}.share-links a:hover{opacity:.8;color:#fff}.share-links .equal-width{width:1%;display:table-cell;margin:0;border-radius:0}.share-links .equal-width .fa{display:inline-block;float:none;width:100%}.share-centered{text-align:center;position:relative}.share-title{padding-right:15px;display:inline-block;float:left;line-height:40px;font-size:12px;margin:2px 0}.share-title .fa{margin-right:5px;font-size:14px}.icons-text .share-title{line-height:30px}.icons-text .large-share-button{height:30px}.icons-text .large-share-button .social-text{padding-left:6px;padding-right:8px;height:20px;margin-top:5px;line-height:20px;font-size:10px}.icons-text .large-share-button .fa{width:30px;height:30px;line-height:30px}.share-links a.facebook-share-btn{background:#5d82d1}.share-links a.twitter-share-btn{background:#40bff5}.share-links a.google-share-btn{background:#eb5e4c}.share-links a.linkedin-share-btn{background:#238cc8}.share-links a.pinterest-share-btn{background:#e13138}.share-links a.reddit-share-btn{background:#ff4500}.share-links a.stumbleupon-share-btn{background:#eb4924}.share-links a.tumblr-share-btn{background:#35465c}.share-links a.vk-share-btn{background:#45668e}.share-links a.odnoklassniki-share-btn{background:#ee8208}.share-links a.pocket-share-btn{background:#ef4056}.share-links a.whatsapp-share-btn{background:#43d854}.share-links a.telegram-share-btn{background:#08c}.share-links a.viber-share-btn{background:#773ead}.share-links a.email-share-btn{background:#333}
-	  </style>
+	    .img-feat{width:100%;height:auto} 
+	  #markdown-toc{border:1px solid #e1eeef;padding:1.5em;list-style:decimal;display:inline-block;background:#eee;text-align:left;min-width:250px}#markdown-toc::before{content:"Daftar isi";font-weight:700;display:block;clear:both;margin:0 0 15px 0;text-align:center;border-bottom:1px solid #fff}#markdown-toc ul{list-style:lower-latin;padding:0 0 0 15px}#markdown-toc a{color:#555;text-decoration:none}#markdown-toc a:hover{color:#f90}</style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
    
  
@@ -224,9 +225,9 @@ button.ap-o-header-main-link.ap-m-nav-link {
 </header>
   
 <div class="entry-content">
-<amp-img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
+<amp-img class="img-feat" src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" alt="{{ page.title | strip_html }}" width="500" height="400" layout="responsive">
 <noscript>
-<img src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
+<img  class="img-feat"  src="/img/{{ page.image | replace: '/img/','' | img_url: 'x450', crop: 'bottom' }}" width="475" height="268" alt="AMP">
 </noscript>
 </amp-img>
 
