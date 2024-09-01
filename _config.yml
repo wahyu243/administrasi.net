@@ -3,7 +3,7 @@ name: Administrasi.Net
 title: Administrasi.Net | Portal Informasi Informatif
 description: "Administrasi.net menyajikan berbagai informasi informatif tentang pendidikan, dokumen, rpp, buku, tutorial, berita, dll."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://administrasi.net" # the name of your domain
+url: "https://wahyu243.github.io/administrasi.net/" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
